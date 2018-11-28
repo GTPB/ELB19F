@@ -18,24 +18,30 @@ This course is intended for those wishing to investigate how they might begin to
 ## Detailed Program
 
 ### Day 1
-Small introduction of what is Bioinformatics and Genome Databases.
-#### [Bioinformatics Definition](assets/000-Bioinformatics_Definition.pdf)
-#### [Databases and Tools](assets/01-Databases_Practical.pdf)
+[**1**: Small introduction of what is Bioinformatics](assets/000-Bioinformatics_Definition.pdf)
+[**2**: Genome Databases and Tools](assets/01-Databases_Practical.pdf)
 
 ### Day 2
-Graphical and Textual Pairwise ALignments and Databases Searching Methods (primarly blast).
-#### [Pairwise Alignment](assets/02-Pairwise_Alignment_Practical.pdf)
-#### [Databases Searching](assets/03-Database_Searching_Practical.pdf)
+[**3**: Graphical and Textual Pairwise ALignments](assets/02-Pairwise_Alignment_Practical.pdf)
+[**4**: Databases Searching Methods (primarly blast)](assets/03-Database_Searching_Practical.pdf)
 
 ### Day 3
-Primer design.       
-Simple Protein Sequence Analysis, Secondary Structure Prediction and Protein Domain/Motifs Databases.    
-Multiple Sequence Alignments.
-#### [Primer Design](assets/04-Primer_Design_Practical.pdf)
-#### [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
-#### [Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
+[**5**: Primer Design](assets/04-Primer_Design_Practical.pdf)
+[**6**: Simple Protein Sequence Analysis, Secondary Structure Prediction and Protein Domain/Motifs Databases](assets/05-Structure_Prediction_Practical.pdf)
+[**7**: Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
+[**1**: Broadly describe the High Throughput Sequencing Workflow](#LO1)
+
+[**2**: Interpret and Manipulate raw sequencing data](#LO2)
+  + [**2.1**: The FastQ file format](#LO2.1)
+  + [**2.2**: Use FastQC to analyse the quality of data in a fastq file](#LO2.2)
+  + [**2.3**: Use Trimmomatic to improve the quality of data in a fastq file](#LO2.3)
+
+[**3**: Align HTS data against a genome](#LO3)
+  + [**3.1**: Use the BWA aligner to align HTS data against a genome](#LO3.1)
+  + [**3.2**: The SAM/BAM alignment format](#LO3.2)
+
 ---
 
 ### Learning objectives
