@@ -22,7 +22,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 ### Day 2
 #### [Databases Searching](assets/03-Database_Searching_Practical.pdf)
-#### [Priner Design](assets/04-Primer_Design_Practical.pdf)
+#### [Primer Design](assets/04-Primer_Design_Practical.pdf)
 
 ### Day 3
 #### [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
