@@ -51,12 +51,12 @@ This course is intended for those wishing to investigate how they might begin to
   + [**11.1**: Use Qualimap to assess quality of alignments](pages/L11.md/#L11.1)
   + [**11.2**: Use IGV to visualize the content of a BAM file](pages/L11.md/#L11.2)
 
-[**12**: Broadly describe different HTS applications](#LO5)
-  + [**12.1**: Variant detection in resequencing experiments](#LO5.1)
-  + [**12.2**: Denovo genome assembly and annotation](#LO5.2)
-  + [**12.3**: Transcriptomics using RNA-Seq](#LO5.3)
-  + [**12.4**: 16S Metagenomics](#LO5.4)
-  + [**12.5**: Epigenetics](#LO5.5)
+[**12**: Broadly describe different HTS applications](pages/L12.md)
+  + [**12.1**: Variant detection in resequencing experiments](pages/L12.md/#L12.1)
+  + [**12.2**: Denovo genome assembly and annotation](pages/L12.md/#L12.2)
+  + [**12.3**: Transcriptomics using RNA-Seq](pages/L12.md/#L12.3)
+  + [**12.4**: 16S Metagenomics](pages/L12.md/#L12.4)
+  + [**12.5**: Epigenetics](pages/L12.md/#L12.5)
 
 ---
 
