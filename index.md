@@ -17,7 +17,18 @@ This course is intended for those wishing to investigate how they might begin to
 
 ## Detailed Program
 ### Day 1
+#### [Databases and Tools](assets/01-Databases_Practical.pdf)
+#### [Pairwise Alignment](assets/02-Pairwise_Alignment_Practical.pdf)
 
+### Day 2
+#### [Databases Searching](assets/03-Database_Searching_Practical.pdf)
+#### [Primer Design](assets/04-Primer_Design_Practical.pdf)
+
+### Day 3
+#### [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
+#### [Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
+
+### Day 4
 ---
 
 ### Learning objectives
