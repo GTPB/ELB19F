@@ -16,17 +16,22 @@ This course will also provide a soft introduction to Next Generation Sequencing 
 This course is intended for those wishing to investigate how they might begin to exploit the ever expanding abundance of computing and data resources for researchers seeking help in using them. 
 
 ## Detailed Program
+
 ### Day 1
-#### [Databases and Tools](assets/01-Databases_Practical.pdf)
-#### [Pairwise Alignment](assets/02-Pairwise_Alignment_Practical.pdf)
+Small introduction of what is Bioinformatics and Genome Databases.
+#### [Bioinformatics Definition](assets/000-Bioinformatics_Definition.pdf)
+#### Pratical 1: [Databases and Tools](assets/01-Databases_Practical.pdf)
 
 ### Day 2
-#### [Databases Searching](assets/03-Database_Searching_Practical.pdf)
-#### [Primer Design](assets/04-Primer_Design_Practical.pdf)
+Graphical and Textual Pairwise ALignments and Databases Searching Methods (primarly blast).
+#### Pratical 2: [Pairwise Alignment](assets/02-Pairwise_Alignment_Practical.pdf)
+#### Pratical 3: [Databases Searching](assets/03-Database_Searching_Practical.pdf)
 
 ### Day 3
-#### [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
-#### [Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
+Primer design, Simple Protein Sequence Analysis, Secondary Structure Prediction, Protein Domain/Motifs Databases and Multiple Sequence Alignments
+#### Pratical 4: [Primer Design](assets/04-Primer_Design_Practical.pdf)
+#### Pratical 5: [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
+#### Pratical 6: [Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
 ---
