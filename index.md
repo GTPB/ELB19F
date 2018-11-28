@@ -19,15 +19,19 @@ This course is intended for those wishing to investigate how they might begin to
 
 ### Day 1
 [**1**: Small introduction of what is Bioinformatics](assets/000-Bioinformatics_Definition.pdf)
+
 [**2**: Genome Databases and Tools](assets/01-Databases_Practical.pdf)
 
 ### Day 2
 [**3**: Graphical and Textual Pairwise ALignments](assets/02-Pairwise_Alignment_Practical.pdf)
+
 [**4**: Databases Searching Methods (primarly blast)](assets/03-Database_Searching_Practical.pdf)
 
 ### Day 3
 [**5**: Primer Design](assets/04-Primer_Design_Practical.pdf)
+
 [**6**: Simple Protein Sequence Analysis, Secondary Structure Prediction and Protein Domain/Motifs Databases](assets/05-Structure_Prediction_Practical.pdf)
+
 [**7**: Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
