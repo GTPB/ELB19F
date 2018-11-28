@@ -28,8 +28,7 @@ Graphical and Textual Pairwise ALignments and Databases Searching Methods (prima
 #### [Databases Searching](assets/03-Database_Searching_Practical.pdf)
 
 ### Day 3
-Primer design. 
-
+Primers design. 
 Simple Protein Sequence Analysis, Secondary Structure Prediction and Protein Domain/Motifs Databases.
 Multiple Sequence Alignments.
 #### [Primer Design](assets/04-Primer_Design_Practical.pdf)
