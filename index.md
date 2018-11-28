@@ -60,7 +60,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 ---
 
-### Learning objectives
+### Learning objectives(pages/learning_objectives.md)
 
 
 ### Instructors
