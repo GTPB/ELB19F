@@ -42,9 +42,9 @@ This course is intended for those wishing to investigate how they might begin to
   + [**9.2**: Use FastQC to analyse the quality of data in a fastq file](pages/L09.md/#LO9.2)
   + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md/#LO9.3)
 
-[**10**: Align HTS data against a genome]
-  + [**10.1**: Use the BWA aligner to align HTS data against a genome]
-  + [**10.2**: The SAM/BAM alignment format]
+[**10**: Align HTS data against a genome](pages/L10.md)
+  + [**10.1**: Use the BWA aligner to align HTS data against a genome](pages/L10.md/#L10.1)
+  + [**10.2**: The SAM/BAM alignment format](pages/L10.md/#L10.2)
 
 ### Day 5
 [**11**: Visualize alignments](#LO4)
