@@ -26,7 +26,9 @@ This course is intended for those wishing to investigate how they might begin to
 
 ### Day 3
 #### [Structure Prediction](assets/05-Structure_Prediction_Practical.pdf)
-#### [Multiple Sequence Alignment](
+#### [Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
+
+### Day 4
 ---
 
 ### Learning objectives
