@@ -35,16 +35,28 @@ This course is intended for those wishing to investigate how they might begin to
 [**7**: Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
-[**1**: Broadly describe the High Throughput Sequencing Workflow](#LO1)
+[**8**: Broadly describe the High Throughput Sequencing Workflow]
 
-[**2**: Interpret and Manipulate raw sequencing data](#LO2)
-  + [**2.1**: The FastQ file format](#LO2.1)
-  + [**2.2**: Use FastQC to analyse the quality of data in a fastq file](#LO2.2)
-  + [**2.3**: Use Trimmomatic to improve the quality of data in a fastq file](#LO2.3)
+[**9**: Interpret and Manipulate raw sequencing data]
+  + [**9.1**: The FastQ file format]
+  + [**9.2**: Use FastQC to analyse the quality of data in a fastq file]
+  + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file]
 
-[**3**: Align HTS data against a genome](#LO3)
-  + [**3.1**: Use the BWA aligner to align HTS data against a genome](#LO3.1)
-  + [**3.2**: The SAM/BAM alignment format](#LO3.2)
+[**10**: Align HTS data against a genome]
+  + [**10.1**: Use the BWA aligner to align HTS data against a genome]
+  + [**10.2**: The SAM/BAM alignment format]
+
+### Day 5
+[**11**: Visualize alignments](#LO4)
+  + [**11.1**: Use Qualimap to assess quality of alignments](#LO4.1)  
+  + [**11.2**:Use IGV to visualize the content of a BAM file](#LO4.2)
+
+[**12**: Broadly describe different HTS applications](#LO5)
+  + [**12.1**: Variant detection in resequencing experiments](#LO5.1)
+  + [**12.2**: Denovo genome assembly and annotation](#LO5.2)
+  + [**12.3**: Transcriptomics using RNA-Seq](#LO5.3)
+  + [**12.4**: 16S Metagenomics](#LO5.4)
+  + [**12.5**: Epigenetics](#LO5.5)
 
 ---
 
