@@ -47,9 +47,9 @@ This course is intended for those wishing to investigate how they might begin to
   + [**10.2**: The SAM/BAM alignment format](pages/L10.md/#L10.2)
 
 ### Day 5
-[**11**: Visualize alignments](#LO4)
-  + [**11.1**: Use Qualimap to assess quality of alignments](#LO4.1)  
-  + [**11.2**:Use IGV to visualize the content of a BAM file](#LO4.2)
+[**11**: Visualize alignments](pages/L11.md)
+  + [**11.1**: Use Qualimap to assess quality of alignments](pages/L11.md/#L11.1)
+  + [**11.2**:Use IGV to visualize the content of a BAM file](pages/L11.md/#L11.2)
 
 [**12**: Broadly describe different HTS applications](#LO5)
   + [**12.1**: Variant detection in resequencing experiments](#LO5.1)
