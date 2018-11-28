@@ -37,8 +37,8 @@ This course is intended for those wishing to investigate how they might begin to
 ### Day 4
 [**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.md)
 
-[**9**: Interpret and Manipulate raw sequencing data]
-  + [**9.1**: The FastQ file format]
+[**9**: Interpret and Manipulate raw sequencing data](pages/L09.md)
+  + [**9.1**: The FastQ file format](pages/L08.md/#9.1)
   + [**9.2**: Use FastQC to analyse the quality of data in a fastq file]
   + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file]
 
