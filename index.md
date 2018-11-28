@@ -38,9 +38,9 @@ This course is intended for those wishing to investigate how they might begin to
 [**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.md)
 
 [**9**: Interpret and Manipulate raw sequencing data](pages/L09.md)
-  + [**9.1**: The FastQ file format](pages/L09.md#9.1)
+  + [**9.1**: The FastQ file format](pages/L09.md#LO9.1)
   + [**9.2**: Use FastQC to analyse the quality of data in a fastq file](pages/L09.md#L09.2)
-  + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md#9.3)
+  + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md#LO9.3)
 
 [**10**: Align HTS data against a genome]
   + [**10.1**: Use the BWA aligner to align HTS data against a genome]
