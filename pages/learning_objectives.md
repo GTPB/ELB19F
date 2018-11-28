@@ -1,3 +1,9 @@
+---
+layout: page
+title: ELB18S
+tagline: Learning Objectives
+---
+
 ## Learning Objectives
 
 The operation of the various programs used in the exercises will be explained, but only to the extent that allows a user to select parameters intelligently and to interpret results.
