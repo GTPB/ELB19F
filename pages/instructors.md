@@ -11,3 +11,9 @@ description: CPANG18 Course instructors description
 
 **Affiliation:** Freelance independent Bioinformatics instructor.
 Former manager of Bioinformatics Training, University of Cambridge, Cambridge, UK 
+
+<br/>
+
+### Back
+
+Back to [first page](https://gtpb.github.io/COURSE/).
