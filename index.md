@@ -35,7 +35,7 @@ This course is intended for those wishing to investigate how they might begin to
 [**7**: Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
-[**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.html)
+[**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.md)
 
 [**9**: Interpret and Manipulate raw sequencing data]
   + [**9.1**: The FastQ file format]
