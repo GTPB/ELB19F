@@ -1,6 +1,6 @@
 ## ELBS18 Entry level Bioinformatics (Second course in 2018)
 
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 23rd - November 27th 2018
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 23<sup>rd</sup> - November 27<sup>th</sup> 2018
 
 ---
 
