@@ -8,13 +8,8 @@ description: CPANG18 Course instructors description
 
 <table style="width:100%">
   <tr>
-      <th>David P. Judge</th>
-      <th>Description</th>
-  </tr>
-  
-  <tr>
       <td width="30%">
-          <img src="https://github.com/maccardoso/Test/blob/master/assets/David_Judge.jpg"> 
+          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg"> 
   </td>
       <td>
 
@@ -34,7 +29,7 @@ description: CPANG18 Course instructors description
   
   <tr>
       <td width="30%">
-          <img src="https://github.com/maccardoso/Test/blob/master/assets/Pedro F.jpg" height=300> 
+          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro F.jpg" height=300> 
   </td>
       <td>
   
