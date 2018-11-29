@@ -10,7 +10,7 @@ description: CPANG18 Course instructors description
   <tr>
     <tr>
       <td width="30%">
-          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg"> 
+          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg" height=300 width=250> 
   </td>
       <td>
         <p align="justify"
@@ -27,7 +27,7 @@ description: CPANG18 Course instructors description
   <tr>
     <tr>
       <td width="30%">
-          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro F.jpg" height=300> 
+          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro F.jpg" height=300 width=250> 
   </td>
       <td>
         <p align="justify"
@@ -45,7 +45,7 @@ description: CPANG18 Course instructors description
   <tr>
     <tr>
       <td width="30%">
-          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height=300> 
+          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height=300 width=250> 
    </td>
       <td>
         <p align="justify"
