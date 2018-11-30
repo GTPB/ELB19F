@@ -15,7 +15,11 @@ author :
   github : github.com/GTPB
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
+<<<<<<< HEAD
 production_url : https://gtpb.github.io/ELB18S
+=======
+production_url : https://gtpb.github.io/Web_course_template
+>>>>>>> dbea3b5ae557b2bd8cb68cec9608c5da34e73e97
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -50,7 +54,11 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
+<<<<<<< HEAD
   BASE_PATH : https://gtpb.github.io/ELB18S
+=======
+  BASE_PATH : https://gtpb.github.io/Web_course_template
+>>>>>>> dbea3b5ae557b2bd8cb68cec9608c5da34e73e97
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
