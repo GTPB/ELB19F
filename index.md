@@ -35,35 +35,35 @@ This course is intended for those wishing to investigate how they might begin to
 [**7**: Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
 ### Day 4
-[**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.md)
+[**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.html)
 
-[**9**: Interpret and Manipulate raw sequencing data](pages/L09.md)
-  + [**9.1**: The FastQ file format](pages/L09.md/#LO9.1)
-  + [**9.2**: Use FastQC to analyse the quality of data in a fastq file](pages/L09.md/#LO9.2)
-  + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md/#LO9.3)
+[**9**: Interpret and Manipulate raw sequencing data](pages/L09.html)
+  + [**9.1**: The FastQ file format](pages/L09.html/#LO9.1)
+  + [**9.2**: Use FastQC to analyse the quality of data in a fastq file](pages/L09.html/#LO9.2)
+  + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.html/#LO9.3)
 
-[**10**: Align HTS data against a genome](pages/L10.md)
-  + [**10.1**: Use the BWA aligner to align HTS data against a genome](pages/L10.md/#L10.1)
-  + [**10.2**: The SAM/BAM alignment format](pages/L10.md/#L10.2)
+[**10**: Align HTS data against a genome](pages/L10.html)
+  + [**10.1**: Use the BWA aligner to align HTS data against a genome](pages/L10.html/#L10.1)
+  + [**10.2**: The SAM/BAM alignment format](pages/L10.html/#L10.2)
 
 ### Day 5
-[**11**: Visualize alignments](pages/L11.md)
-  + [**11.1**: Use Qualimap to assess quality of alignments](pages/L11.md/#L11.1)
-  + [**11.2**: Use IGV to visualize the content of a BAM file](pages/L11.md/#L11.2)
+[**11**: Visualize alignments](pages/L11.html)
+  + [**11.1**: Use Qualimap to assess quality of alignments](pages/L11.html/#L11.1)
+  + [**11.2**: Use IGV to visualize the content of a BAM file](pages/L11.html/#L11.2)
 
-[**12**: Broadly describe different HTS applications](pages/L12.md)
-  + [**12.1**: Variant detection in resequencing experiments](pages/L12.md/#L12.1)
-  + [**12.2**: Denovo genome assembly and annotation](pages/L12.md/#L12.2)
-  + [**12.3**: Transcriptomics using RNA-Seq](pages/L12.md/#L12.3)
-  + [**12.4**: 16S Metagenomics](pages/L12.md/#L12.4)
-  + [**12.5**: Epigenetics](pages/L12.md/#L12.5)
+[**12**: Broadly describe different HTS applications](pages/L12.html)
+  + [**12.1**: Variant detection in resequencing experiments](pages/L12.html/#L12.1)
+  + [**12.2**: Denovo genome assembly and annotation](pages/L12.html/#L12.2)
+  + [**12.3**: Transcriptomics using RNA-Seq](pages/L12.html/#L12.3)
+  + [**12.4**: 16S Metagenomics](pages/L12.html/#L12.4)
+  + [**12.5**: Epigenetics](pages/L12.html/#L12.5)
 
 ---
 
-### [Learning objectives](pages/learning_objectives.md)
+### [Learning objectives](pages/learning_objectives.html)
 
 
-### [Instructors](pages/instructors.md)
+### [Instructors](pages/instructors.html)
 ---
 
 The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
