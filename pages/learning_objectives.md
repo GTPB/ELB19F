@@ -13,6 +13,7 @@ The course will provide participants with an awareness of a wide range of bioinf
 In the training course design, this is intentionally built-in, to allow us to show a wide range of analytical techniques while providing enough experience to break the ice in all of them.
 <br/>
 
+
 ### Back
 
 Back to [first page](https://gtpb.github.io/COURSE/).
