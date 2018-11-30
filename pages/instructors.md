@@ -19,7 +19,6 @@ His course notes and exercises are well known to the international community of 
 ## Pedro Fernandes
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-
   <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro_F.jpg" height=230 width=180 align="left"> 
 
 **Pedro Fernandes** graduated in Electronics and Telecommunications Engineering at IST (U.T. Lisboa). He worked in Biomedical Engineering, Biophysics and Physiology and changed to Bioinformatics in 1990. 
@@ -33,19 +32,10 @@ Pedro Fernandes is the Training Coordinator of Elixir-PT, now superimposed with 
 ## Daniel Sobral
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-<table style="width:100%">
-  <tr>
-    <tr>
-      <td width="30%">
-          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height=300 width=250> 
-   </td>
-      <td>
-        <p align="justify"
+   <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height=230 width=170 align="left"> 
 
 **Daniel Sobral** graduated in Informatics Engineering from Instituto Superior Técnico (Lisbon, Portugal). His interest in Biology led him to join the Gulbenkian PhD programme, and conduct his doctoral studies in Bioinformatics at the Université Aix-Marseille (France) with Dr. Patrick Lemaire. During his PhD he worked in different aspects of bioinformatics, particularly focusing on gene expression networks underlying embryonic development of a model organism, all of this integrated into a community resource. Later he became a Developer for the Ensembl Project where he worked mostly in integrating epigenetic data from the ENCODE project in Ensembl. In this context he gained significant experience with high throuthput sequencing data. In 2012 he moved back to Portugal, where he joined the Bioinformatics Unit at the IGC to assist the local research community in handling the sequencing revolution brought about by high throughput technologies. Within this role he been collaborating in several projects, ranging from genomics, transcriptomics and epigenetics. He has become the Head of the Bioinformatics Unit at IGC since 2014. 
- </td>
-  </tr> 
-  </table>
+
 
 ### Back
 
