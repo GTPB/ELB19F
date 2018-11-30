@@ -14,6 +14,8 @@ He has also been involved with training programmes at the European Bioinformatic
 
 His course notes and exercises are well known to the international community of Bioinformatics professionals and users, many of whom (difficult to count) have had their first contact with Bioinformatics through him. David Judge helped to pioneer Bioinformatics Training at the IGC in 1989, as part of an MSc course. Since its inception in 1999, he has contributed to the GTPB several times per year.
 
+---
+
 
 ## Pedro Fernandes
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
