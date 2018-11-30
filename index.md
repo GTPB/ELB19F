@@ -38,7 +38,7 @@ This course is intended for those wishing to investigate how they might begin to
 [**8**: Broadly describe the High Throughput Sequencing Workflow](pages/L08.html)
 
 [**9**: Interpret and Manipulate raw sequencing data](pages/L09.html)
-  + [**9.1**: The FastQ file format]<a href="https://github.com/maccardoso/ELB18S/blob/master/pages/L09.html#LO9.1">blabla</a>
+  + [**9.1**: The FastQ file format]<a href="https://github.com/maccardoso/ELB18S/pages/L09.html#LO9.1"></a>
   + [**9.2**: Use FastQC to analyse the quality of data in a fastq file](pages/L09.html/#LO9.2)
   + [**9.3**: Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.html/#LO9.3)
 
