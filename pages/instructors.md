@@ -16,24 +16,19 @@ His course notes and exercises are well known to the international community of 
 
 ---
 
-
 ## Pedro Fernandes
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-<table style="width:100%">
-  <tr>
-    <tr>
-      <td width="30%">
-          <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro F.jpg" height=300 width=250> 
-  </td>
-      <td>
-        <p align="justify"
-  
-**Pedro Fernandes** graduated in Electronics and Telecommunications Engineering at IST (U.T. Lisboa). He worked in Biomedical Engineering, Biophysics and Physiology and changed to Bioinformatics in 1990. He established the first user community in Portugal around the national service provided by the IGC as the portuguese node of EMBnet. In 1998 he created the Gulbenkian Training Programme in Bioinformatics, that provided user skills to more than 5150 course attendees throughout its nineteen years of existance. In 2002, in cooperation with Mario Silva from FCUL, he designed a graduate Programme in Bioinformatics. He currently teaches Bioinformatics both in graduate and undergraduate programmes. Pedro Fernandes is the Training Coordinator of Elixir-PT, now superimposed with Biodata.PT, the national infrastructure for bio-medical data resources. He also represents IGC in GOBLET, the Global Organisation for Bioinformatics Learning, Education and Training.
- </td>
-  </tr> 
-  </table>
 
+  <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro_F.jpg" height=230 width=180 align="left"> 
+
+**Pedro Fernandes** graduated in Electronics and Telecommunications Engineering at IST (U.T. Lisboa). He worked in Biomedical Engineering, Biophysics and Physiology and changed to Bioinformatics in 1990. 
+
+He established the first user community in Portugal around the national service provided by the IGC as the portuguese node of EMBnet. In 1998 he created the Gulbenkian Training Programme in Bioinformatics, that provided user skills to more than 5150 course attendees throughout its nineteen years of existance. In 2002, in cooperation with Mario Silva from FCUL, he designed a graduate Programme in Bioinformatics. He currently teaches Bioinformatics both in graduate and undergraduate programmes. 
+
+Pedro Fernandes is the Training Coordinator of Elixir-PT, now superimposed with Biodata.PT, the national infrastructure for bio-medical data resources. He also represents IGC in GOBLET, the Global Organisation for Bioinformatics Learning, Education and Training.
+
+---
 
 ## Daniel Sobral
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
