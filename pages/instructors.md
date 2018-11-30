@@ -6,7 +6,7 @@ description: CPANG18 Course instructors description
 ## David P. Judge
 **Affiliation**: Freelance independent Bioinformatics instructor.<br/> Former manager of Bioinformatics Training, University of Cambridge, Cambridge, UK
 
-<img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg" height=250 width=200 align="left">
+<img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg" height=230 width=180 align="left">
 
 **David P. Judge** is a Computer Scientist who has taught Bioinformatics since 1985. He initiated the University of Cambridge Bioinformatics Training Facilty, providing the necessary environment for graduate and undergraduate courses.
 
