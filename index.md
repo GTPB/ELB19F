@@ -42,7 +42,7 @@ This course is intended for those wishing to investigate how they might begin to
 ### Day 3
 [**5 -** Primer Design](assets/04-Primer_Design_Practical.pdf)
 
-         Design a primer to amplify the DNA fragment that includes a specific portion for the gene(s) responsible of Aniridia 
+         Primer design for the gene(s) responsible of Aniridia 
 
 [**6 -** Protein Structure](assets/05-Structure_Prediction_Practical.pdf)
 
