@@ -20,18 +20,35 @@ This course is intended for those wishing to investigate how they might begin to
 
 ### Day 1
 [**1 -** Small introduction of what is Bioinformatics](assets/000-Bioinformatics_Definition.pdf)
+        
+         Discusison about the best aproach for the definition of Bioinformatics
 
 [**2 -** Genome Databases and Tools](assets/01-Databases_Practical.pdf)
+
+         Investigating the gene(s) associated with the disease Aniridia      
+</br>
 
 ### Day 2
 [**3 -** Graphical and Textual Pairwise ALignments](assets/02-Pairwise_Alignment_Practical.pdf)
 
+         Global vs. Sensitive Local Paiwise Sequence Comparison
+
 [**4 -** Databases Searching Methods (primarly blast)](assets/03-Database_Searching_Practical.pdf)
+
+         Database searching to determine gene strucure
+         Iterative database searching to discover and align sequence families (psi-blast & cobalt)
+</br> 
 
 ### Day 3
 [**5 -** Primer Design](assets/04-Primer_Design_Practical.pdf)
 
-[**6 -** Simple Protein Sequence Analysis, Secondary Structure Prediction and Protein Domain/Motifs Databases](assets/05-Structure_Prediction_Practical.pdf)
+         Design a primer to amplify the DNA fragment that includes a specific portion for the gene(s) responsible of Aniridia 
+
+[**6 -** Protein Structure](assets/05-Structure_Prediction_Practical.pdf)
+
+         Simple Protein Sequence Analysis
+         Secondary Structure Prediction
+         Protein Domain/Motifs Databases
 
 [**7 -** Multiple Sequence Alignment](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
