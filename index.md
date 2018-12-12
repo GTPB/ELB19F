@@ -14,14 +14,14 @@ Participants are asked to imagine an interest in the **disease aniridia**. Cours
 This course will also provide a **soft introduction to Next Generation Sequencing (NGS) data analysis**. This part of the course aims at providing basic skills that are needed when one needs to process NGS data, such as evaluating data quality, trimming sequences, changing data formats, visualising data, etc. Then, participants will learn how to address a simple transcriptomics problem, stepwise, using open source bioinformatics tools.
 
 ## Target Audience
-This course is intended for those wishing to investigate how they might begin to exploit the ever expanding abundance of computing and data resources for researchers seeking help in using them. 
+This course is intended for those wishing to investigate how they might begin to exploit the ever-expanding abundance of computing and data resources for researchers seeking help in using them. 
 
 ## Detailed Program
 
 ### Day 1
 **1 -** [**Small introduction of what is Bioinformatics**](assets/000-Bioinformatics_Definition.pdf)
         
-         Discusison about the best aproach for the definition of Bioinformatics
+         Discussion about the best approach for the definition of Bioinformatics
 
 **2 -** [**Genome Databases and Tools**](assets/01-Databases_Practical.pdf)
 
@@ -35,7 +35,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 **4 -** [**Databases Searching Methods (primarly blast)**](assets/03-Database_Searching_Practical.pdf)
 
-         Database searching to determine gene strucure
+         Database searching to determine gene structure
          Iterative database searching to discover and align sequence families (psi-blast & cobalt)
 </br> 
 
@@ -58,7 +58,7 @@ This course is intended for those wishing to investigate how they might begin to
 ### Day 4
 **8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.md)
 
-         Small introduction about the commmon steps in most high throughput sequencing workflows
+         Small introduction about the common steps in most high throughput sequencing workflows
          
 **9: Interpret and Manipulate raw sequencing data**
   + **9.1 -** [The FastQ file format](pages/L09.md/#LO9.1)
@@ -67,12 +67,12 @@ This course is intended for those wishing to investigate how they might begin to
                 
   + **9.2 -** [Use FastQC to analyse the quality of data in a fastq file](pages/L09.md/#LO9.2)
   
-               Detect low quality bases in the QC reports  
-               Detect sequence bias and possible presence of adaptors and other contaminants
+               Detect low-quality bases in the QC reports  
+               Detect sequence bias and the possible presence of adaptors and other contaminants
                
   + **9.3 -** [Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md/#LO9.3)
                
-               Use trimmomatic to filter/trim low quality bases from your reads
+               Use trimmomatic to filter/trim low-quality bases from your reads
                Remove adaptors (eg. illumina adaptors) from your reads
                Check results using FastQC on filtered data
                
@@ -84,14 +84,14 @@ This course is intended for those wishing to investigate how they might begin to
                          
   + **10.2 -** [The SAM/BAM alignment format**](pages/L10.md/#L10.2)
               
-              What is the SAM/BAM format, its contents and the differents between them
+              What is the SAM/BAM format, its contents and the differences between them
 </br>
 
 ### Day 5
 **11: Visualize alignments**
   + **11.1 -** [Use Qualimap to assess quality of alignments](pages/L11.md/#L11.1)
                 
-                Interpret general alignment statistics such as percentage of aligned reads
+                Interpret general alignment statistics such as the percentage of aligned reads
                 
   + **11.2 -** [Use IGV to visualize the content of a BAM file](pages/L11.md/#L11.2)
 </br>
@@ -105,7 +105,7 @@ This course is intended for those wishing to investigate how they might begin to
   
   + **12.2 -** [Denovo genome assembly and annotation](pages/L12.md/#L12.2)
   
-               How to obtain complete genome from the assembly of million of short reads
+               How to obtain complete genome from the assembly of millions of short reads
                Understand the different factors that can affect the genome assembly process
   
   + **12.3 -** [Transcriptomics using RNA-Seq](pages/L12.md/#L12.3)
