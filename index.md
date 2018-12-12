@@ -120,7 +120,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 ---
 
-### [Learning objectives and Pre-requesites](pages/objectives_prerequisites.md)
+### [Learning objectives and Pre-requisites](pages/objectives_prerequisites.md)
 
 
 ### [Instructors](pages/instructors.md)
