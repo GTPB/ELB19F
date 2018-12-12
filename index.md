@@ -94,8 +94,7 @@ This course is intended for those wishing to investigate how they might begin to
                 Interpret general alignment statistics such as the percentage of aligned reads
                 
   + **11.2 -** [Use IGV to visualize the content of a BAM file](pages/L11.md/#L11.2)
-</br>
-                
+              
 **12: Broadly describe different HTS applications**
   + **12.1 -** [Variant detection in resequencing experiments](pages/L12.md/#L12.1)
   
