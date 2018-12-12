@@ -56,7 +56,7 @@ This course is intended for those wishing to investigate how they might begin to
 </br>
 
 ### Day 4
-**8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.html)
+**8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.md)
 
          Small introduction about the common steps in most high throughput sequencing workflows
          
