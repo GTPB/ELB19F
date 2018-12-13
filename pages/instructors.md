@@ -6,7 +6,7 @@ description: ELB18S Course instructors description
 ## David P. Judge
 **Affiliation**: Freelance independent Bioinformatics instructor.<br/> Former manager of Bioinformatics Training, University of Cambridge, Cambridge, UK
 
-<img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg" height=230 width=180 align="left">
+<img src="https://github.com/maccardoso/ELB18S/blob/master/assets/David_Judge.jpg" height="230" width="180" align="left">
 
 **David P. Judge** is a Computer Scientist who has taught Bioinformatics since 1985. He initiated the University of Cambridge Bioinformatics Training Facility, providing the necessary environment for graduate and undergraduate courses. 
 
@@ -19,7 +19,7 @@ His course notes and exercises are well known to the international community of 
 ## Pedro Fernandes
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-  <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro_F.jpg" height=230 width=180 align="left"> 
+  <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Pedro_F.jpg" height="230" width="180" align="left"> 
 
 **Pedro Fernandes** graduated in Electronics and Telecommunications Engineering at IST (U.T. Lisboa). He worked in Biomedical Engineering, Biophysics and Physiology and changed to Bioinformatics in 1990. 
 
@@ -32,7 +32,7 @@ Pedro Fernandes is the Training Coordinator of Elixir-PT, now superimposed with 
 ## Daniel Sobral
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-   <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height=230 width=180 align="left"> 
+   <img src="https://github.com/maccardoso/ELB18S/blob/master/assets/Daniel_Sobral.jpg" height="230" width="180" align="left"> 
 
 **Daniel Sobral** graduated in Informatics Engineering from Instituto Superior Técnico (Lisbon, Portugal). His interest in Biology led him to join the Gulbenkian PhD programme, and conduct his doctoral studies in Bioinformatics at the Université Aix-Marseille (France) with Dr. Patrick Lemaire. 
 
