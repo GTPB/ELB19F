@@ -64,16 +64,16 @@ This course is intended for those wishing to investigate how they might begin to
          Small introduction about the common steps in most high throughput sequencing workflows
          
 **9: Interpret and Manipulate raw sequencing data**
-  + **9.1 -** [The FastQ file format](pages/L09/#LO9.1.html)
+  + **9.1 -** [The FastQ file format](pages/L09.md/#LO9.1.html)
   
                What information is in fastq files, and how is it organized
                 
-  + **9.2 -** [Use FastQC to analyse the quality of data in a fastq file](pages/L09/#LO9.2.html)
+  + **9.2 -** [Use FastQC to analyse the quality of data in a fastq file](pages/L09.md/#LO9.2.html)
   
                Detect low-quality bases in the QC reports  
                Detect sequence bias and the possible presence of adaptors and other contaminants
                
-  + **9.3 -** [Use Trimmomatic to improve the quality of data in a fastq file](pages/L09/#LO9.3.html)
+  + **9.3 -** [Use Trimmomatic to improve the quality of data in a fastq file](pages/L09.md/#LO9.3.html)
                
                Use trimmomatic to filter/trim low-quality bases from your reads
                Remove adaptors (eg. illumina adaptors) from your reads
