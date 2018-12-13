@@ -26,7 +26,8 @@ This course is intended for those wishing to investigate how they might begin to
 **2 -** [**Genome Databases and Tools**](assets/01-Databases_Practical.pdf)
 
          Investigating the gene(s) associated with the disease Aniridia      
-</br>
+
+
 
 ### Day 2
 **3 -** [**Graphical and Textual Pairwise ALignments**](assets/02-Pairwise_Alignment_Practical.pdf)
@@ -37,7 +38,8 @@ This course is intended for those wishing to investigate how they might begin to
 
          Database searching to determine gene structure
          Iterative database searching to discover and align sequence families (psi-blast & cobalt)
-</br> 
+
+
 
 ### Day 3
 **5 -** [**Primer Design**](assets/04-Primer_Design_Practical.pdf)
@@ -53,7 +55,8 @@ This course is intended for those wishing to investigate how they might begin to
 **7 -** [**Multiple Sequence Alignment**](assets/06-Multiple_Sequence_Alignment_Practical.pdf)
 
          Use of various software tools and their differences between them
-</br>
+
+
 
 ### Day 4
 **8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.html)
@@ -85,7 +88,8 @@ This course is intended for those wishing to investigate how they might begin to
   + **10.2 -** [The SAM/BAM alignment format**](pages/L10.md/#L10.2)
               
               What is the SAM/BAM format, its contents and the differences between them
-</br>
+
+
 
 ### Day 5
 **11: Visualize alignments**
