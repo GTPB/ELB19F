@@ -23,4 +23,4 @@ Basic Unix command line skills, such as navigating in a directory tree and copy 
 
 ### Back
 
-Back to [first page](https://gtpb.github.io/COURSE/).
+Back to [first page](https://maccardoso.github.io/ELB18S/).
