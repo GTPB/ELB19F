@@ -32,7 +32,7 @@ Pedro Fernandes is the Training Coordinator of Elixir-PT, now superimposed with 
 ## Daniel Sobral
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-   <img src="./Images/Instructors/Daniel_Sobral.jpg" height="230" width="180" align="left" style="margin:0px 10px"> 
+   <img src="./Images/Instructors/Daniel_Sobral.jpg" height="230" width="180" align="left" style="margin-right: 1%; margin-bottom: 0.5em;">
 
 **Daniel Sobral** graduated in Informatics Engineering from Instituto Superior Técnico (Lisbon, Portugal). His interest in Biology led him to join the Gulbenkian PhD programme, and conduct his doctoral studies in Bioinformatics at the Université Aix-Marseille (France) with Dr. Patrick Lemaire. 
 
