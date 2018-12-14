@@ -31,7 +31,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 
 ### Day 2
-**3 -** [**Graphical and Textual Pairwise ALignments**](assets/02-Pairwise_Alignment_Practical.pdf)
+**3 -** [**Graphical and Textual Pairwise Alignments**](assets/02-Pairwise_Alignment_Practical.pdf)
 
          Global vs. Sensitive Local Paiwise Sequence Comparison
 
