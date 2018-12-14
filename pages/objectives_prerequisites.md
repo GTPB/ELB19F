@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Objectives
+title: ELB18S Learning Objectives and Pre-requisites
 description: ELB18S Learning Objectives and Pre-requisites
 ---
 
