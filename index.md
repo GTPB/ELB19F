@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ELB18S Entry Level Bioinformatics (Second Course in 2018)
+title: ELB18S - Entry Level Bioinformatics (Second Course in 2018)
 tagline: Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 5th - November 9th 2018
 description: Entry level course with a soft introduction to NGS data analysis
 ---
