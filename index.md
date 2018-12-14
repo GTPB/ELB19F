@@ -4,7 +4,8 @@ title: ELB18S
 tagline: Entry Level Bioinformatics (Second Course in 2018)
 description: Entry level course with a soft introduction to NGS data analysis 
 ---
-# PUT ENTRY IMAGE HERE!!!!!
+![](./pages/Images/Virtual_karyotype_karyogram.jpg)
+<img src="./pages/Images/Virtual_karyotype_karyogram.jpg"  width="120" height="120">
 
 ## Course Description
 This is an **entry level** course aimed that those with a reasonable biological background but **no significant experience with bioinformatics**. The course is broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases is applied to the investigation of a single human gene. The training manual for the course is comprised of detailed instructions for the tasks undertaken. Included are, questions (with answers) and discussion of and the interpretation of the results achieved.
