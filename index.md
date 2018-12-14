@@ -118,7 +118,7 @@ This course is intended for those wishing to investigate how they might begin to
                Generate gene counts from alignments and a reference annotation through htseq-counts
                Use DESeq2 to calculate differential gene expression from the counts generated
                
-  + **12.4 -** [16S Metagenomics](pages/L12.html/#L12.4)
+  + **12.4 -** [16S Metagenomics](pages/L12.md/#L12.4)
   
   + **12.5 -** [Epigenetics](pages/L12.md/#L12.5)
 
