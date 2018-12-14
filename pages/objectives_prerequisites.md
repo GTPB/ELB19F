@@ -17,7 +17,7 @@ In the training course design, this is intentionally built-in, to allow us to sh
 
 A baseline level of the understanding of the central dogma of biology is required.
 
-Basic Unix command line skills, such as navigating in a directory tree and copy files will be helpful. See, for example, ["Session 1" of the Software Carpentry training for a Unix introduction](http://bioinformatics-core-shared-training.github.io/shell-novice/).
+Recommended Linux and basic Unix command line skills, such as navigating in a directory tree and copy files will be helpful. See, for example, ["Session 1" of the Software Carpentry training for a Unix introduction](http://bioinformatics-core-shared-training.github.io/shell-novice/).
 
 <br/>
 
