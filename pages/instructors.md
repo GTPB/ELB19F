@@ -19,7 +19,7 @@ His course notes and exercises are well known to the international community of 
 ## Pedro Fernandes
 **Affiliation:** Instituto Gulbenkian de Ciência, Oeiras, PT
 
-  <img src="./Images/Instructors/Pedro_F.jpg" height="230" width="180" align="left" style="margin:0px 10px"> 
+  <img src="./Images/Instructors/Pedro_F.jpg" height="230" width="180" align="left" style="margin-right: 1%; margin-bottom: 0.5em;">
 
 **Pedro Fernandes** graduated in Electronics and Telecommunications Engineering at IST (U.T. Lisboa). He worked in Biomedical Engineering, Biophysics and Physiology and changed to Bioinformatics in 1990. 
 
