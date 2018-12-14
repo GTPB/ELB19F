@@ -2,8 +2,8 @@
 layout: page
 title: ELB18S
 tagline: Entry Level Bioinformatics (Second Course in 2018)
+tagline2: Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 5th - November 9th 2018
 description: Entry level course with a soft introduction to NGS data analysis
-description2: Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 5th - November 9th 2018
 ---
 
 <img src="./pages/Images/Virtual_karyotype_karyogram.jpg"  width="792" height="622">
