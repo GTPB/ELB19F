@@ -28,7 +28,7 @@ This course is intended for those wishing to investigate how they might begin to
 
          Investigating the gene(s) associated with the disease Aniridia      
 
-
+<br/>
 
 ### Day 2
 **3 -** [**Graphical and Textual Pairwise Alignments**](assets/02-Pairwise_Alignment_Practical.pdf)
@@ -40,7 +40,7 @@ This course is intended for those wishing to investigate how they might begin to
          Database searching to determine gene structure
          Iterative database searching to discover and align sequence families (psi-blast & cobalt)
 
-
+</br>
 
 ### Day 3
 **5 -** [**Primer Design**](assets/04-Primer_Design_Practical.pdf)
@@ -57,7 +57,7 @@ This course is intended for those wishing to investigate how they might begin to
 
          Use of various software tools and their differences between them
 
-
+<br/>
 
 ### Day 4
 **8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.md)
@@ -81,16 +81,16 @@ This course is intended for those wishing to investigate how they might begin to
                Check results using FastQC on filtered data
                
 **10: Align HTS data against a genome**
-  + **10.1 -** [Use the BWA aligner to align HTS data against a genome**](pages/L10.md/#L10.1)
+  + **10.1 -** [Use the BWA aligner to align HTS data against a genome](pages/L10.md/#L10.1)
   
               Know the challenges of aligning millions of short reads to a genome
               The  burrows-wheeler transform aligner method
                          
-  + **10.2 -** [The SAM/BAM alignment format**](pages/L10.md/#L10.2)
+  + **10.2 -** [The SAM/BAM alignment format](pages/L10.md/#L10.2)
               
               What is the SAM/BAM format, its contents and the differences between them
 
-
+<br/>
 
 ### Day 5
 **11: Visualize alignments**
