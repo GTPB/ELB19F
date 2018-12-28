@@ -40,7 +40,7 @@ This course is intended for those wishing to investigate how they might begin to
          Database searching to determine gene structure
          Iterative database searching to discover and align sequence families (psi-blast & cobalt)
 
-</br>
+<br/>
 
 ### Day 3
 **5 -** [**Primer Design**](assets/04-Primer_Design_Practical.pdf)
