@@ -3,6 +3,7 @@ layout: page
 title: Instructors
 description: ELB18S Course instructors description
 ---
+
 ## David P. Judge
 **Affiliation**: Freelance independent Bioinformatics instructor.<br/> Former manager of Bioinformatics Training, University of Cambridge, Cambridge, UK
 
