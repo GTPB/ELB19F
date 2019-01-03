@@ -41,7 +41,7 @@ During his PhD he worked in different aspects of bioinformatics, particularly fo
 
 In 2012 he moved back to Portugal, where he joined the Bioinformatics Unit at the IGC to assist the local research community in handling the sequencing revolution brought about by high throughput technologies. Within this role he has been collaborating in several projects, ranging from genomics, transcriptomics and epigenetics. He has become the Head of the Bioinformatics Unit at IGC since 2014. 
 
-
+<br/>
 
 ### Back
 
