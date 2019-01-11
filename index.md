@@ -18,6 +18,12 @@ This course is intended for those wishing to investigate how they might begin to
 
 ## Detailed Program
 
+**Note -** All the material used is available on the next button. You need to unzip the zip file (after download) and follow the instructions for each module.
+
+### [Download full course](assets/ELB18S.zip){: .btn}
+
+<br/>
+
 ### Day 1
 **1 -** [**Short introduction of what is Bioinformatics**](assets/000-Bioinformatics_Definition.pdf)
         
