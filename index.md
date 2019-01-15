@@ -20,7 +20,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 **Note -** All the material used is available on the next button. You need to unzip the zip file (after download) and follow the instructions for each module.
 
-### [Download full course](assets/ELB18S.zip){: .btn}
+### [Download full course](https://github.com/maccardoso/ELB18S/archive/gh-pages.zip){: .btn}
 
 <br/>
 
