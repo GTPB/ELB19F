@@ -16,6 +16,8 @@ This course will also provide a **soft introduction to Next Generation Sequencin
 ## Target Audience
 This course is intended for those wishing to investigate how they might begin to exploit the ever-expanding abundance of computing and data resources for researchers seeking help in using them. 
 
+---
+
 ## Detailed Program
 
 **Note -** All the material used is available on the next button. You need to unzip the zip file (after download) and follow the instructions for each module.
@@ -129,7 +131,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 ---
 
-### [Learning objectives and Pre-requisites](pages/objectives_prerequisites.md)
+### [Learning objectives and Course Pre-requisites](pages/objectives_prerequisites.md)
 
 
 ### [Instructors](pages/instructors.md)
