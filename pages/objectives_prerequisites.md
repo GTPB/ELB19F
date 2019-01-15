@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Objectives and Pre-requisites
-description: ELB18S Learning Objectives and Pre-requisites
+description: Learning Objectives and Course Pre-requisites
 ---
 
 # Learning Objectives
@@ -13,7 +13,7 @@ The course will provide participants with an awareness of a wide range of bioinf
 In the training course design, this is intentionally built-in, to allow us to show a wide range of analytical techniques while providing enough experience to break the ice in all of them.
 <br/>
 
-# Pre-requisites
+# Course Pre-requisites
 
 A baseline level of the understanding of the central dogma of biology is required.
 
