@@ -21,9 +21,9 @@ This course is intended for those wishing to investigate how they might begin to
 
 ## Detailed Program
 
-**Note -** All the datasets used fot this training course is available in the following button. You need to unzip file and follow the instructions throughout the documentation.
+**Note -** All the datasets used fot this training course is available in the following button. You need to unzip this file and follow the instructions throughout the documentation.
 
-## [Download ELB18S Datasets](https://github.com/maccardoso/ELB18S/archive/data.zip){: .btn} 
+### [Download ELB18S Datasets](https://github.com/maccardoso/ELB18S/archive/data.zip){: .btn} 
 *File size: 185,9MB*
 
 <br/>
