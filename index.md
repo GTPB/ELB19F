@@ -5,9 +5,6 @@ tagline: Entry Level Bioinformatics (Second Course in 2018)
 description: Entry level course with a soft introduction to NGS data analysis
 ---
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 ![](./pages/Images/ELB18S_entry.jpg)
 
 ## Course Description
@@ -26,11 +23,8 @@ This course is intended for those wishing to investigate how they might begin to
 
 **Note -** All the datasets used fot this training course is available in the following button. You need to unzip file and follow the instructions throughout the documentation.
 
-__[Download ELB18S Datasets](https://github.com/maccardoso/ELB18S/archive/data.zip){: .btn}__ *File size: 185,9MB*
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/maccardoso/ELB18S/archive/data.zip" data-icon="octicon-cloud-download" data-size="large" aria-label="Download maccardoso/ELB18S on GitHub">Download ELB18S Datasets</a>
-
+## [Download ELB18S Datasets](https://github.com/maccardoso/ELB18S/archive/data.zip){: .btn} 
+*File size: 185,9MB*
 
 <br/>
 
