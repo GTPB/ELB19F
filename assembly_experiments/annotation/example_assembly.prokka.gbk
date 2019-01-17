@@ -1,0 +1,1596 @@
+LOCUS       NODE_10_length_552_cov_1.75059_ID_19552 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 aatctatact tcttttttgt tctacaaaaa tgcatcccga gagcgctatt tttctaacaa
+       61 agcatcttag attacttttt tttctccttt gtgcgctcta taatgcagtc tcttgataac
+      121 tttttgcact gtaggtccgt taaggttaga agaaggctac tttggtgtct attttctctt
+      181 ccataaaaaa agcctgactc cacttcccgc gtttactgat tactagcgaa gctgcgggtg
+      241 cattttttca agataaaggc atccccgatt atattctata ccgatgtgga ttgcgcatac
+      301 tttatgaaca gaaagtgata gcgttgatga ttcttcattg gtcagaaaat tatgaacggt
+      361 ttcttctatt ttgtctctat atactacgta taggaaatgt ttacattttc gtattgtttt
+      421 cgattcactc tatgaatagt tcttactaca atttttttgt ctaaagagta atactagaga
+      481 taaacataaa aaatgtagag gtcgagttta gatgcaagtt caaggagcga aaggtggatg
+      541 ggtaggttat at
+//
+LOCUS       NODE_11_length_548_cov_1.17102_ID_21548 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..548
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cctttagatt gcctgaatca atagctcatt caaaatattt tggacaatcg atagttaact
+       61 gtaacatgtg ctgctatata gtggcaatct agatgcatgt atcttatatg attaagtata
+      121 aaagaaccac agcaaagcta aacgtaaata agtagtttag aaagtactgg atatgagtta
+      181 agaatctgtt aattgagcat gacatgaaaa ttttgtatta aagcaatatg agtcgtcaca
+      241 ttaaatatat gaaactacgg gaattaccat tatattggtc atgattaata tgaccaatcg
+      301 gcgtgtgttt tatatacctc tcttatttag tataagaaga tcagtaatta tttcttcatt
+      361 aatactattt ttttacctct aattatcaac agaatcgata aatctacata ttgttgttat
+      421 tcttttttct tccattttat atgttctcgt ttattattct atcacgatct gagtccctgc
+      481 atttcggcct ccattaaatt tgatgagtgt ttctcaattt tttatgtcat cttcccgcac
+      541 cgtatatg
+//
+LOCUS       NODE_12_length_529_cov_1.59204_ID_23529 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             92..373
+                     /locus_tag="PROKKA_00001"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MFIIGFLFLSTVIINAHYAKSLVRCDQRVISTLRFRQGVINKFD
+                     FDQHLEVVAVGLAIKIGGSEPGPAAGRVIDQNNIRAAHPFYVVFYPVFR"
+ORIGIN      
+        1 ggataggcac gggttgaagg gtatcctgtt cagcggtgat gggcggcagt aatgcatagc
+       61 gagccgcggt cgctcgggtg gcggcgttgt attgttcatc ataggctttt tgtttctcag
+      121 tacggttatc atcaatgcgc attacgccaa atcgctcgtc cgttgcgatc aacgcgtaat
+      181 ctctacgctg cgcttccgac agggtgtcat caataaattt gatttcgatc agcatcttga
+      241 ggttgtcgcg gtaggtcttg ccatcaaaat aggtggcagc gagcccgggc cagcggcagg
+      301 tcgggtcatt gaccagaata atatccgggc ggcgcatccc ttctacgttg tgttttaccc
+      361 agttttcagg tgacggcctg gcaaagggat tgctggagtg tggcagatta tcgccgtagg
+      421 cctttttcga ggcttcactg gtggccagca tgggtaaagg caccgggtcg gcgatggcaa
+      481 agaccacttc ggccttgtag gcccatagat agtgtgcctt gtactcttc
+//
+LOCUS       NODE_13_length_524_cov_0.808564_ID_25524 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..524
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gttaaaaacc tctgattgat gatgagatca aactaccaaa caattgttat caaatcaaaa
+       61 tgctctttgt tttgcttatt gaatatggaa aatgtttgaa aaattttcaa gcgctggtca
+      121 tttggaacga aagtaactgt catcttgaaa tctatggtaa aggagaaata aaacattatt
+      181 ccccaggaat tgagaggaaa gtagggcagt tactaatgga aaaggacgca ttggaggtta
+      241 gactgaagtc tatcagacat tcgctggaca agaataccaa acttttaccg ggaaaatata
+      301 ggaatactct aggagagcga cttattacca aatggaggta caagaagaaa tcccataatg
+      361 gcagttcaat gttgcctgaa aaatgtaaga gccacgtgca attgtatgat gatttggtac
+      421 aagaaagctc taaacatttt gttggtttcc gattacacga tcttcgggcc ttgttgaaaa
+      481 gaatatgctc cattcaaaac tacacaaggc atgtgctcat tgaa
+//
+LOCUS       NODE_14_length_511_cov_0.84375_ID_27511 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..511
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cctgaaggtc tttcaaacct ttccacaaac tgacgaacaa gcaccttagg tggtgtttta
+       61 cataatatat caaattgtgg catgcttagc gccgatcttg tgtgcaattg atatctagtt
+      121 tcaactactc tatttatctt gtatcttgca gtattcaaac acgctaactc gaaaaactaa
+      181 ctttaattgt cctgtttgtc tcgcgttctt tcgaaaaatg caccggccgc gcattatttg
+      241 tactgcgaaa ataattggta ctgcggtatc ttcatttcat attttaaaaa tgcacctttg
+      301 ctgcttttcc ttaattttta gacggcccgc aggttcgttt tgcggtacta tcttgtgata
+      361 aaaagttgtt ttgacatgtg atctgcacag attttataat gtaataagca agaatacatt
+      421 atcaaacgaa caataatggt aaaagaaaac caaaatggac gacattgaaa cagccaagaa
+      481 tctgacggta aaagcacgta cagcttatag c
+//
+LOCUS       NODE_15_length_508_cov_0.755906_ID_29508 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..508
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gcacaggagc gttctgcagg taatattgtt caagtgttta aaaaagccgc cccatctcca
+       61 atttctcatg tagcagaaat tagatctgcc cttgaaaaag gttctaggtt tatcagtacc
+      121 cttcaagtca agctttatgg tcgtgagggt agttcagctc gtactattaa agccacatta
+      181 ccatatatca aacaggatat tcctattgta atcatattca gagctttagg tattattcca
+      241 gacggtgaaa ttttagaaca tatctgctac gacataaatg attggcaaat gctggaaatg
+      301 cttaagcctt gtgttgaaga cgggtttgtt attcaagatc gtgaaactgc attagacttt
+      361 attggtcgtc gtggtactgc ccttggtatc aagaaagaaa aaagaatcca atatgcaaaa
+      421 gacattttac aaaaagaatt cctacctcat attactcaat tagaaggttt tgaaagtaga
+      481 aaggcatttt tcttaggtta tatgataa
+//
+LOCUS       NODE_16_length_504_cov_0.877984_ID_31504 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..504
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(68..454)
+                     /locus_tag="PROKKA_00002"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="protein motif:Pfam:PF05202.6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Recombinase Flp protein"
+                     /translation="MRNSEPVLKRVNRTGNSSSNKQEYQLLKDNLVRSYNKALKKNAP
+                     YSIFAIKNGPKSHIGRHLMTSFLSMKGLTELTNVVGNWSDKRASAVARTTYTHQITAI
+                     PDHYFALVSRYYAYDPISKEMIALKD"
+ORIGIN      
+        1 atcgtatgct tccttcagca ctacccttta gctgttctat atgctgccac tcctcaattg
+       61 gattagtcta atccttcaat gctatcattt cctttgatat tggatcatat gcatagtacc
+      121 gagaaactag tgcgaagtag tgatcaggta ttgctgttat ctgatgagta tacgttgtcc
+      181 tggccacggc agaagcacgc ttatcgctcc aatttcccac aacattagtc aactccgtta
+      241 ggcccttcat tgaaagaaat gaggtcatca aatgtcttcc aatgtgagat tttgggccat
+      301 tttttatagc aaagattgaa taaggcgcat ttttcttcaa agctttattg tacgatctga
+      361 ctaagttatc ttttaataat tggtattcct gtttattgct tgaagaattg ccggtcctat
+      421 ttactcgttt taggactggt tcagaattcc tcaaaaattc atccaaatat acaagtggat
+      481 cgatcctacc ccttgcgcta aaga
+//
+LOCUS       NODE_17_length_503_cov_0.808511_ID_33503 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..503
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 acccaccatc gaccttacac tagccgattc agataatgaa gacatattcc attctttttc
+       61 gtcttcaaca agtgtggata agatagacat taggaaagaa aatgggaaat taagaatggc
+      121 aggcttggaa gtcgcccaat ctaatgacga tgcagcacgt caagcattcc atgttttcaa
+      181 gacgaacata tcaaataatg aaaccttcga tactattctt tcaaagagca agacaatcac
+      241 agacagtacc ttcaacaatg aaaaatcttc caacgaagta aaacagcagc aagtcttgaa
+      301 ggaagaaacg atgggatctt ccaacgatga gaagaaaaca caagagagca gcccaagcgc
+      361 agagatgata aaactttttt atgaaaacga tgatgtgccg ttatccgata gttttaaaca
+      421 aaaagaggaa ggtaaaagaa taaatcagga tgagcaagtg aaggaaaata tctgtggcat
+      481 ttcttcctca tacgtctcca aag
+//
+LOCUS       NODE_18_length_496_cov_0.756098_ID_35496 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..496
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 atactgcggc aacaaataac tatccatacg tcctgagtac cacaagtcag cgtcatcgat
+       61 cgagcggggt gtcggcgccg caccgtaaaa ctacatgtat aaaaaaagaa cccttttttt
+      121 ggaactcttc aatggtaaat ggatctcgac atgttgcctg ctttaattta tgtaattcag
+      181 gagtaagggt agtgttagtt caccatacat cgtattgata ttatctcggt tagctccttt
+      241 gctttaacat actaatattt ttggtaatta aaaacaatag ttttccttca gccttgcccc
+      301 ccctaagctg cacttacatt ttgcttccat aacttttgcc aagcatgaca aaggaacgta
+      361 tgaccatcga ctacgaaaat gacggtgatt ttgagtacga taagaataaa tacaagacaa
+      421 taaccactcg aataaagagt atcgaaccta gtgagggatg gttggaacct tctgggtcag
+      481 tgggtcacat aaacac
+//
+LOCUS       NODE_19_length_495_cov_1.09239_ID_37495 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 atattcaaca acccatcttc gaccaaagca ttgaagagcc ttaggactca tacaactgaa
+       61 atctgtaaaa aatgtggaac aaaaccagaa cgacgcttct ggctgttggt gtcttatttc
+      121 atttatttta cctatggtct atttttgata tctatttcat ttcaccgctt gttcatggta
+      181 tgagcccata tcaaagtact ccaacccctc ctgcaaagag attgtttttg attgtcggtg
+      241 atggtttacg tgcagatacc acttttgata aagtcactca tccagtatcc ggaaaaacag
+      301 aatttctggc accttttatt agatctttgg taatgaataa tgccacctac ggtatatcac
+      361 ataccagaat gccaactgaa tcccgtcctg gtcatgttgc tatgattgct gggttttacg
+      421 aagatgttag tgccgtcaca aaaggttgga agtcaaaccc tgtcaatttc gatagttttt
+      481 tcaaccaatc tactc
+//
+LOCUS       NODE_1_length_2550_cov_8.61577_ID_12550 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..2550
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             455..607
+                     /gene="tetA"
+                     /locus_tag="PROKKA_00003"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:UniProtKB:P02981"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Tetracycline resistance protein, class C"
+                     /translation="MKSNNALIVILGTVTLDAVGIGLVMPVLPGLLRDNCTFGIFLYI
+                     RASSEN"
+     CDS             619..1422
+                     /gene="neo"
+                     /locus_tag="PROKKA_00004"
+                     /EC_number="2.7.1.95"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:UniProtKB:P00552"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Aminoglycoside 3'-phosphotransferase"
+                     /translation="MNRTNIFFGESHSDWLPVRGGESGDFVFRRGDGHAFAKIAPASR
+                     RGELAGERDRLIWLKGRGVACPEVINWQEEQEGACLVITAIPGVPAADLSGADLLKAW
+                     PSMGQQLGAVHSLSVDQCPFERRLSRMFGRAVDVVSRNAVNPDFLPDEDKSTPQLDLL
+                     ARVERELPVRLDQERTDMVVCHGDPCMPNFMVDPKTLQCTGLIDLGRLGTADRYADLA
+                     LMIANAEENWAAPDEAERAFAVLFNVLGIEAPDRERLAFYLRLDPLTWG"
+     CDS             1422..2258
+                     /locus_tag="PROKKA_00005"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="protein motif:Pfam:PF04655.8"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Aminoglycoside/hydroxyurea antibiotic resistance
+                     kinase"
+                     /translation="MFMPPVFPAHWHVSQPVLIADTFSSLVWKVSLPDGTPAIVKGLK
+                     PIEDIADELRGADYLVWRNGRGAVRLLGRENNLMLLEYAGERMLSHIVAEHGDYQATE
+                     IAAELMAKLYAASEEPLPSALLPIRDRFAALFQRARDDQNAGCQTDYVHAAIIADQMM
+                     SNASELRGLHGDLHHENIMFSSRGWLVIDPVGLVGEVGFGAANMFYDPADRDDLCLDP
+                     RRIAQMADAFSRALDVDPRRLLDQAYAYGCLSAAWNADGEEEQRDLAIAAAIKQVRQT
+                     SY"
+ORIGIN      
+        1 ctttatatgc tcagccctct tgtcgtgata acaaaagcac aagctactga tatcgactaa
+       61 actaacaagt agtaacgaac ctgagcgtga tgggttgtta taccatcgtc taggtttacg
+      121 ttttcacagc acatgatgga taatggcggg gagacagaga gacccgactc tttataatct
+      181 ttcaaggagc aaagactcga gagagtcttt gttttgacgc cattagcgta cgtaacaatc
+      241 ctcgttaaag gacaaggacc tgagcggaag tgtatcgtac agtagacgga gtatactagt
+      301 atagtctata gtccgtggaa ttattatatt tatctccgac gatattctca tcagtgaaat
+      361 ccaggggaat tctcatgttt gacagcttat catcgataag ctttaatgcg gtagtttatc
+      421 acagttaaat tgctaacgca gtcaggcacc gtgtatgaaa tctaacaatg cgctcatcgt
+      481 catcctcggc accgtcaccc tggatgctgt aggcataggc ttggttatgc cggtactgcc
+      541 gggcctcttg cgggataact gcacattcgg gatatttctc tatattcgcg cttcatcaga
+      601 aaactgaagg aacctccatt gaatcgaact aatatttttt ttggtgaatc gcattctgac
+      661 tggttgcctg tcagaggcgg agaatctggt gattttgttt ttcgacgtgg tgacgggcat
+      721 gccttcgcga aaatcgcacc tgcttcccgc cgcggtgagc tcgctggaga gcgtgaccgc
+      781 ctcatttggc tcaaaggtcg aggtgtggct tgccccgagg tcatcaactg gcaggaggaa
+      841 caggagggtg catgcttggt gataacggca attccgggag taccggcggc tgatctgtct
+      901 ggagcggatt tgctcaaagc gtggccgtca atggggcagc aacttggcgc tgttcacagc
+      961 ctatcggttg atcaatgtcc gtttgagcgc aggctgtcgc gaatgttcgg acgcgccgtt
+     1021 gatgtggtgt cccgcaatgc cgtcaatccc gacttcttac cggacgagga caagagtacg
+     1081 ccgcagctcg atcttttggc tcgtgtcgaa cgagagctac cggtgcggct cgaccaagag
+     1141 cgcaccgata tggttgtttg ccatggtgat ccctgcatgc cgaacttcat ggtggaccct
+     1201 aaaactcttc aatgcacggg tctgatcgac cttgggcggc tcggaacagc agatcgctat
+     1261 gccgatttgg cactcatgat tgctaacgcc gaagagaact gggcagcgcc agatgaagca
+     1321 gagcgcgcct tcgctgtcct attcaatgta ttggggatcg aagcccccga ccgcgaacgc
+     1381 cttgccttct atctgcgatt ggaccctctg acttggggtt gatgttcatg ccgcctgttt
+     1441 ttcctgctca ttggcacgtt tcgcaacctg ttctcattgc ggacaccttt tccagcctcg
+     1501 tttggaaagt ttcattgcca gacgggactc ctgcaatcgt caagggattg aaacctatag
+     1561 aagacattgc tgatgaactg cgcggggccg actatctggt atggcgcaat gggaggggag
+     1621 cagtccggtt gctcggtcgt gagaacaatc tgatgttgct cgaatatgcc ggggagcgaa
+     1681 tgctctctca catcgttgcc gagcacggcg actaccaggc gaccgaaatt gcagcggaac
+     1741 taatggcgaa gctgtatgcc gcatctgagg aacccctgcc ttctgccctt ctcccgatcc
+     1801 gggatcgctt tgcagctttg tttcagcggg cgcgcgatga tcaaaacgca ggttgtcaaa
+     1861 ctgactacgt ccacgcggcg attatagccg atcaaatgat gagcaatgcc tcggaactgc
+     1921 gtgggctaca tggcgatctg catcatgaaa acatcatgtt ctccagtcgc ggctggctgg
+     1981 tgatagatcc cgtcggtctg gtcggtgaag tgggctttgg cgccgccaat atgttctacg
+     2041 atccggctga cagagacgac ctttgtctcg atcctagacg cattgcacag atggcggacg
+     2101 cattctctcg tgcgctggac gtcgatccgc gtcgcctgct cgaccaggcg tacgcttatg
+     2161 ggtgcctttc cgcagcttgg aacgcggatg gagaagagga gcaacgcgat ctagctatcg
+     2221 cggccgcgat caagcaggtg cgacagacgt catactagat atctagatcc ggccacgatg
+     2281 cgtccggcgt agaggatctc gagttgacaa tgcgtctcgt gttcgcggga cgcaattgcc
+     2341 acttcccgct tttctcccac acttttatcg atatatccat ttttattgtg cgcttccttt
+     2401 ggcaaggtaa ccgcctgttt ttctgtcgat aaaacagact ttttgttgtg aaaatgcgcg
+     2461 tcttggatgc gaattgttca aacgaacgta aggtgggaaa aattgtttga cttataagtc
+     2521 tgggaaagta atatgtgcgc cacgcagtac
+//
+LOCUS       NODE_20_length_490_cov_0.881543_ID_39490 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..490
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(37..240)
+                     /locus_tag="PROKKA_00006"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MDTYYFQHESIPNKPYTGNPHSRFFTNFNILHTISDFAQARE*K
+                     RIVLQLPNYLSAHFQANTHFIYI"
+ORIGIN      
+        1 ataaataaac tttctagata tataacttta tgtcatttaa atataaataa agtgcgtgtt
+       61 agcttgaaag tgtgcactca gatagtttgg tagttggagg acaatcctct ttcattcacg
+      121 ggcttgggca aaatctgaga tcgtatgtaa aatgttaaag ttagtgaaaa aacgactgtg
+      181 aggattacca gtgtaaggtt tattgggaat ggattcatgt tgaaagtagt atgtgtccat
+      241 ttgtccagta agttttgact catgttgaaa ataccacaaa tgcaggacaa taacccataa
+      301 acagtaccaa atgtgtcaaa tccaaaaact tttgaagaat aatcagaaac aactgtgtaa
+      361 taaaatggtc tgtacactac cagaagtact atacctatta agttccaagt gaatgaattt
+      421 ggaatcaagc caaaaacacc tatagcggta gaagtggtga acaatattgt gagagtggac
+      481 aaagtatctg
+//
+LOCUS       NODE_21_length_481_cov_0.757062_ID_41481 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..481
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 caataaacca gtgacaccgc tacaaagctt actcaattga tacagatttt ctttgtattc
+       61 ttcttccctc ttttctccca atgctttttg taaaactttc ctcttaccca taattaactt
+      121 agagcctgcc caagatgttc tgatttcttg taaaacagga gttcttacgt cgtcaagatg
+      181 taggacccag acgtatctat aagtatctaa ggcttccctc acttcatcga aaattctttc
+      241 tttattttct ctgccctttt tatcggtttg tgctaaagtg actagcttgg aacgttttga
+      301 tcttggcatg attcaactat aataaatctt ttatggacga tagacagtga tatacgtata
+      361 gcaaaaggaa tcagctctgc ttagccaaag tactacaaat atttgcaact tttcaaaagc
+      421 tcatcgcatt tttctggaaa aaaatttttt ctttcacctt cgccgggtaa agtcctaatg
+      481 g
+//
+LOCUS       NODE_22_length_479_cov_1.06534_ID_43479 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..479
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 atagtctata gtccgtggaa ttataagtgc cagctttata atgtcattct ccttactaca
+       61 gacccgcctg aaagtagaca catcatcatc agtacgcttt gacaaaaagc attgagtagc
+      121 taactcttct atgcaatcta tagctgtttt ataaggcatt caatggacag attgaggttt
+      181 ttgaaccata ctagtgaaat tagccttaat cccttctcga agttaatcat gcattatggt
+      241 gtaaaaaatg caactcgcgt tgctctactt tttcccgaat ttccaaatac gcagctgggg
+      301 tgattgctcg atttcgtaac gaaagttttg tttataaaaa ccgcgaaaac cttctgtaac
+      361 agatagattt ttacagcgct gatatacaat gacatcagct gtaatggaaa ataactgaaa
+      421 tatgaatggc gagagactgc ttgcttgtat taagcaatgt attatgcagc acttccaac
+//
+LOCUS       NODE_23_length_474_cov_0.700288_ID_45474 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..474
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gtctgcatga gtataacgag acatcgtaag attttcttat cgtgacatct agctcattag
+       61 tcgtgggcat gaattgagat tttgttagag tggaattcag aaaattaaac tttttgtttt
+      121 ccgtttgctt gggcaacatg ggtcgaaaag tcatgaattt gaatatgtta ctgatggaat
+      181 ttgttaaaaa cgtttgcgag tctattaatg atttatcacc tacggtgttt tttgtcgaat
+      241 cttttttagc accgtctttg aagtttcttt tctcaattat ttcgtcgact gcttctacct
+      301 ctgaaccaat actggggtcc atcgttgcag cattagtatt tttacttgag ccgtccagga
+      361 tatcataaga agattggaag aggtcattga ttttaaatag attttctaga atgggtactg
+      421 ttttttcatt aattctataa gcctggtatt gagattgtcc tcggaggcta ttat
+//
+LOCUS       NODE_24_length_470_cov_0.790087_ID_47470 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..470
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cactaatcct ttcttacact tattcacatt actgtcactt tgcggctgta tttggccgcg
+       61 tttccctttc gggtgcaggt acaagaggta tccgaaacaa gaagggttag gttttgaaga
+      121 aaatgccaag tatttcaatt tcaaataaga acgcaaaact acaggagact cttactaagc
+      181 atactacttc tcaaaaaagg gctttatttt atagaacata aaacatactg taggatcgca
+      241 cactggaaaa tatgttgaaa cgatcatctc taatatatct atcatgtgtc ctaatcatta
+      301 ccataccaat acttttgcat gtatacaacg gtccaggact gccccatgaa gccaacgaac
+      361 atagggcttc tcacaagcaa aaaagaacgt tagcaaattc ggataaaccc aaaagcgaaa
+      421 acgatgaaga tctattttgt gcggtaacca acccagtcac cggatcatac
+//
+LOCUS       NODE_25_length_469_cov_1.52924_ID_49469 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cattagagaa atctcgggag ctcaaagcgc atgtgttacc tgcatcgaat tcgtaattat
+       61 ggagtatgga gacgatggtt actctagtat attgatggtc tgtggtactg atatgggcga
+      121 ggtaatcaca tacaaaattc ttcctgcatc aggtggaaag ttcgatgtgc aactaatgga
+      181 tattactaat gttaccagta agggtccgat acacaaaatt gatgcatttt caaaggaaac
+      241 aaaatctagc tgcttggcaa ctattccaaa aatgcagaat ttaagtaaag gcctttgcat
+      301 tcctggtatt gtattaataa ctggattcga tgatatcaga ttaataacac tgggcaaatc
+      361 taaaagtaca cataaaggtt tcaaataccc gcttgccgcg acaggtttat cttacatctc
+      421 aaccgttgag aaaaataatg ataggaagaa cctaaccgta ataattaca
+//
+LOCUS       NODE_26_length_469_cov_0.959064_ID_51469 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..469
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(100..231)
+                     /locus_tag="PROKKA_00007"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MGSSCRAVGTVHSVEVVLKQVEERHDDGSLEQLMSQVLSLVEN"
+ORIGIN      
+        1 cctatgcttc ggttacttct aaggaagtcc catcaaatca agatccgtta gccgtttcag
+       61 cttccaattt accggaattt gatagagatt ccactaaggt taattctcaa caagagacaa
+      121 cacctgggac atcagctgtt ccagagaacc atcatcatgt ctctcctcaa cctgcttcag
+      181 taccacctcc acagaatgga cagtaccaac agcacggcat gatgacccca aacaaagcta
+      241 tggcctctaa ctgggcacat taccaacaac catctatgat gacgtgttca cattatcaaa
+      301 cgtcacctgc gtattatcaa ccggacacac actatccgtt gccacagtat atcccaccac
+      361 tgagtacttc ctcacctgat ccaatcgatt cacagaatca acactctgaa gtacctcaag
+      421 ctacgacaaa ggtgagaaat aacgtcttac caccacacac tttaacatc
+//
+LOCUS       NODE_27_length_466_cov_0.728614_ID_53466 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..466
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gacattatca tagccggttc atctgatttc aacgaacaaa aggaaataac cgatagaata
+       61 tacttacaac tttcaggaaa gcaaatatct gattcaggaa gtgatgaaac agaacgtatg
+      121 tccccaaatg agcttgatac gaaaaaggaa agtacaatca tgagcgaggt tgaactaacc
+      181 aaagaactgc ctgaagttga agagcagcaa gatcttcaaa cgtctccaaa aaagctggta
+      241 gtcgaggaag aaactttaat ggagataaaa aaaagcaagg ggaactcact tcagcttcat
+      301 gatgataata aagaatgcaa ttcagataaa caagatggca cagagtcttt ggatgtagct
+      361 ttgattgaac acgaaagcaa aggacagagc tcagaacttc agaaaaacct catgcaatta
+      421 tttccaagtg agtcacagga gattattcag aaccgaagaa caataa
+//
+LOCUS       NODE_28_length_462_cov_0.725373_ID_55462 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..462
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cctatggcgg acgaagggag caaactgtct gtctttatta acatctggag tcttccaaat
+       61 ctgtaaaaac ctgcctgagg ctaatgcaaa gagtctccca tcagggctga acttcacagc
+      121 ggagcatttt tctttgaagt tgaaatggtg aagcacgtta cgggctttga aattgacaag
+      181 gatggcgcga ccgtcctcgt caatagaaat cagcaatgtg ccttgtttgt tcagatcaat
+      241 ggcagcaata tttttgcgat gctcgtattc aaacgtgaac gatttgttgt tgattaagtc
+      301 aaacacgctg accctattcc ccaccggtga gagtagttgc ttgccatcat cggaaaaggt
+      361 gatgttacct tgcctgtaga ccgtacctaa aaggttagag aacttgaaat cggatttcat
+      421 tgggatgcgg ttcaatctgc ggtctgctct cctgtctacc tg
+//
+LOCUS       NODE_29_length_460_cov_0.951952_ID_57460 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 atacaaaggt cactgcattc ttctcttatc ttcgagatta taataaaatt gcctcagaat
+       61 atcacaataa tactaaattc attctcacgt tttcatgtca agcatattgg gcatctggcc
+      121 caaacttctc cgccttgaag aatgttatta ggtgctccat aattcatgaa tacatttcta
+      181 agtttgtgga aagagaacag gataaaggtc atataggaga tcaggagcta ccgcctgaag
+      241 aggacccttc tcgtgaacta aacaatgtac aacatgaagt caatagttta acggaacaag
+      301 atgcggaggc ggatgaagga ttgtggggtg aaatagattc attatgtgaa aaatggcagt
+      361 ctgaagcgga agatcaaact gaggcggaga taatagccga caggataatt ggaaatagcc
+      421 agaggatggc gaacctcaaa attcgtcgta caaagttcaa
+//
+LOCUS       NODE_2_length_2058_cov_8.89694_ID_32058 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..2058
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(804..1463)
+                     /gene="cat"
+                     /locus_tag="PROKKA_00008"
+                     /EC_number="2.3.1.28"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="similar to AA sequence:UniProtKB:P62577"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Chloramphenicol acetyltransferase"
+                     /translation="MEKEITGYTTVDISQWHRKEHFEAFQSVAQCTYNQTVQLDITAF
+                     LKTVKKNKHKFYPAFIHILARLMNAHPEFRMAMKDGELVIWDSVHPCYTVFHEQTETF
+                     SSLWSEYHDDFRQFLHIYSQDVACYGENLAYFPKGFIENMFFVSANPWVSFTSFDLNV
+                     ANTDNFFAPVFTMGKYYTQGDKVLMPLAIQVHHAVCDGFHVGRMLNELQQYCDEWQGG
+                     A"
+ORIGIN      
+        1 tccggaaccg cctcgcgttc cggatttttt ttatctgttt accctatgtt tatgtttgat
+       61 tttcttgcga ttttttttcg tgtgtgaact cttgctgaca atgcaggttg catctgtaca
+      121 actatcgtgg aaagcgacag aatacaataa caataagcct aggtttttgt taaaaggcga
+      181 aagagtctct cgggtggtct atcgatgtaa gctaacgcca tgagcggcct catttcttat
+      241 tctgagttac aacagtccgc accgctgccg gtagctcctt ccggtgggcg cggggcatga
+      301 ctatcgtcgc cgcacttatg actgtcttct ttatcatgca actcgtagga cgggtgccgg
+      361 cagcgcccaa cagtcccccg gccacggggc ctgccaccat acccacgccg aaacaagcgc
+      421 cctgcaccat tatgttccgg atctgcatcg caggatgctg ctggctaccc tgtggaacac
+      481 ctacatctgt attaacgaag cgctaaccgt ttttatcagg ctctgggagg cagaataaat
+      541 gatcatatcg tcaattatta cctccacggg gagagcctga gcaaactggc ctcaggcatt
+      601 tgagaagcac acggtcacac tgcttccggt agtcaataaa ccggtaaacc agcaatagac
+      661 ataagcggct atttaacgac cctgccctga accgacgacc gggtcgaatt tgctttcgaa
+      721 tttctgccat tcatccgctt attatcactt attcaggcgt agcaaccagg cgtttaaggg
+      781 caccaataac tgccttaaaa aaattacgcc ccgccctgcc actcatcgca gtactgttgt
+      841 aattcattaa gcattctgcc gacatggaag ccatcacaaa cggcatgatg aacctgaatc
+      901 gccagcggca tcagcacctt gtcgccttgc gtataatatt tgcccatggt gaaaacgggg
+      961 gcgaagaagt tgtccgtatt ggccacgttt aaatcaaaac tggtgaaact cacccaggga
+     1021 ttggctgaga cgaaaaacat attctcaata aaccctttag ggaaataggc caggttttca
+     1081 ccgtaacacg ccacatcttg cgaatatatg tgtagaaact gccggaaatc gtcgtggtat
+     1141 tcactccaga gcgatgaaaa cgtttcagtt tgctcatgga aaacggtgta acaagggtga
+     1201 acactatccc atatcaccag ctcaccgtct ttcattgcca tacggaattc cggatgagca
+     1261 ttcatcaggc gggcaagaat gtgaataaag gccggataaa acttgtgctt atttttcttt
+     1321 acggtcttta aaaaggccgt aatatccagc tgaacggtct ggttataggt acattgagca
+     1381 actgactgaa atgcctcaaa atgttcttta cgatgccatt gggatatatc aacggtggta
+     1441 tatccagtga tttctttctc cattttagct tccttagctc ctgaaaatct cgataactca
+     1501 aaaaatacgc ccggtagtga tcttatttca ttatggtgaa agttggaacc tcttacgtgc
+     1561 cgatcaacgt ctcattttcg ccaaaagttg gcccagggct tcccggtatc aacagggaca
+     1621 ccaggattta tttattctgc gaagtgatct tccgtcacag gtatttattc ggcgcaaagt
+     1681 gcgtcgggtg atgctgccaa cttactgatt tagtgtatga tggtgttttt gaggtgctcc
+     1741 agtggcttct gtttctatca gctgtccctc ctgttcagct actgacgggg tggtgcgtaa
+     1801 cggcaaaagc accgccggac atcagcagct tcacactact gtcggaaaaa aaatcggaag
+     1861 aattgtttac gcttaggaaa gaaacgttca aggataggct gaattgggcg gtaaaatgta
+     1921 ttaacgggat ggaattcgat cagtatgatg atgataatgc gacttatctt ttcggtgtag
+     1981 agggtgatca ggttatttgc agttctcggc taattgaaac gaaatatcct aatatgatta
+     2041 ctggaacgtt tttccctt
+//
+LOCUS       NODE_30_length_460_cov_0.84985_ID_59460 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..460
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gaagaaaaaa cagcggcaga agaagatccc gatacatctg ggatggaatt gacagaacct
+       61 atagtggcga caccggatag taacaaggct tcacagcatg atcccacatc aatggaaatg
+      121 actgaagttt ttcctcggag tatcagacag aaaaatccag atgtagaggg agaaagcatt
+      181 gagtcaagtc aacaaatcga tgatgtcgag gcagtgcgag aggaaacaat ggaattgacg
+      241 gccatacata atgtacacga ctatgattca atttcagaag atacagtaga gggcgaacca
+      301 atagatctga cagaatatga gtctaaacct tacgttccaa acagtgtctc acgcagtacc
+      361 gggaaatcct ctgactatag cgtggaaaga agtaacgata aaagcgacct ttcaaaatct
+      421 gaaaataaga cgaattcctc tcagccgatg gaaattacag
+//
+LOCUS       NODE_31_length_454_cov_0.75841_ID_61454 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gatcattggt agaacgggca gaaaccctaa gatcaaactt tttcccggac tgaatgattg
+       61 gagaataggt ccaatccaat aaatcaaagt tgaatttgta gtttggtggg cataatgcgc
+      121 ttaaatcggg actcaattgc ttcaaaaatt tcacatcatc aattttattt tcaattttgt
+      181 ctgataactt ggcattggtg attttcaact cctcgtcaac tgcccgaacc atttcattgg
+      241 ataaaaggtc cataaatttg tccgacccct tacttgaaac ggacaggaag gcttgctcgt
+      301 taacatcctt cacttcccaa actttagaaa gacccagcga aatatcaatg acattgaatt
+      361 cgttctcctt cacagccgct tcccatactg ggttccactc agtcataaat ttaccttggt
+      421 aagagtcctt ttcagggata cctactgttt tacc
+//
+LOCUS       NODE_32_length_454_cov_0.724771_ID_63454 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 acatctaacg ataacagtaa gttctctgca ccaggaataa ggcttactgt gtccaagtaa
+       61 ctatgggcaa tatctttttc tagagcaaga acacctttat tgtctgtatc atccaattta
+      121 gggaaaaacc ttctcaaaac ctcttgtgtt cttgcaccat gagaatgctt aaataactcg
+      181 gaaggatcaa caccgtattc gtaacacaac ttggtccatg ctttctctgc ggccactgtt
+      241 gtactcacta tggtaccatc taggtcaaaa agacatagat cagctgaaaa ttctgccatt
+      301 atccgttgaa cttcttacgt gagtggcaac gtaaccaaca atctccatca gaacgttatt
+      361 tccaacagaa taatcgcgat cattaaaaat gaaaataaaa ttaaataaaa tacttgcaat
+      421 aaaaaagttc catgaaattt atatcattag atgg
+//
+LOCUS       NODE_33_length_449_cov_0.819876_ID_65449 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gatgggtacg gcattaaact tttccagcaa gtccttcctc acctgatcct tctcatcgtc
+       61 aggaatctct agcccaggcc atccgaacca cttgaaagtg tacgtcttct tcaacccttc
+      121 caacgccgtg accagccctc cggatgacat tgcgtactcg tactgtcccg tactgctgtt
+      181 tttagtgatt gtcacgggaa gcctgttgga caccacaata atgttacccc ctgaagacga
+      241 ggtcagttgc gccttagcgt tatccgtagt catagttcta tgtcttaata agtctgtatg
+      301 tgagtaccta gtttgttagc ctgctttgtt gcttacttag ctgcgtgctt gttcaagaag
+      361 aaactgacag aaactcaatt gacaagataa gactaccaag ttaatcaatc tctaccaccc
+      421 ggctgtacgc cttaatctct ctctatata
+//
+LOCUS       NODE_34_length_446_cov_0.912226_ID_67446 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..446
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ttatgattca cctgctcgtt cccgctttcc tcttcatttc ctgatcggat agcctttaat
+       61 gatgccaacg aagtaatttc gttagaatca cccagactaa tatcttcctg tgagtcgtta
+      121 ttgctaggat caaccgtttg ctcttcattc gtcaaggtcg acgcccgtgg cacattctct
+      181 aattcgttca ccatcaatta gctactctga acaaagaagt gtttttttat ctagacgaaa
+      241 cggaaatgat atattctact tcgtggtttg taatctacta atcgaccgta tatattcctc
+      301 gcttgcactt gtgtctgtac attacttcgt tttatagatc gttcaatatg agggcgtaat
+      361 aagaaagtac gaaacaatgg gctggcttta tcacccggag tgtagggtac ggatgtttgt
+      421 gatcagagta acccaatgct aaaagt
+//
+LOCUS       NODE_35_length_446_cov_0.733542_ID_69446 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..446
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ctacatattg ttacatagtt tgattccgtg aatttgaagt ggacgcagtt cttcttagtc
+       61 tttcaagttc atagtaaata gacattaccc aaagatctct ttcctgtctt gatcttgcca
+      121 tgaaaaccat tgacttgccg ctcacaccta actttttagt gaaatggatc ttatctgtgt
+      181 tacttggaac attagagtta ttcaagtcag cttccggagc agaaggtggg tcaatattat
+      241 tatcttgtct accataatct tgcgtatatt gcttttcatt ccctttcttc tgtaagcgat
+      301 tgctagaaag ggcacgcctt gttccaaacc aaagcgtaaa gcatcgcgaa ctctcgtctt
+      361 ctacagatcg ccatccgtcc ccataaactc gtgggagagc gtgggatcca tagtttattt
+      421 cgtcaaaagt acgatctctc tgcaga
+//
+LOCUS       NODE_36_length_446_cov_0.739812_ID_71446 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..446
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gccaaagaca ccggaagata tatctgacaa gccactacct ttattgtcta gcttcgaatg
+       61 gtgtagtatt gatgtggaca acaaaaaaca gcttgaagat gttttcgttc tactaaatga
+      121 aaactacgtg gaagaccgcg atgcaggctt cagatttaac tataccaaag aattcttcaa
+      181 ttgggcttta aagagtccag gttggaagaa ggattggcat attggtgttc gcgttaaaga
+      241 aacacagaaa atagttgcct ttatctcagc cataccagta acacttggtg ttagaggtaa
+      301 acaagtgcct agtgtagaaa tcaatttcct gtgcgttcac aaacagctaa gatcgaagag
+      361 attaacacct gttctaatta aagaaattac gagacgagtg aacaaatgtg acatctggca
+      421 tgcattgtac acggcaggta ttgttt
+//
+LOCUS       NODE_37_length_445_cov_0.933962_ID_73445 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..445
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 tatctgtaac cattgttttg agccctctca gagatatgtc acggcagtat tgagggccat
+       61 ataattgcac caacttgtgt gtcttgaact ctactagtac gtcattatca atgacgggat
+      121 cttttaacag cgtttgcaaa tcaaccgact tatctcgatg agctagagtt tgttggcgct
+      181 gcaaaactaa ttgcagcaac aataacacaa tgtttgaggg acaatccatc gtacaaatct
+      241 tgaagtccta tcagcagcta acgaagtaga gaattaacag taaatgcaga atcaaagcag
+      301 gaatacaccg tgatttgatg aaatagcacg ttccctttgt ttgtcttaaa tcgcgtttcc
+      361 gcgatgctcg aaaaagaaca cgagaggaag gttcatagag aagcagaagg aggaaccttt
+      421 tgatgctgct gtgcttatct gctca
+//
+LOCUS       NODE_38_length_444_cov_0.741325_ID_75444 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..444
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gtatcccagt ttcaaattta tcggagaaga aacttatgta aaaggtgtca cgaaaataac
+       61 taacggccct acatttattg ttgatcccat cgatggtact actaatttta ttcacggtta
+      121 cccctatagt tgtacatctc taggtttagc tgaaatgggg aagccggttg ttggtgtggt
+      181 tttcaatcct cacttaaacc aactattcca tgcttccaaa ggcaatggag ctttcttaaa
+      241 tgatcaggag ataaaggttt caaaaaggcc attgattttg caaaaatcct taattgcttt
+      301 agaaggaggt tcggaaagaa ctgaaggttc ccaaggaaac tttgataaga aaatgaatac
+      361 ttataaaaac ttactaagtg agtccggcgc ctttgttcac gggttcagaa gtgcaggaag
+      421 tgctgccatg aacatatgct acgt
+//
+LOCUS       NODE_39_length_443_cov_0.924051_ID_77443 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cgggtaccat tcaatggctt tttataataa ttggaggtaa gaaacctact gtacattgtt
+       61 tccaggtgtc catcattttt gcgcaaacga ggcattgaat ttattgcgaa gagagccttt
+      121 tcatactcct cttttttgat gtggcatctc gctaggttgt accaagattc aaaagagtct
+      181 aaggctagtt cggttgatgt gttagagacg cctaatgcta gttcgtaatc acccctgttt
+      241 aacaaaaaat ttgtttgaat gttcagcaag tcactcatgc aattcattaa tcgtgctgaa
+      301 tcagcatcgc gaggcggtaa atcatttagc agagataaaa gggggtcgag cgtctcattt
+      361 aaaatagtta tcatgtctaa ctcctttgtt tctatgtgat ctagaattgt gatcatagcc
+      421 gtcttgtagt atatgtcatg gat
+//
+LOCUS       NODE_3_length_1764_cov_5.07147_ID_51764 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..1764
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             395..904
+                     /locus_tag="PROKKA_00009"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MIFSRVSYNPILFLLTMIALLLLVLVFPAKAEEEIKEKYLFSFK
+                     TYKSTCILRVNDLPAVDNTEMDSGTISAGFNLTAFLENGNNDVELLMGPLDHKDPKTL
+                     YPDSSCQVIVTKDTETTSTEIANFKLTVNEKGEITANNSATTANSSTVFEGYTKNEKT
+                     MASIKSEAV"
+     CDS             949..1329
+                     /locus_tag="PROKKA_00010"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MTEDDLQKIKVAYTDIWMMMKDRDIEGLKKVTQISNQEMAFAEG
+                     SNTGMMFISTDFPQHVIDKKLTPFPIDWSKYKIIKYRDGRLFRLGVGFFQNSPLRFIN
+                     EEGKIVFAYRPYFSIIDGKVTLVR"
+ORIGIN      
+        1 ctctaatacg gggatgatgt ttatttctac cgatttcccg cagcatgtga ttgataagca
+       61 gcttacaccg gttcctattg aatgggataa atacaagatc attagatacc gcgatgggcg
+      121 actttttcgc cttgcaattg gattcttcca gaattcacca ctgaaattca aaaattctaa
+      181 cggtgatgtt gtttttactt ataaccctta tttctcaata atagatggta aggtgacgct
+      241 ggtgaggtaa tatagggtaa ttatgttgga gtaaaaaaca tttactccaa cgtgttaata
+      301 cagcccataa aaaatgggat gctattagat gaaataataa aaataaacac attttcatta
+      361 tgtgttaata ggctaattaa caaggcggct tgtcgtgatt tttagtagag tatcttataa
+      421 tccaatttta ttcttgttga cgatgatagc gcttttgctg ttagtgttag tttttccggc
+      481 caaggctgaa gaagagataa aagaaaaata cctgttttct tttaaaacct ataaaagtac
+      541 ctgtatttta cgtgtcaatg atctgccagc agttgataat acagaaatgg attctggaac
+      601 tatatcggca ggatttaacc tgacggcatt tttagagaat ggaaacaatg atgttgaatt
+      661 actaatggga ccactggatc ataaagatcc taagactctg tatccagatt catcttgtca
+      721 ggtgatagtc acaaaggata cggagacaac cagtaccgaa attgctaatt ttaaattaac
+      781 tgtaaatgaa aaaggtgaaa ttacggcgaa taattctgcc acgacagcca atagttcgac
+      841 agtgtttgaa ggctatacca aaaatgaaaa gactatggct tctataaagt cagaggcagt
+      901 ctgaaggctg ctggtttacc ccgctgggcg tgggtcaatg ccaccccggt gacggaagat
+      961 gacctgcaaa aaattaaagt agcctatacc gatatctgga tgatgatgaa agatcgtgat
+     1021 attgaaggcc tgaaaaaagt tacacagatc tcgaatcagg agatggcctt cgcggaagga
+     1081 tctaatacag ggatgatgtt tatttctacc gatttcccgc agcatgtgat tgataaaaaa
+     1141 cttacccctt ttccaattga ttggagtaaa tataaaataa tcaagtatcg tgatgggcga
+     1201 ttatttcgtt taggcgtggg ttttttccaa aactcgccat taagatttat aaatgaggaa
+     1261 gggaagattg tttttgctta caggccttat ttctcaataa tagatggtaa agtgactttg
+     1321 gtaaggtaat ttagattaat tatgttggag taaaacattt actccaacgt gttaatacac
+     1381 cttattaaag aatgggagtg ctattagata aaataaaaac ataaactaat tttaattatt
+     1441 tattaatgga ttgattaaca gggagactta ccgtgatttt tagtagagca tcttataatc
+     1501 tacctctatt tttattgaag atggcaacgt ttttgctgtt agtgttagtt tttccggcta
+     1561 aggctgaaga agggataaaa gaaaaatatc tgatttcctt taaaacctat aaaagcactt
+     1621 gccttctaag gatcaacgat cttccggctg gtgacaatac aactattcct tctaaaacta
+     1681 tgtcggcggg atttaacctg acggcatttt tagaaaatgg aaacaatgat attgaactgt
+     1741 tgatggggcc gcaggattat gagg
+//
+LOCUS       NODE_40_length_443_cov_0.835443_ID_79443 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ctatgattga taatatgcgc ggaaagtcaa gaagtaaaaa aactgagaac ctgcaccaat
+       61 ctttaactgg ctgccttaac gactactcaa atgcgtttgg aaaagacagg tcaaagttat
+      121 tagacttatc caacacgcta aagaaatatc ccatgttggg tcttgctggg ggactagaaa
+      181 cgtttcccaa gatagtcaga aatgctttga acgaatttaa aaacgtcaaa atagttactg
+      241 ggaacccggt tacgcaaata atgaaacgcc ctgctaacga aacgacaatc ggattgaaag
+      301 cgaaatctgg cgaccaatac gaaacatttg accatttaag acttacgata acacctccca
+      361 aaatcgctaa attgctaccg aaggatcaaa attcattatc caagttatta gatgagatac
+      421 aatcaaacac aataatttta gtt
+//
+LOCUS       NODE_41_length_443_cov_0.832278_ID_81443 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ctgtagcaaa gagtttctaa aacaaaagtc caggagctgg cctcgactag ttcatcaatt
+       61 ttatcactgt agtcaacgtt caaatagccc accttaatct tcaattcatt gggccttctt
+      121 cttccaaaac ttgtaaagca tctgtaatct tgaaatagta tggatttttt tgcttccata
+      181 ttactatttg atacagcaac aatacccaaa tgttcatgaa tattttcggg atatagagta
+      241 tttttcaacc aaataggtga aaattgtgtc gaggaactct ttgatttgag atttgagatg
+      301 gaatctagtg aatctatctt gtgtaatacc gatccatagt ccagaacata attatttcga
+      361 tcaacgaaac aaaactgcaa acgcgcaaat ttaatggtta aagcttttag actgttataa
+      421 acaacaatta aactgtcttc ttc
+//
+LOCUS       NODE_42_length_442_cov_0.946032_ID_83442 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 caaatggctt cccgccattt tcaatgcgac aggtgattgt tctgagcgtc agtggtcatt
+       61 cctctcgatg gaaatgccac aatggctgct aggtatcttt gttgcttatc tgctgatttc
+      121 ggtgctggtg ctgatcgctc agcctttccg ccccaaacgc cgcgacctct tcagccgtta
+      181 atgatatacc ctaaataatt caagtttcag gacaaaacgt taacgttttg tcctgaaact
+      241 tgaattattt agggtatatc attaacggct gaagaggtcg cggcgtttgg ggcggaaagg
+      301 ctgagcgatc agcaccagca ccgaaatcag cagataagca acaaagatac ctagcagcca
+      361 ttgtggcatt tccatcgaga ggaatgacca ctgacgctca gaacaatcac ctgtcgcatt
+      421 gaaaatggcg ggaagccatt tg
+//
+LOCUS       NODE_43_length_439_cov_0.820513_ID_85439 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..439
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             212..358
+                     /locus_tag="PROKKA_00011"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MNVQKPGIKEAGWTAPQKESKNESIKPTITLADCRFGEMYRIIK
+                     ARPI"
+ORIGIN      
+        1 gtactgacaa taggcgcaat ctgctgttgc atctggattt gcaatatacc cagtcccaaa
+       61 ttcaaaaaac ggtttggtaa attcaccaca tgtttggcct accggggggt tgaaaagaga
+      121 caactctttc tttgaacatc ttacgggttt gtcatgcatc aataatccaa ctaaattttg
+      181 caaaaaatac gtgtaagggg atagtttcca catgaatgtc cagaaaccag gcattaaaga
+      241 ggcaggttgg acagcaccgc agaaagagag caaaaacgaa agtataaaac ctacaataac
+      301 attggcagat tgtagatttg gagaaatgta cagaatcatt aaagcaagac caatatagta
+      361 aagttgaaaa agtatggcat agttcagata aaaaacacct gacctagagg cttcggtaaa
+      421 gacacccaga gggaaatat
+//
+LOCUS       NODE_44_length_438_cov_0.691318_ID_87438 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 atgtacacta cgtaaatatg cgtatctgcc tatctacata actgaactac attcctacgt
+       61 tattaccact gtttggtaat ttttcctcga ggatatataa ttctgctttt ccatagtaac
+      121 gccaaacgat cgcgtaatac cggcaattac gggatgcaag caaatagcgc caaggaacga
+      181 aaaagaaatg agtctcgttt agttattaaa cgagaagaaa cgagccctga tctacattct
+      241 cagggtccaa tagggctttg ttggaaacag acgcataccc taaatggagt ttcttttctt
+      301 gttcaagacc taatgagtgg caataagagg cgctaattaa agctcttcaa aacaacctta
+      361 ttcgcctatt acacatgatc agccactctt tcattgtcaa caatagcatg atagcaggac
+      421 catagcggcc atatagac
+//
+LOCUS       NODE_45_length_436_cov_0.754045_ID_89436 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 cttcatcttc ttggcgcatt tgagcatacc atgctgaaaa caagccatga ccgacttggc
+       61 tccaccactt gactttttct tgatattttt cttctttctt taagatcttc ataaaatcag
+      121 gtcctaaatg aacaatatca tactgattct caggtacggt gaaaccatat cttgccaaca
+      181 aaaagacgtt tgagagctca ccataggaat taaatatttc ttggccttgt gcgacgtcat
+      241 tctttaacac taaatcgaca cattcgtcag ggttttcaat accgccatca tcatcctcgg
+      301 tgtttgccgt aacattagag tgttctttct ctaaatcatt ttctaaactt ttgattaagt
+      361 cttcatcgat gacacgagtc tccatacttg cgactttggg catatttttg tctagatttt
+      421 ctgcttccaa gtattc
+//
+LOCUS       NODE_46_length_435_cov_0.896104_ID_91435 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 tcttaatata ccacggtgag caaatcgctc aatggagaaa agccggttac caagacgatc
+       61 cacagtacgc agatttcaaa gctcttcttg aagagccaaa attagaagcc gcagaattgt
+      121 tagtagatag gttcccgcta ccaaggttca ttgatactga agccggtggt tctcaagcca
+      181 gattcttgtt atctaaattg aatccttccg ataactatca agacatggcg cgcggaggat
+      241 ctacaattgt cttaacagat gatgtttcct tacaaaattt catgactcac ttacaacaag
+      301 tagccgtctc tggtcaggca taggagcaac ggctttcttt tgttttattt gatcgttatt
+      361 aggctttttg tataatataa ggcctgttca gtccattgcg cgtgcaagaa ttttcctttg
+      421 gacctgaacg aaaag
+//
+LOCUS       NODE_47_length_435_cov_0.847403_ID_93435 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 attctgagga ctctgaagaa gctgcttgga tagattcgga tgatgaaaaa attaaagtgc
+       61 ctattcttgt taccaataag acaaagaaat taagaacctc ctataacgag tccaaaatca
+      121 acggtgttca ttacatcaac agattgagat ctcagtttga aaagatatat ccaaggccca
+      181 aatgggtgga cgatgaatct gattctgaat tagatgacga agaagacgat gaagaagaag
+      241 gctctaataa tgttattaat ggagatatta atgctctaac gaagatcctg tctactactt
+      301 acaattataa agacacttta tcgaattcca aactattacc ccctaagaaa cttgacattg
+      361 tgcgtcttaa agatgcaaat gcatcacacc catctcattc cgccatacaa tctctttcat
+      421 tccatccttc taagc
+//
+LOCUS       NODE_48_length_434_cov_0.71987_ID_95434 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..434
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ttattattag aaaattatta agagaattat gtgttaaatt tattgaaaga gaaaatttat
+       61 tttcccttat taattaaagt cctttacttt ttttgaaaac tgtcagtttt ttgaagagtt
+      121 atttgttttg ttaccaattg ctatcatgta cccgtagaat tttattcaag atgtttccgt
+      181 aacggttacc tttctgtcaa attatccagg tttactcgcc aataaaaatt tccctatact
+      241 atcattaatt aaatcattat tattactaaa gttttgttta ccaatttgtc tgctcaagaa
+      301 aataaattaa atacaaataa aatgtccgaa tatcagccaa gtttatttgc tttaaatcca
+      361 atgggtttct caccattgga tggttctaaa tcaaccaacg aaaatgtatc tgcttccact
+      421 tctactgcca aacc
+//
+LOCUS       NODE_49_length_434_cov_0.7557_ID_97434 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..434
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 tttcagtact ctcagaagaa gaagcaactt tggaagaaga cttggtgacc gaagattcga
+       61 aaatcagagt agtagtggaa gcaactgtag aagaggcttc agatgaggtt ggagtgacgg
+      121 tctgaccatt tttatcgaca gtgactgttt cgtaaacgta tgtaactgca acggccctct
+      181 tatgctggtg tgaaccatga gcagtagtag tacatcctgt gtcaatatca gccgcatacg
+      241 gcaaagcgga aacgattgtg ccataaccga tcaatgaagc cgcggtaaga atggtggcgg
+      301 acagtttcat tttatcaaat tactaaaata aatttgggat gggttagtaa ataaaatcat
+      361 ttcgaaaaga gtgggattgc aaattttcta agattagtgc taattgaatc aatcaatatt
+      421 gttttagttt ctac
+//
+LOCUS       NODE_4_length_1077_cov_3.13895_ID_71077 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..1077
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(60..407)
+                     /locus_tag="PROKKA_00012"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MGAELVTKALETGEYFLAFLQGVALFKKQGNGQPQTGDDHVVVV
+                     GKGKLGGVLLQLGDVVRVLHYGAHDGKPGTSPSVSASWSKCHRVSSVAERAGASSPCA
+                     IKRIVRGCDGVVQ"
+     CDS             complement(408..758)
+                     /locus_tag="PROKKA_00013"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MIVLRQAEAVAAVPAVGLQLLTQVGQPVGKTRHTLCVFQVKPGQ
+                     NQTEIRVFFIAACFAGIQVAHNNVGRLAHVFGIADIPATVVVDALIQDTGFHPGNILR
+                     GVFFHAAELVSMEA"
+ORIGIN      
+        1 gatcaggggc cgttgtccat taccccgctc acgtccggca ccccagcgcg ggtcagcggt
+       61 tattggacta ccccgtcaca gccccgcacg atgcgcttta ttgcacaggg cgagctcgcc
+      121 cccgcccttt ctgctaccga agacaccctg tggcatttag accatgaagc cgagacactc
+      181 ggcgatgttc cgggtttacc gtcatgagca ccataatgca acaccctgac tacatcgccc
+      241 aactggagca gcacgccccc gagtttacct ttaccgacaa caacgacgtg gtcgtcaccc
+      301 gtctggggct gtccattacc ctgtttttta aacagggcta caccctggag aaacgccaga
+      361 aaatactcgc ctgtttccag cgctttcgtg acgagttcgg cacccactta cgcttccatg
+      421 ctcacgagtt cagcggcatg aaaaaataca ccccggagaa tattgccagg gtggaagcca
+      481 gtatcctgaa taagggcgtc tacgactaca gtggctggta tgtcagcgat gccaaaaaca
+      541 tgagcgaggc gcccaacgtt attatgcgct acctggattc ccgcgaagca ggcggcgata
+      601 aaaaaaactc ttatctcagt ctggttctgc cctggtttta cctgaaagac gcacagggta
+      661 tggcgcgttt taccgactgg ttgacctacc tgtgtcagca actggagccc gacagcgggg
+      721 actgcggcca ctgcctcagc ctgccgcaag actatcacga ctatttttct attgagtatg
+      781 aactggccaa acgctatccc tctttacagg tgaattcggc ggtacatacc acgtgtatac
+      841 attacaacga tagcacccgc ggcgtgaact ggatcaccgt attaagctcc cgctatatca
+      901 cccgactggg cggggaagac tgggtgcgac gcgttctttc ccaaaccccg gatatcagca
+      961 ttgagtctta tgccggcgga ttgctgctgc gcgccgggtg ctacccggat ttaaccccgc
+     1021 tagccgcagg cttatcgccc cagtacctcg ccgtcaacca gttgctccgc ccgatac
+//
+LOCUS       NODE_50_length_430_cov_0.656766_ID_99430 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 tcacagaagg tttcttttcc tttgtcctgt ctaacaaggg agtgaagact agtgaaacat
+       61 aatccttgga atagcctggt gtttttagtt tgtcgcagat taattctact gattgagcgg
+      121 ctagtgcaac agcttgaatg tttgcatctt tctggataat atggccatat atccccaata
+      181 agttggaata attttgcgag gagcttttta acttcttagt ctgcgataaa acactatccc
+      241 aaaattcttc caacgcttcc actctatctt tccatttgga cgacgttatc ctttcctgga
+      301 agtccttagg cagtttatcg aggatcgtct cctccggtag catactgaag gtgtctattt
+      361 gaactccact ttgctgtttt gatggtggca tatccgtttc catccccatc aatgtatctc
+      421 catccttatc
+//
+LOCUS       NODE_51_length_430_cov_0.825083_ID_101430 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             98..376
+                     /locus_tag="PROKKA_00014"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /inference="protein motif:CLUSTERS:PRK11815"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="tRNA-dihydrouridine synthase A"
+                     /translation="MGEAALVADCIKAMKDSTSIPITVKTRIGIDDQDSYEFLCEFIQ
+                     TVAGRGECDTFIIHARKAWLSGLSPKENREIPPLDYSRVYQLKRDFPG"
+ORIGIN      
+        1 ctgtttacta tctgctgcgc cagacgtatg acatcaagcc gaatgacgtt ttcttgttcc
+       61 atgcggctgc gggcggcgtt ggattgattg cctgccagtg ggcgaagccg cgctggtagc
+      121 agactgcatc aaggcaatga aagacagcac ctcaatcccg attacggtga aaacccgcat
+      181 cggcattgac gatcaagaca gctatgaatt cttgtgcgag tttatccaaa ccgttgcagg
+      241 gcgcggcgag tgcgatacct tcatcatcca cgcgcgcaaa gcctggctat cgggccttag
+      301 cccgaaagag aatcgggaaa ttccaccgct ggattattcg cgcgtttatc agctcaaacg
+      361 tgatttccca ggttgattgt ttatgtttgg tttctctata caccataaaa tgaaaaacct
+      421 ctgaataaac
+//
+LOCUS       NODE_52_length_300_cov_0.861272_ID_103300 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..300
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 aggttcgaca aaaccggcac ggttttgagc aacgcatagc gttgacccgc agggtgagga
+       61 gcgaagcacc gaattatcct tcccccacca ccatttcaaa gcaatatctc tgaagcacat
+      121 cccaacacca aagtataaaa ttcccattag gggaaggtga gaaccttcga ccaaggttcg
+      181 acaaaaccgg cacggttttg agcaacgcat agcgttgacc cgcagggtga ggagcgaagc
+      241 accgaattat ccttccccca ccaccatttc aaagcaatat ctctgaagca catcccaaca
+//
+LOCUS       NODE_5_length_1005_cov_6.33599_ID_91005 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..1005
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             391..735
+                     /locus_tag="PROKKA_00015"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MSIHYAFQRGDLPELTLTGHALQQAGFAAGTLFRISLYRNGLIL
+                     TRLNEDTDIAALLTELDGCETEGADWVGDNGELTLAGDWLTQSGLLGQPLSIEVLPGK
+                     ITIRAEQGSMLA"
+ORIGIN      
+        1 ccggcaggct cacccgcacc agccggtcct gcacgtccca gtcaaagtgg gtttccttcg
+       61 gcctgaaccc cggacgcgtt tcccgtttta ctgccagacg cccgcagtcg tcatactggt
+      121 actgcgtatg gccccgttcg actacccgac ccgcggcatc ataccgtgcc gatgcttgaa
+      181 ccaccgcatc ctgcactttt agtgtctgag ccagacccgg cgctatccgc ttaagctacg
+      241 cattatgccc ggctgcattg tcatcaccac gcaggatatc catgaactat ggggcaacct
+      301 gcacgccctg agcattgcgc catttgatga gtatgccgtc acccactggc tgaaccattt
+      361 tcccggtggg ctggatatgg agagcgcacg atgagtattc attatgcttt ccagcgcggt
+      421 gacctgccgg aactgacgct gacaggccac gcactgcaac aggcgggatt tgccgccggg
+      481 acgctgtttc gtatcagtct ctaccgcaac gggctgatac tgacacggct gaatgaggac
+      541 accgatatcg cggcgctgct gactgaactg gacggctgcg agacggaggg cgcggactgg
+      601 gtaggggaca acggggaact gacgctggca ggggattggt tgacgcagag tgggttactc
+      661 ggccagccgt taagcatcga ggtgctgccc ggtaaaataa cgattcgggc agagcaggga
+      721 agtatgctgg cgtaataata ccaactacta aaaataaaat agccggaagg atcgcgagat
+      781 cgcttccggc ttttattttt taattatttt tacttaacaa cagttctttc caatcttcta
+      841 aatattttct aaactcatca gtcgaggata tatcgatttc ctcttcagaa tattcgttat
+      901 atatattcac cccagttttt ctaacagtaa gagtatgtgc attaccagta gtttcccaga
+      961 caggaatttt tcctgaaatg acatcatcac aggctaatat acact
+//
+LOCUS       NODE_6_length_985_cov_1.17716_ID_11985 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..985
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 ctcgtaatta tcatagaaca aatagttcaa aaccaagagc agcaaaagct cacaatattg
+       61 ctacatctag taaattctca agggtgaaca atgatcacat taatgaatca accgtttcat
+      121 tacaacactt aagcgatgac aacgaactta gtcttaggcc agcgacagag agaatctaag
+      181 acaacacgca cgatagactc gaatgacgaa ctacctgatc accttcttat tgattcagga
+      241 gcttcacaaa cacttgtcag atcagcccat tatttacacc atgcaacacc caattctgaa
+      301 ataaacatag tcgatgctca aaaacaagac attcctataa atgccattgg taatcttcac
+      361 ttcaactttc agaacggcac caaaacatca ataaaagcac tacacacacc aaacatagcc
+      421 tatgatctat taagtttgag tgagctggct aaccaaaata ttactgcctg ctttaccaga
+      481 aacactttag aaagatcgga tggtacagta ctagctccca tagtcaaaca tggagacttt
+      541 tactggttat ctaaaaaata cctaattcct tcgcacattt caaagctaac aataaacaac
+      601 gtcaacaaaa gcaaaagcgt aaataaatat ccatatccgt taatacatcg aatgcttgga
+      661 catgctaact tccgaagtat tcagaagtct cttaagaaga atgcagttac atatttgaaa
+      721 gaatcggata ttgaatggtc taacgctagc acatatcaat gtcctgactg tctaatcggc
+      781 aaaagcacga aacataggca tgtcaaagga tcacgactaa agtaccaaga atcatatgag
+      841 ccttttcagt acttgcatac cgatatattt ggtcctgtac atcacttacc gaaaagtgca
+      901 ccttcttact ttatatcgtt tacagatgag aaaaccagat tccaatgggt ctacccatta
+      961 cacgaccgtc gtgaagaatc tatcc
+//
+LOCUS       NODE_7_length_847_cov_0.963889_ID_13847 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     CDS             complement(290..769)
+                     /locus_tag="PROKKA_00016"
+                     /inference="ab initio prediction:Prodigal:2.60"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /translation="MYSGTLVLSAARTSTFAKSTQCGNNHTSEICSKRYSSFCRNVLL
+                     QNSPISIDRNAVQCGTLDGVTPSAS*SRKCIPRLNSYLLLNCR*CLLNCCLTYCGPCS
+                     PALVMERKR*KTPTFSSASTKTVSSFASHSSRHFFSSQFKKYCSTSVFDSRKLLHTL"
+ORIGIN      
+        1 gtatcggagg atggcttggg aagcactagc tgtggagaga atgctgcgaa atgacgagga
+       61 atacaaagaa tacttggaag acatcgagcc atatcatggg gaccctgtag ggtatttgaa
+      121 attttttagc gtaaaaagga gagagatcta ctctcagata cagagaaatt atgcttggta
+      181 cctggccatt actagaagaa gagaaacaat tagtgtattg gattcgacaa gaggcaagca
+      241 agggagccaa gttttccgca tgtctggaag gcagatcaaa gagtctttat tataaagtat
+      301 ggagcaactt gcgtgaatcg aagacagagg tgctgcagta ctttttgaac tgggacgaga
+      361 aaaagtgccg ggaagaatgg gaggcaaaag acgatacggt ctttgtggaa gcgctcgaga
+      421 aagttggagt ttttcagcgt ttgcgttcca tgacgagcgc tggactgcag ggtccgcagt
+      481 acgtcaagca gcagtttagc aggcatcatc gacagttgag gagcagatat gaattaagtc
+      541 taggaatgca cttgcgagat cagcttgcgc tgggagttac gccatctaaa gtgccgcatt
+      601 ggacggcatt cctgtcgatg ctgatagggc tgttctgcaa taaaacattt cggcagaaac
+      661 tggaatatct tttggagcag atttcggagg tgtggttgtt accacattgg gttgatttgg
+      721 caaacgttga agttctcgct gcagataaca cgagggtacc gctgtacatg ctgatggtag
+      781 cggttcacaa agagctggat agcgatgatg ttccagacgg tagatttgat ataatattac
+      841 tatgtag
+//
+LOCUS       NODE_8_length_787_cov_4.63636_ID_15787 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..787
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gccgggcagc ttccggccac tggcacaggt cgaggcacag ggcggcagta cgcaactgca
+       61 ctacattgtc gccgacctgg caggcaccgc cagagagttg tgcagcgagg aaggcgaaat
+      121 ccactggcgc ggcgcgctca tcgtgaagaa agacgcccta tcccactgcg acgttatctg
+      181 ggggatgcgg ccaacgaaga agtgtactgt gaactgcgct atcagggaca gttgtacgat
+      241 gcagaaacgg ggctttgcta caaccggcat cgttactatg atgcagagag cggacagtat
+      301 ttatcgccgg atccgatagg gctgggtggg ggaataaggc cgcagggtta tgtgcataat
+      361 ccattagagt gggttgatcc gctagggctg gataagcgtg atcctaaaat caatgcggaa
+      421 catgtgtttc atggtgaaat aaataagaat cgtaaagccg taggttttca tcaccgagct
+      481 agtattggac atgaaggaaa agctagaata ggtgaaataa ctaatgctcc gaatcaacat
+      541 ggtgtgtata cagctaaggt tgaagcgttc gataaatcct ctggtacttg ggtagctaaa
+      601 ggtcgagact catcgttttt ccctgattct tggaatagac agaaagttat gtcggaaata
+      661 agaggagctt ataataatgg tactgtttca tcagatggta aatggtctgg aatttctcct
+      721 agtggcgtga aaatagaggg atggttgggt aaaactggga atattaatac cgcatatcct
+      781 attcatg
+//
+LOCUS       NODE_9_length_620_cov_1.52738_ID_17620 bp   DNA linear
+21-SEP-2015
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.10 from http://www.vicbioinformatics.com.
+FEATURES             Location/Qualifiers
+     source          1..620
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+ORIGIN      
+        1 gggcacaaaa caccatgtct gatcaaatgc ccttcccttt caacaatttc acgtactttt
+       61 tcactctctt ttcaaagttc ttttcatctt tccatcactg tacttgttcg ctatcggtct
+      121 ctcgccaata tttagcttta gatggaattt accacccact tagagctgca ttcccaaaca
+      181 actcgactct tcgagggcac tttacaaaga accgcactcc tcgccacacg ggattctcac
+      241 cctctatgac gtcctgttcc aaggaacata gacaaggaac ggccccaaag ttgccctctc
+      301 caaattacaa ctcgggcacc gaaggtacca gatttcaaat ttgagctttt gccgcttcac
+      361 tcgccgttac taaggcaatc ccggttggtt tcttttcctc cgcttattga tatgcttaag
+      421 ttcagcgggt actcctacct gatttgaggt caaactttaa gaacattgtt cgcctagacg
+      481 ctctcttctt atcgataacg ttccaatacg ctcagtataa aaaagattag ccgcagttgg
+      541 taaaacctaa aacgaccgta cttgcattat acctcaagca cgcagagaaa cctctctttg
+      601 gaaaaaaaaa aaaaaaaaca
+//
