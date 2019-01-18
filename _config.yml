@@ -12,14 +12,11 @@ title : GTPB Courses
 author :
   name : GTPB
   email : bicourses@igc.gulbenkian.pt
-  github : github.com/GTPB
+  github : github.com/maccardoso
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-<<<<<<< 506a05e5a3823afa1fdbc91ea3a27e9fe91c1eea
-production_url : https://gtpb.github.io/ELB18S
-=======
-production_url : https://gtpb.github.io/Web_course_template
->>>>>>> Update _config.yml
+production_url : https://maccardoso.github.io/ELB18S/
+
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -45,7 +42,7 @@ JB :
   # GitHub Project Pages (http://username.github.io/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #  REQUIRED! Set BASE_PATH to: http://maccardoso.github.io/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
@@ -54,11 +51,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-<<<<<<< 506a05e5a3823afa1fdbc91ea3a27e9fe91c1eea
-  BASE_PATH : https://gtpb.github.io/ELB18S
-=======
-  BASE_PATH : https://gtpb.github.io/Web_course_template
->>>>>>> Update _config.yml
+BASE_PATH : https://maccardoso.github.io/ELB18S/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
