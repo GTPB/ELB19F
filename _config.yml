@@ -42,7 +42,7 @@ JB :
   # GitHub Project Pages (http://username.github.io/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://maccardoso.github.io/project-name
+  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
