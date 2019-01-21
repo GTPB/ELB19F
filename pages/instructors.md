@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructors
-description: ELB18S Course instructors description
+description: ELBB19F Course instructors description
 ---
 
 ## David P. Judge

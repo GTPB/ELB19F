@@ -1,7 +1,7 @@
-## ELBS18 - Entry level Bioinformatics (Second course in 2018)
+## ELB19F - Entry level Bioinformatics (First course in 2019)
 
-###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - November 5<sup>th</sup> - November 9<sup>th</sup> 2018
-Go to the [Course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2018/ELB18S/)
+###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - February 4<sup>th</sup> - February 8<sup>th</sup> 2019
+Go to the [Course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2019/ELB19F/)
 
 ---
 
