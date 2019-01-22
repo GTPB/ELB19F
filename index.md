@@ -21,7 +21,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 ## Course Documentation
 
-**Note -** All the datasets used fot this training course is available in the following button. You need to unzip this file and follow the instructions throughout the documentation.
+**Note -** All the datasets used for this training course is available in the following button. You need to unzip this file and follow the instructions throughout the documentation.
 
 [**Download ELB19F Datasets**](https://github.com/GTPB/ELB19F/archive/data.zip){: .btn} <sub><i>File Size: 185,9MB</i></sub>
 
