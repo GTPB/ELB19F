@@ -32,13 +32,13 @@ This course is intended for those wishing to investigate how they might begin to
         
          Discussion about the best approach for the definition of Bioinformatics
          
-<details><summary><Click for Introductory Presentations</summary>
+<details><summary>Click for Introductory Presentations</summary>
       <video width="320" height="240" controls preload>
         <source src="assets/videos/DotPlots.mp4" type="video/mp4">
               <p>Your browser doesn't support HTML5 video. Here is
      a <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s">link to the youtube version</a> instead.</p>
       </video>
-</details>
+</details></br/>
 
 **2 -** [**Genome Databases and Tools**](assets/01-Databases_Practical.pdf)
 
