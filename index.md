@@ -44,12 +44,12 @@ This course is intended for those wishing to investigate how they might begin to
          Global vs. Sensitive Local Paiwise Sequence Comparison
 
 <details>
-        <summary><strong>Click here for Introductory Video of Pairwise Alignments</strong></summary>
+        <summary>Click here for Introductory Video of Pairwise Alignments</summary>
      <video width="320" height="240" controls preload>
        <source src="assets/videos/DotPlots.mp4" type="video/mp4">
          <p>Your browser doesn't support HTML5 video. Here is a <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s">link to the youtube version</a> instead.</p>
       </video>
-</details>
+</details><br/>
 
 **4 -** [**Databases Searching Methods (primarly blast)**](assets/03-Database_Searching_Practical.pdf)
 
@@ -74,7 +74,25 @@ This course is intended for those wishing to investigate how they might begin to
          Use of various software tools and their differences between them
 
 <br/>
+<details>
+        <summary><strong>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</strong></summary><br>
 
+  <details style="background-color:Turquoise;"><summary>FASTA & FASTQ Sequencing File Formats</summary>
+    <video width="320" height="240" controls preload>
+      <source src="assets/videos/00-FASTQ_PHRED_ASCII-Part_1.mp4"> Your browser doesn't support HTML5 video</src>
+    </video>
+  </details><br>
+
+  <details style="background-color:Turquoise;"><summary>Read Pair Sequencing - Overview</summary>
+    <video width="320" height="240" controls preload>
+      <source src="assets/videos/01_Paired_Reads.mp4"> Your browser doesn't support HTML5 video</src>
+    </video>
+  </details><br>
+  <a href="https://era7bioinformatics.com/en/page.cfm?id=1626&title=paired-end-and-mate-pair-sequencing:
+                   -what-is-it-and-how-is-it-done?">
+                 Read Pair Sequencing - Generation Techniques<a><br/>
+</details><br>
+        
 ### Day 4
 **8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.md)
 
