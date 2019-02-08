@@ -76,7 +76,7 @@ This course is intended for those wishing to investigate how they might begin to
 <br/>
 <blockquote>
         <details>
-                <summary><strong>Optional:</strong>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</summary><br>
+                <summary><strong>Optional: </strong>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</summary><br>
 
   <details><summary>FASTA & FASTQ Sequencing File Formats</summary>
     <video width="320" height="240" controls preload>
