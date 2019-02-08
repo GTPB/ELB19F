@@ -28,7 +28,7 @@ This course is intended for those wishing to investigate how they might begin to
 <br/>
 
 ### Day 1
-**1 -** [**Short introduction of what is Bioinformatics**](assets/000-Bioinformatics_Definition.pdf)
+**1 -** [**Short introduction of what is Bioinformatics**](assets/00-Bioinformatics_Definition.pdf)
         
          Discussion about the best approach for the definition of Bioinformatics
 
