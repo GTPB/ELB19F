@@ -31,6 +31,12 @@ This course is intended for those wishing to investigate how they might begin to
 **1 -** [**Short introduction of what is Bioinformatics**](assets/00-Bioinformatics_Definition.pdf)
         
          Discussion about the best approach for the definition of Bioinformatics
+         
+<details><summary><Click for Introductory Presentations</summary>
+      <video width="320" height="240" controls preload>
+        <source src="assets/videos/DotPlots.mp4"> This video is currently not avaiable</src>
+      </video>
+    </details>
 
 **2 -** [**Genome Databases and Tools**](assets/01-Databases_Practical.pdf)
 
