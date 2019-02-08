@@ -43,7 +43,7 @@ This course is intended for those wishing to investigate how they might begin to
 
          Global vs. Sensitive Local Paiwise Sequence Comparison
 
-<details><summary><strong>Click here for Introductory Video of Pairwise Alignments</strong></summary>
+<details><summary><strong>Click here for Introductory Video of Pairwise Alignments</strong></summary></details>
         <details><summary>Dotplots</summary>
       <video width="320" height="240" controls preload>
         <source src="assets/videos/DotPlots.mp4" type="video/mp4">
