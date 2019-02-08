@@ -75,7 +75,7 @@ This course is intended for those wishing to investigate how they might begin to
 
 <br/>
 <details>
-        <summary><strong>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</strong></summary><br>
+        <summary>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</summary><br>
 
   <details style="background-color:Turquoise;"><summary>FASTA & FASTQ Sequencing File Formats</summary>
     <video width="320" height="240" controls preload>
@@ -88,9 +88,7 @@ This course is intended for those wishing to investigate how they might begin to
       <source src="assets/videos/01_Paired_Reads.mp4"> Your browser doesn't support HTML5 video</src>
     </video>
   </details><br>
-  <a href="https://era7bioinformatics.com/en/page.cfm?id=1626&title=paired-end-and-mate-pair-sequencing:
-                   -what-is-it-and-how-is-it-done?">
-                 Read Pair Sequencing - Generation Techniques<a><br/>
+  <a href="https://era7bioinformatics.com/en/page.cfm?id=1626&title=paired-end-and-mate-pair-sequencing:-what-is-it-and-how-is-it-done?">Read Pair Sequencing - Generation Techniques<a><br/>
 </details><br>
         
 ### Day 4
