@@ -1,0 +1,1394 @@
+ID   NKX25_HUMAN_138_197     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.5 (Cardiac-specific homeobox) (Homeobox protein CSX) (Homeobox protein NK-2 homolog E)
+SQ   SEQUENCE   60 AA;  7514 MW;  16EE564D071E5E8A CRC64;
+     RRKPRVLFSQ AQVYELERRF KQQRYLSAPE RDQLASVLKL TSTQVKIWFQ NRRYKCKRQR
+//
+ID   HXA1_HUMAN_229_288      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A1 (Homeobox protein Hox-1F)
+SQ   SEQUENCE   60 AA;  7365 MW;  53E2BC59B06F544E CRC64;
+     PNAVRTNFTT KQLTELEKEF HFNKYLTRAR RVEIAASLQL NETQVKIWFQ NRRMKQKKRE
+//
+ID   PAX6_HUMAN_210_269      Reviewed;          60 AA.
+DE   [DNA_contact] Paired box protein Pax-6 (Aniridia type II protein) (Oculorhombin)
+SQ   SEQUENCE   60 AA;  7447 MW;  075C194DB9F33ED9 CRC64;
+     LQRNRTSFTQ EQIEALEKEF ERTHYPDVFA RERLAAKIDL PEARIQVWFS NRRAKWRREE
+//
+ID   PITX2_HUMAN_85_144      Reviewed;          60 AA.
+DE   [DNA_contact] Pituitary homeobox 2 (ALL1-responsive protein ARP1) (Homeobox protein PITX2) (Paired-like homeodomain transcription factor 2) (RIEG bicoid-related homeobox transcription factor) (Solurshin)
+SQ   SEQUENCE   60 AA;  7622 MW;  49CF61CFC17E1E0E CRC64;
+     QRRQRTHFTS QQLQELEATF QRNRYPDMST REEIAVWTNL TEARVRVWFK NRRAKWRKRE
+//
+ID   NKX31_HUMAN_124_183     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-3.1 (Homeobox protein NK-3 homolog A)
+SQ   SEQUENCE   60 AA;  7339 MW;  F665B481E2E574BB CRC64;
+     QKRSRAAFSH TQVIELERKF SHQKYLSAPE RAHLAKNLKL TETQVKIWFQ NRRYKTKRKQ
+//
+ID   PO5F1_HUMAN_230_289     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 5, transcription factor 1 (Octamer-binding protein 3) (Oct-3) (Octamer-binding protein 4) (Oct-4) (Octamer-binding transcription factor 3) (OTF-3)
+SQ   SEQUENCE   60 AA;  7146 MW;  D8B48C758844FD5E CRC64;
+     RKRKRTSIEN RVRGNLENLF LQCPKPTLQQ ISHIAQQLGL EKDVVRVWFC NRRQKGKRSS
+//
+ID   SATB1_HUMAN_645_704     Reviewed;          60 AA.
+DE   [DNA_contact] DNA-binding protein SATB1 (Special AT-rich sequence-binding protein 1)
+SQ   SEQUENCE   60 AA;  6994 MW;  B23F1A1FFD3FE9F2 CRC64;
+     TRPRTKISVE ALGILQSFIQ DVGLYPDEEA IQTLSAQLDL PKYTIIKFFQ NQRYYLKHHG
+//
+ID   SIX1_HUMAN_124_183      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX1 (Sine oculis homeobox homolog 1)
+SQ   SEQUENCE   60 AA;  7133 MW;  6315D7FD8FF0B011 CRC64;
+     GEETSYCFKE KSRGVLREWY AHNPYPSPRE KRELAEATGL TTTQVSNWFK NRRQRDRAAE
+//
+ID   NKX21_HUMAN_161_220     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.1 (Homeobox protein NK-2 homolog A) (Thyroid nuclear factor 1) (Thyroid transcription factor 1) (TTF-1) (Thyroid-specific enhancer-binding protein) (T/EBP)
+SQ   SEQUENCE   60 AA;  7543 MW;  E565543A1BE7408D CRC64;
+     RRKRRVLFSQ AQVYELERRF KQQKYLSAPE REHLASMIHL TPTQVKIWFQ NHRYKMKRQA
+//
+ID   PAX3_HUMAN_219_278      Reviewed;          60 AA.
+DE   [DNA_contact] Paired box protein Pax-3 (HuP2)
+SQ   SEQUENCE   60 AA;  7468 MW;  4343ECF97B61C49A CRC64;
+     QRRSRTTFTA EQLEELERAF ERTHYPDIYT REELAQRAKL TEARVQVWFS NRRARWRKQA
+//
+ID   ZFHX3_HUMAN_2145_2204     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 3 (AT motif-binding factor 1) (AT-binding transcription factor 1) (Alpha-fetoprotein enhancer-binding protein) (Zinc finger homeodomain protein 3) (ZFH-3)
+SQ   SEQUENCE   60 AA;  7371 MW;  5362C5CB9247D9A6 CRC64;
+     NKRPRTRITD DQLRVLRQYF DINNSPSEEQ IKEMADKSGL PQKVIKHWFR NTLFKERQRN
+//
+ID   ZFHX3_HUMAN_2242_2301     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 3 (AT motif-binding factor 1) (AT-binding transcription factor 1) (Alpha-fetoprotein enhancer-binding protein) (Zinc finger homeodomain protein 3) (ZFH-3)
+SQ   SEQUENCE   60 AA;  7312 MW;  A0744C30E853A201 CRC64;
+     KRSSRTRFTD YQLRVLQDFF DANAYPKDDE FEQLSNLLNL PTRVIVVWFQ NARQKARKNY
+//
+ID   ZFHX3_HUMAN_2641_2700     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 3 (AT motif-binding factor 1) (AT-binding transcription factor 1) (Alpha-fetoprotein enhancer-binding protein) (Zinc finger homeodomain protein 3) (ZFH-3)
+SQ   SEQUENCE   60 AA;  7247 MW;  A773622D2463A4A2 CRC64;
+     DKRLRTTITP EQLEILYQKY LLDSNPTRKM LDHIAHEVGL KKRVVQVWFQ NTRARERKGQ
+//
+ID   ZFHX3_HUMAN_2944_3003     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 3 (AT motif-binding factor 1) (AT-binding transcription factor 1) (Alpha-fetoprotein enhancer-binding protein) (Zinc finger homeodomain protein 3) (ZFH-3)
+SQ   SEQUENCE   60 AA;  7054 MW;  0C5A6CAA78C838F7 CRC64;
+     PGQKRFRTQM TNLQLKVLKS CFNDYRTPTM LECEVLGNDI GLPKRVVQVW FQNARAKEKK
+//
+ID   CRX_HUMAN_39_98         Reviewed;          60 AA.
+DE   [DNA_contact] Cone-rod homeobox protein
+SQ   SEQUENCE   60 AA;  7369 MW;  B8E43274B30EBAC6 CRC64;
+     QRRERTTFTR SQLEELEALF AKTQYPDVYA REEVALKINL PESRVQVWFK NRRAKCRQQR
+//
+ID   ZEB1_HUMAN_581_640      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger E-box-binding homeobox 1 (NIL-2-A zinc finger protein) (Negative regulator of IL2) (Transcription factor 8) (TCF-8)
+SQ   SEQUENCE   60 AA;  6626 MW;  0D5B0A4C8A54E0EE CRC64;
+     NLSPSQPPLK NLLSLLKAYY ALNAQPSAEE LSKIADSVNL PLDVVKKWFE KMQAGQISVQ
+//
+ID   SIX3_HUMAN_206_265      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX3 (Sine oculis homeobox homolog 3)
+SQ   SEQUENCE   60 AA;  7131 MW;  BB656C352C078610 CRC64;
+     GEQKTHCFKE RTRSLLREWY LQDPYPNPSK KRELAQATGL TPTQVGNWFK NRRQRDRAAA
+//
+ID   PDX1_HUMAN_146_205      Reviewed;          60 AA.
+DE   [DNA_contact] Pancreas/duodenum homeobox protein 1 (PDX-1) (Glucose-sensitive factor) (GSF) (Insulin promoter factor 1) (IPF-1) (Insulin upstream factor 1) (IUF-1) (Islet/duodenum homeobox-1) (IDX-1) (Somatostatin-transactivating factor 1) (STF-1)
+SQ   SEQUENCE   60 AA;  7609 MW;  0A077E9922D6177D CRC64;
+     NKRTRTAYTR AQLLELEKEF LFNKYISRPR RVELAVMLNL TERHIKIWFQ NRRMKWKKEE
+//
+ID   HHEX_HUMAN_137_196      Reviewed;          60 AA.
+DE   [DNA_contact] Hematopoietically-expressed homeobox protein HHEX (Homeobox protein HEX) (Homeobox protein PRH)
+SQ   SEQUENCE   60 AA;  7449 MW;  FF604E0359FA36E6 CRC64;
+     RKGGQVRFSN DQTIELEKKF ETQKYLSPPE RKRLAKMLQL SERQVKTWFQ NRRAKWRRLK
+//
+ID   MSX1_HUMAN_172_231      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein MSX-1 (Homeobox protein Hox-7) (Msh homeobox 1-like protein)
+SQ   SEQUENCE   60 AA;  7167 MW;  A5BD1BBEDF4D5FD9 CRC64;
+     NRKPRTPFTT AQLLALERKF RQKQYLSIAE RAEFSSSLSL TETQVKIWFQ NRRAKAKRLQ
+//
+ID   HXD13_HUMAN_276_335     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D13 (Homeobox protein Hox-4I)
+SQ   SEQUENCE   60 AA;  7318 MW;  763C22BD05EE832B CRC64;
+     GRKKRVPYTK LQLKELENEY AINKFINKDK RRRISAATNL SERQVTIWFQ NRRVKDKKIV
+//
+ID   OTX1_HUMAN_38_97        Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein OTX1 (Orthodenticle homolog 1)
+SQ   SEQUENCE   60 AA;  7384 MW;  B60BE9E4B1E57F07 CRC64;
+     QRRERTTFTR SQLDVLEALF AKTRYPDIFM REEVALKINL PESRVQVWFK NRRAKCRQQQ
+//
+ID   PIT1_HUMAN_214_273      Reviewed;          60 AA.
+DE   [DNA_contact] Pituitary-specific positive transcription factor 1 (PIT-1) (Growth hormone factor 1) (GHF-1)
+SQ   SEQUENCE   60 AA;  7312 MW;  AF4B18FC8B306D7E CRC64;
+     KRKRRTTISI AAKDALERHF GEQNKPSSQE IMRMAEELNL EKEVVRVWFC NRRQREKRVK
+//
+ID   PO4F2_HUMAN_345_404     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 4, transcription factor 2 {ECO:0000312|HGNC:HGNC:9219} (Brain-specific homeobox/POU domain protein 3B) (Brain-3B) (Brn-3B)
+SQ   SEQUENCE   60 AA;  7099 MW;  CBAAFFA434B09AF8 CRC64;
+     KKRKRTSIAA PEKRSLEAYF AIQPRPSSEK IAAIAEKLDL KKNVVRVWFC NQRQKQKRMK
+//
+ID   ISL1_HUMAN_181_240      Reviewed;          60 AA.
+DE   [DNA_contact] Insulin gene enhancer protein ISL-1 (Islet-1)
+SQ   SEQUENCE   60 AA;  7113 MW;  CA277DECBB207615 CRC64;
+     TTRVRTVLNE KQLHTLRTCY AANPRPDALM KEQLVEMTGL SPRVIRVWFQ NKRCKDKKRS
+//
+ID   ZEB2_HUMAN_644_703      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger E-box-binding homeobox 2 (Smad-interacting protein 1) (SMADIP1) (Zinc finger homeobox protein 1b)
+SQ   SEQUENCE   60 AA;  7018 MW;  C1822D0384EC094B CRC64;
+     GMTSPINPYK DHMSVLKAYY AMNMEPNSDE LLKISIAVGL PQEFVKEWFE QRKVYQYSNS
+//
+ID   LHX1_HUMAN_180_239      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx1 (LIM homeobox protein 1) (Homeobox protein Lim-1) (hLim-1)
+SQ   SEQUENCE   60 AA;  7130 MW;  EF2E0A12642FB111 CRC64;
+     RRGPRTTIKA KQLETLKAAF AATPKPTRHI REQLAQETGL NMRVIQVWFQ NRRSKERRMK
+//
+ID   MEIS2_HUMAN_276_338     Reviewed;          63 AA.
+DE   [DNA_contact] Homeobox protein Meis2 (Meis1-related protein 1)
+SQ   SEQUENCE   63 AA;  7544 MW;  841326B1D77C007E CRC64;
+     RQKKRGIFPK VATNIMRAWL FQHLTHPYPS EEQKKQLAQD TGLTILQVNN WFINARRRIV
+     QPM
+//
+ID   MSX2_HUMAN_142_201      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein MSX-2 (Homeobox protein Hox-8)
+SQ   SEQUENCE   60 AA;  7210 MW;  A5A2FBBEC0B885E9 CRC64;
+     NRKPRTPFTT SQLLALERKF RQKQYLSIAE RAEFSSSLNL TETQVKIWFQ NRRAKAKRLQ
+//
+ID   GBX2_HUMAN_247_306      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein GBX-2 (Gastrulation and brain-specific homeobox protein 2)
+SQ   SEQUENCE   60 AA;  7415 MW;  7F4E6EBA384DED39 CRC64;
+     NRRRRTAFTS EQLLELEKEF HCKKYLSLTE RSQIAHALKL SEVQVKIWFQ NRRAKWKRVK
+//
+ID   GBX1_HUMAN_261_320      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein GBX-1 (Gastrulation and brain-specific homeobox protein 1)
+SQ   SEQUENCE   60 AA;  7402 MW;  7F5CFEA7254DF024 CRC64;
+     SRRRRTAFTS EQLLELEKEF HCKKYLSLTE RSQIAHALKL SEVQVKIWFQ NRRAKWKRIK
+//
+ID   GSC2_HUMAN_126_185      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein goosecoid-2 (GSC-2) (Homeobox protein goosecoid-like) (GSC-L)
+SQ   SEQUENCE   60 AA;  7521 MW;  E982108D93BA96AA CRC64;
+     TRRHRTIFSE EQLQALEALF VQNQYPDVST RERLAGRIRL REERVEVWFK NRRAKWRHQK
+//
+ID   GSC_HUMAN_160_219       Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein goosecoid
+SQ   SEQUENCE   60 AA;  7580 MW;  F685D68ED09DC80D CRC64;
+     KRRHRTIFTD EQLEALENLF QETKYPDVGT REQLARKVHL REEKVEVWFK NRRAKWRRQK
+//
+ID   GSX2_HUMAN_202_261      Reviewed;          60 AA.
+DE   [DNA_contact] GS homeobox 2 (Genetic-screened homeobox 2) (Homeobox protein GSH-2)
+SQ   SEQUENCE   60 AA;  7318 MW;  0FC26522F457BA9F CRC64;
+     GKRMRTAFTS TQLLELEREF SSNMYLSRLR RIEIATYLNL SEKQVKIWFQ NRRVKHKKEG
+//
+ID   GSX1_HUMAN_147_206      Reviewed;          60 AA.
+DE   [DNA_contact] GS homeobox 1 (Homeobox protein GSH-1)
+SQ   SEQUENCE   60 AA;  7332 MW;  89191F36E057AE92 CRC64;
+     SKRMRTAFTS TQLLELEREF ASNMYLSRLR RIEIATYLNL SEKQVKIWFQ NRRVKHKKEG
+//
+ID   HDX_HUMAN_3_63          Reviewed;          61 AA.
+DE   [DNA_contact] Highly divergent homeobox
+SQ   SEQUENCE   61 AA;  7301 MW;  2AE50B9E7CBDF0DC CRC64;
+     LRSVFTVEQQ RILQRYYENG MTNQSKNCFQ LILQCAQETK LDFSVVRTWV GNKRRKMSSK
+     N
+//
+ID   HDX_HUMAN_435_498       Reviewed;          64 AA.
+DE   [DNA_contact] Highly divergent homeobox
+SQ   SEQUENCE   64 AA;  7480 MW;  7429AFEAC992783D CRC64;
+     ALQDRTQFSD RDLATLKKYW DNGMTSLGSV CREKIEAVAT ELNVDCEIVR TWIGNRRRKY
+     RLMG
+//
+ID   HXC5_HUMAN_155_214      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C5 (Homeobox protein CP11) (Homeobox protein Hox-3D)
+SQ   SEQUENCE   60 AA;  7708 MW;  42EC3E786FE2186D CRC64;
+     GKRSRTSYTR YQTLELEKEF HFNRYLTRRR RIEIANNLCL NERQIKIWFQ NRRMKWKKDS
+//
+ID   HXD9_HUMAN_285_344      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D9 (Homeobox protein Hox-4C) (Homeobox protein Hox-5.2)
+SQ   SEQUENCE   60 AA;  7709 MW;  16733C16E919F682 CRC64;
+     TRKKRCPYTK YQTLELEKEF LFNMYLTRDR RYEVARILNL TERQVKIWFQ NRRMKMKKMS
+//
+ID   HXA6_HUMAN_155_214      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A6 (Homeobox protein Hox-1B)
+SQ   SEQUENCE   60 AA;  7732 MW;  10F49265A19E57BB CRC64;
+     GRRGRQTYTR YQTLELEKEF HFNRYLTRRR RIEIANALCL TERQIKIWFQ NRRMKWKKEN
+//
+ID   HXA7_HUMAN_130_189      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A7 (Homeobox protein Hox 1.1) (Homeobox protein Hox-1A)
+SQ   SEQUENCE   60 AA;  7849 MW;  1334ED69B4875BAE CRC64;
+     RKRGRQTYTR YQTLELEKEF HFNRYLTRRR RIEIAHALCL TERQIKIWFQ NRRMKWKKEH
+//
+ID   HXC8_HUMAN_149_208      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C8 (Homeobox protein Hox-3A)
+SQ   SEQUENCE   60 AA;  7602 MW;  DD26AEB609CE1F58 CRC64;
+     RRSGRQTYSR YQTLELEKEF LFNPYLTRKR RIEVSHALGL TERQVKIWFQ NRRMKWKKEN
+//
+ID   HMX1_HUMAN_203_262      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein HMX1 (Homeobox protein H6)
+SQ   SEQUENCE   60 AA;  7204 MW;  36C35FD60AA56C62 CRC64;
+     KKKTRTVFSR SQVFQLESTF DLKRYLSSAE RAGLAASLQL TETQVKIWFQ NRRNKWKRQL
+//
+ID   HXA11_HUMAN_241_300     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A11 (Homeobox protein Hox-1I)
+SQ   SEQUENCE   60 AA;  7728 MW;  4F1AEEC8C2050C27 CRC64;
+     TRKKRCPYTK YQIRELEREF FFSVYINKEK RLQLSRMLNL TDRQVKIWFQ NRRMKEKKIN
+//
+ID   HXC4_HUMAN_156_215      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C4 (Homeobox protein CP19) (Homeobox protein Hox-3E)
+SQ   SEQUENCE   60 AA;  7730 MW;  2C28B641C14DFCD5 CRC64;
+     PKRSRTAYTR QQVLELEKEF HYNRYLTRRR RIEIAHSLCL SERQIKIWFQ NRRMKWKKDH
+//
+ID   HME2_HUMAN_244_303      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein engrailed-2 (Homeobox protein en-2) (Hu-En-2)
+SQ   SEQUENCE   60 AA;  7236 MW;  4C446EDC4728546E CRC64;
+     DKRPRTAFTA EQLQRLKAEF QTNRYLTEQR RQSLAQELSL NESQIKIWFQ NKRAKIKKAT
+//
+ID   HXC11_HUMAN_232_291     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C11 (Homeobox protein Hox-3H)
+SQ   SEQUENCE   60 AA;  7698 MW;  C7FA95A033C5E779 CRC64;
+     TRKKRCPYSK FQIRELEREF FFNVYINKEK RLQLSRMLNL TDRQVKIWFQ NRRMKEKKLS
+//
+ID   HXC6_HUMAN_141_200      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C6 (Homeobox protein CP25) (Homeobox protein HHO.C8) (Homeobox protein Hox-3C)
+SQ   SEQUENCE   60 AA;  7802 MW;  4C199275E48AC125 CRC64;
+     RRRGRQIYSR YQTLELEKEF HFNRYLTRRR RIEIANALCL TERQIKIWFQ NRRMKWKKES
+//
+ID   HXD11_HUMAN_266_325     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D11 (Homeobox protein Hox-4F)
+SQ   SEQUENCE   60 AA;  7741 MW;  D61D9ECFC515E52E CRC64;
+     SRKKRCPYTK YQIRELEREF FFNVYINKEK RLQLSRMLNL TDRQVKIWFQ NRRMKEKKLN
+//
+ID   HXD8_HUMAN_197_256      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D8 (Homeobox protein Hox-4E) (Homeobox protein Hox-5.4)
+SQ   SEQUENCE   60 AA;  7669 MW;  DD30A4DBA91BC478 CRC64;
+     RRRGRQTYSR FQTLELEKEF LFNPYLTRKR RIEVSHALAL TERQVKIWFQ NRRMKWKKEN
+//
+ID   HXB4_HUMAN_162_221      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B4 (Homeobox protein Hox-2.6) (Homeobox protein Hox-2F)
+SQ   SEQUENCE   60 AA;  7700 MW;  2D1AB641DFBC13CB CRC64;
+     PKRSRTAYTR QQVLELEKEF HYNRYLTRRR RVEIAHALCL SERQIKIWFQ NRRMKWKKDH
+//
+ID   HXB6_HUMAN_146_205      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B6 (Homeobox protein Hox-2.2) (Homeobox protein Hox-2B) (Homeobox protein Hu-2)
+SQ   SEQUENCE   60 AA;  7744 MW;  25F7F465A19E4403 CRC64;
+     GRRGRQTYTR YQTLELEKEF HYNRYLTRRR RIEIAHALCL TERQIKIWFQ NRRMKWKKES
+//
+ID   HXB7_HUMAN_137_196      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B7 (Homeobox protein HHO.C1) (Homeobox protein Hox-2C)
+SQ   SEQUENCE   60 AA;  7872 MW;  3542ED69B487480D CRC64;
+     RKRGRQTYTR YQTLELEKEF HYNRYLTRRR RIEIAHTLCL TERQIKIWFQ NRRMKWKKEN
+//
+ID   HXD12_HUMAN_202_261     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D12 (Homeobox protein Hox-4H)
+SQ   SEQUENCE   60 AA;  7502 MW;  75A04A4E371A9681 CRC64;
+     ARKKRKPYTK QQIAELENEF LVNEFINRQK RKELSNRLNL SDQQVKIWFQ NRRMKKKRVV
+//
+ID   HXA2_HUMAN_143_202      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A2 (Homeobox protein Hox-1K)
+SQ   SEQUENCE   60 AA;  7518 MW;  A5A165090A9F9D1F CRC64;
+     SRRLRTAYTN TQLLELEKEF HFNKYLCRPR RVEIAALLDL TERQVKVWFQ NRRMKHKRQT
+//
+ID   HXA3_HUMAN_191_250      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A3 (Homeobox protein Hox-1E)
+SQ   SEQUENCE   60 AA;  7505 MW;  D78624EB8EA8036B CRC64;
+     SKRARTAYTS AQLVELEKEF HFNRYLCRPR RVEMANLLNL TERQIKIWFQ NRRMKYKKDQ
+//
+ID   HXC10_HUMAN_268_327     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C10 (Homeobox protein Hox-3I)
+SQ   SEQUENCE   60 AA;  7588 MW;  50CB9070DB88A633 CRC64;
+     GRKKRCPYTK HQTLELEKEF LFNMYLTRER RLEISKTINL TDRQVKIWFQ NRRMKLKKMN
+//
+ID   HXC13_HUMAN_260_319     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C13 (Homeobox protein Hox-3G)
+SQ   SEQUENCE   60 AA;  7280 MW;  5DDC6F39C96F6067 CRC64;
+     GRKKRVPYTK VQLKELEKEY AASKFITKEK RRRISATTNL SERQVTIWFQ NRRVKEKKVV
+//
+ID   HXD3_HUMAN_194_253      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D3 (Homeobox protein Hox-4A)
+SQ   SEQUENCE   60 AA;  7533 MW;  C09124FC99A8036B CRC64;
+     SKRVRTAYTS AQLVELEKEF HFNRYLCRPR RVEMANLLNL TERQIKIWFQ NRRMKYKKDQ
+//
+ID   HXD1_HUMAN_229_288      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D1 (Homeobox protein Hox-GG)
+SQ   SEQUENCE   60 AA;  7397 MW;  B21D5F86929117F0 CRC64;
+     SSAIRTNFST KQLTELEKEF HFNKYLTRAR RIEIANCLHL NDTQVKIWFQ NRRMKQKKRE
+//
+ID   HXD4_HUMAN_154_213      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D4 (Homeobox protein HHO.C13) (Homeobox protein Hox-4B) (Homeobox protein Hox-5.1)
+SQ   SEQUENCE   60 AA;  7728 MW;  0ECCB641C14DEF68 CRC64;
+     PKRSRTAYTR QQVLELEKEF HFNRYLTRRR RIEIAHTLCL SERQIKIWFQ NRRMKWKKDH
+//
+ID   HXA5_HUMAN_195_254      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A5 (Homeobox protein Hox-1C)
+SQ   SEQUENCE   60 AA;  7656 MW;  F583587FA7CDF866 CRC64;
+     GKRARTAYTR YQTLELEKEF HFNRYLTRRR RIEIAHALCL SERQIKIWFQ NRRMKWKKDN
+//
+ID   HXA9_HUMAN_206_265      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A9 (Homeobox protein Hox-1G)
+SQ   SEQUENCE   60 AA;  7692 MW;  F7CD577B4269F684 CRC64;
+     TRKKRCPYTK HQTLELEKEF LFNMYLTRDR RYEVARLLNL TERQVKIWFQ NRRMKMKKIN
+//
+ID   HXB9_HUMAN_185_244      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B9 (Homeobox protein Hox-2.5) (Homeobox protein Hox-2E)
+SQ   SEQUENCE   60 AA;  7682 MW;  F7D63C14FE58F083 CRC64;
+     SRKKRCPYTK YQTLELEKEF LFNMYLTRDR RHEVARLLNL SERQVKIWFQ NRRMKMKKMN
+//
+ID   HXC12_HUMAN_214_273     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C12 (Homeobox protein Hox-3F)
+SQ   SEQUENCE   60 AA;  7504 MW;  A373EFA299061056 CRC64;
+     SRKKRKPYSK LQLAELEGEF LVNEFITRQR RRELSDRLNL SDQQVKIWFQ NRRMKKKRLL
+//
+ID   HOP_HUMAN_3_62          Reviewed;          60 AA.
+DE   [DNA_contact] Homeodomain-only protein (Lung cancer-associated Y protein) (Not expressed in choriocarcinoma protein 1) (Odd homeobox protein 1)
+SQ   SEQUENCE   60 AA;  6897 MW;  5CB0DB9E5612C8DE CRC64;
+     AETASGPTED QVEILEYNFN KVDKHPDSTT LCLIAAEAGL SEEETQKWFK QRLAKWRRSE
+//
+ID   HXA10_HUMAN_336_395     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A10 (Homeobox protein Hox-1.8) (Homeobox protein Hox-1H) (PL)
+SQ   SEQUENCE   60 AA;  7611 MW;  E72D1970DB8C6B7A CRC64;
+     GRKKRCPYTK HQTLELEKEF LFNMYLTRER RLEISRSVHL TDRQVKIWFQ NRRMKLKKMN
+//
+ID   HXA13_HUMAN_322_381     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A13 (Homeobox protein Hox-1J)
+SQ   SEQUENCE   60 AA;  7365 MW;  6D47C1F6F59293DE CRC64;
+     GRKKRVPYTK VQLKELEREY ATNKFITKDK RRRISATTNL SERQVTIWFQ NRRVKEKKVI
+//
+ID   HXA4_HUMAN_215_274      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-A4 (Homeobox protein Hox-1.4) (Homeobox protein Hox-1D)
+SQ   SEQUENCE   60 AA;  7714 MW;  E21CB641C14DEF70 CRC64;
+     PKRSRTAYTR QQVLELEKEF HFNRYLTRRR RIEIAHTLCL SERQVKIWFQ NRRMKWKKDH
+//
+ID   HXB13_HUMAN_216_275     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B13
+SQ   SEQUENCE   60 AA;  7249 MW;  517985869F7E58CF CRC64;
+     GRKKRIPYSK GQLRELEREY AANKFITKDK RRKISAATSL SERQITIWFQ NRRVKEKKVL
+//
+ID   HXB5_HUMAN_194_253      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B5 (Homeobox protein HHO.C10) (Homeobox protein Hox-2A) (Homeobox protein Hu-1)
+SQ   SEQUENCE   60 AA;  7656 MW;  F583587FA7CDF866 CRC64;
+     GKRARTAYTR YQTLELEKEF HFNRYLTRRR RIEIAHALCL SERQIKIWFQ NRRMKWKKDN
+//
+ID   HXB8_HUMAN_146_205      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B8 (Homeobox protein Hox-2.4) (Homeobox protein Hox-2D)
+SQ   SEQUENCE   60 AA;  7671 MW;  DD27AFB608CF1F58 CRC64;
+     RRRGRQTYSR YQTLELEKEF LFNPYLTRKR RIEVSHALGL TERQVKIWFQ NRRMKWKKEN
+//
+ID   IRX3_HUMAN_125_188      Reviewed;          64 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-3 (Homeodomain protein IRXB1) (Iroquois homeobox protein 3)
+SQ   SEQUENCE   64 AA;  7446 MW;  B6D78E0A21BC0C2B CRC64;
+     FGDPSRPKNA TRESTSTLKA WLNEHRKNPY PTKGEKIMLA IITKMTLTQV STWFANARRR
+     LKKE
+//
+ID   LHX6_HUMAN_219_278      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx6 (LIM homeobox protein 6) (LIM/homeobox protein Lhx6.1)
+SQ   SEQUENCE   60 AA;  6971 MW;  336D436B8567CF19 CRC64;
+     AKRARTSFTA EQLQVMQAQF AQDNNPDAQT LQKLADMTGL SRRVIQVWFQ NCRARHKKHT
+//
+ID   LBX2_HUMAN_85_144       Reviewed;          60 AA.
+DE   [DNA_contact] Transcription factor LBX2 (Ladybird homeobox protein homolog 2)
+SQ   SEQUENCE   60 AA;  7092 MW;  7F28B9D80AD64B17 CRC64;
+     RRKSRTAFTA QQVLELERRF VFQKYLAPSE RDGLATRLGL ANAQVVTWFQ NRRAKLKRDV
+//
+ID   LBX1_HUMAN_125_184      Reviewed;          60 AA.
+DE   [DNA_contact] Transcription factor LBX1 (Ladybird homeobox protein homolog 1)
+SQ   SEQUENCE   60 AA;  7324 MW;  F79825D5706B8000 CRC64;
+     RRKSRTAFTN HQIYELEKRF LYQKYLSPAD RDQIAQQLGL TNAQVITWFQ NRRAKLKRDL
+//
+ID   IRX1_HUMAN_125_188      Reviewed;          64 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-1 (Homeodomain protein IRXA1) (Iroquois homeobox protein 1)
+SQ   SEQUENCE   64 AA;  7432 MW;  A4479C9CA5BC1820 CRC64;
+     YGDPGRPKNA TRESTSTLKA WLNEHRKNPY PTKGEKIMLA IITKMTLTQV STWFANARRR
+     LKKE
+//
+ID   IRX4_HUMAN_143_204      Reviewed;          62 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-4 (Homeodomain protein IRXA3) (Iroquois homeobox protein 4)
+SQ   SEQUENCE   62 AA;  7302 MW;  476ABE702600E858 CRC64;
+     GTRRKNATRE TTSTLKAWLQ EHRKNPYPTK GEKIMLAIIT KMTLTQVSTW FANARRRLKK
+     EN
+//
+ID   ISL2_HUMAN_191_250      Reviewed;          60 AA.
+DE   [DNA_contact] Insulin gene enhancer protein ISL-2 (Islet-2)
+SQ   SEQUENCE   60 AA;  7085 MW;  CA304DECBB207615 CRC64;
+     TTRVRTVLNE KQLHTLRTCY AANPRPDALM KEQLVEMTGL SPRVIRVWFQ NKRCKDKKKS
+//
+ID   IRX5_HUMAN_113_175      Reviewed;          63 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-5 (Homeodomain protein IRX-2A) (Homeodomain protein IRXB2) (Iroquois homeobox protein 5)
+SQ   SEQUENCE   63 AA;  7360 MW;  0560FD8934B771DE CRC64;
+     DPAYRKNATR DATATLKAWL NEHRKNPYPT KGEKIMLAII TKMTLTQVST WFANARRRLK
+     KEN
+//
+ID   IRX6_HUMAN_144_207      Reviewed;          64 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-6 (Homeodomain protein IRXB3) (Iroquois homeobox protein 6)
+SQ   SEQUENCE   64 AA;  7401 MW;  A04A8A60C6A95F30 CRC64;
+     LSGAGRRKNA TRETTSTLKA WLNEHRKNPY PTKGEKIMLA IITKMTLTQV STWFANARRR
+     LKKE
+//
+ID   ISX_HUMAN_82_141        Reviewed;          60 AA.
+DE   [DNA_contact] Intestine-specific homeobox (RAX-like homeobox)
+SQ   SEQUENCE   60 AA;  7485 MW;  BB7822B9CB6A3DA3 CRC64;
+     KRRVRTTFTT EQLHELEKIF HFTHYPDVHI RSQLAARINL PEARVQIWFQ NQRAKWRKQE
+//
+ID   IRX2_HUMAN_112_175      Reviewed;          64 AA.
+DE   [DNA_contact] Iroquois-class homeodomain protein IRX-2 (Homeodomain protein IRXA2) (Iroquois homeobox protein 2)
+SQ   SEQUENCE   64 AA;  7473 MW;  A7D9AA33F771904A CRC64;
+     LNDPAYRKNA TRDATATLKA WLNEHRKNPY PTKGEKIMLA IITKMTLTQV STWFANARRR
+     LKKE
+//
+ID   LHX9_HUMAN_267_326      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx9 (LIM homeobox protein 9)
+SQ   SEQUENCE   60 AA;  7255 MW;  530CAAF511362516 CRC64;
+     TKRMRTSFKH HQLRTMKSYF AINHNPDAKD LKQLAQKTGL TKRVLQVWFQ NARAKFRRNL
+//
+ID   LHX4_HUMAN_157_216      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx4 (LIM homeobox protein 4)
+SQ   SEQUENCE   60 AA;  7090 MW;  431D2F53B7E94419 CRC64;
+     AKRPRTTITA KQLETLKNAY KNSPKPARHV REQLSSETGL DMRVVQVWFQ NRRAKEKRLK
+//
+ID   LHX3_HUMAN_157_216      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx3 (LIM homeobox protein 3)
+SQ   SEQUENCE   60 AA;  7036 MW;  249E75D99F5050A1 CRC64;
+     AKRPRTTITA KQLETLKSAY NTSPKPARHV REQLSSETGL DMRVVQVWFQ NRRAKEKRLK
+//
+ID   LHX8_HUMAN_225_284      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx8 (LIM homeobox protein 8)
+SQ   SEQUENCE   60 AA;  6994 MW;  60F394B0E917CF0F CRC64;
+     AKRARTSFTA DQLQVMQAQF AQDNNPDAQT LQKLAERTGL SRRVIQVWFQ NCRARHKKHV
+//
+ID   LMX1B_HUMAN_219_278     Reviewed;          60 AA.
+DE   [DNA_contact] LIM homeobox transcription factor 1-beta (LIM/homeobox protein 1.2) (LMX-1.2) (LIM/homeobox protein LMX1B)
+SQ   SEQUENCE   60 AA;  6958 MW;  F49523D6C5D85C04 CRC64;
+     PKRPRTILTT QQRRAFKASF EVSSKPCRKV RETLAAETGL SVRVVQVWFQ NQRAKMKKLA
+//
+ID   LHX2_HUMAN_266_325      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx2 (Homeobox protein LH-2) (LIM homeobox protein 2)
+SQ   SEQUENCE   60 AA;  7255 MW;  530CAAF511362516 CRC64;
+     TKRMRTSFKH HQLRTMKSYF AINHNPDAKD LKQLAQKTGL TKRVLQVWFQ NARAKFRRNL
+//
+ID   LHX5_HUMAN_180_239      Reviewed;          60 AA.
+DE   [DNA_contact] LIM/homeobox protein Lhx5 (LIM homeobox protein 5)
+SQ   SEQUENCE   60 AA;  7130 MW;  EF2E0A12642FB111 CRC64;
+     RRGPRTTIKA KQLETLKAAF AATPKPTRHI REQLAQETGL NMRVIQVWFQ NRRSKERRMK
+//
+ID   ME3L2_HUMAN_245_307     Reviewed;          63 AA.
+DE   [DNA_contact] Putative homeobox protein Meis3-like 2
+SQ   SEQUENCE   63 AA;  7661 MW;  A9B8C7D6D1A31D83 CRC64;
+     RNKKRGIFPK VATNIMRAWL FQHLWHPYPS EEQKKQLVQD TGLTILQVNN WFINARRRMV
+     QPM
+//
+ID   MEIS3_HUMAN_262_324     Reviewed;          63 AA.
+DE   [DNA_contact] Homeobox protein Meis3 (Meis1-related protein 2)
+SQ   SEQUENCE   63 AA;  7516 MW;  FDFAB6B1D7631B2F CRC64;
+     RNKKRGIFPK VATNIMRAWL FQHLSHPYPS EEQKKQLAQD TGLTILQVNN WFINARRRIV
+     QPM
+//
+ID   ME3L1_HUMAN_161_223     Reviewed;          63 AA.
+DE   [DNA_contact] Putative homeobox protein Meis3-like 1
+SQ   SEQUENCE   63 AA;  7516 MW;  FDFAB6B1D7631B2F CRC64;
+     RNKKRGIFPK VATNIMRAWL FQHLSHPYPS EEQKKQLAQD TGLTILQVNN WFINARRRIV
+     QPM
+//
+ID   MEOX1_HUMAN_171_230     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein MOX-1 (Mesenchyme homeobox 1)
+SQ   SEQUENCE   60 AA;  7575 MW;  67171361AA90374A CRC64;
+     ARKERTAFTK EQLRELEAEF AHHNYLTRLR RYEIAVNLDL SERQVKVWFQ NRRMKWKRVK
+//
+ID   MKX_HUMAN_71_132        Reviewed;          62 AA.
+DE   [DNA_contact] Homeobox protein Mohawk
+SQ   SEQUENCE   62 AA;  7417 MW;  5E0A4408E2AF30CE CRC64;
+     VRHKRQALQD MARPLKQWLY KHRDNPYPTK TEKILLALGS QMTLVQVSNW FANARRRLKN
+     TV
+//
+ID   MEOX2_HUMAN_187_246     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein MOX-2 (Growth arrest-specific homeobox) (Mesenchyme homeobox 2)
+SQ   SEQUENCE   60 AA;  7615 MW;  7AA1CEC5BBC0265F CRC64;
+     PRKERTAFTK EQIRELEAEF AHHNYLTRLR RYEIAVNLDL TERQVKVWFQ NRRMKWKRVK
+//
+ID   MEIS1_HUMAN_272_334     Reviewed;          63 AA.
+DE   [DNA_contact] Homeobox protein Meis1
+SQ   SEQUENCE   63 AA;  7553 MW;  933416B1D765197E CRC64;
+     RHKKRGIFPK VATNIMRAWL FQHLTHPYPS EEQKKQLAQD TGLTILQVNN WFINARRRIV
+     QPM
+//
+ID   MIXL1_HUMAN_86_145      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein MIXL1 (Homeodomain protein MIX) (hMix) (MIX1 homeobox-like protein 1) (Mix.1 homeobox-like protein)
+SQ   SEQUENCE   60 AA;  7408 MW;  7F23195CE12323C7 CRC64;
+     QRRKRTSFSA EQLQLLELVF RRTRYPDIHL RERLAALTLL PESRIQVWFQ NRRAKSRRQS
+//
+ID   MNX1_HUMAN_241_300      Reviewed;          60 AA.
+DE   [DNA_contact] Motor neuron and pancreas homeobox protein 1 (Homeobox protein HB9)
+SQ   SEQUENCE   60 AA;  7471 MW;  84E590F930E475D5 CRC64;
+     CRRPRTAFTS QQLLELEHQF KLNKYLSRPK RFEVATSLML TETQVKIWFQ NRRMKWKRSK
+//
+ID   NANP8_HUMAN_95_154      Reviewed;          60 AA.
+DE   [DNA_contact] Putative homeobox protein NANOGP8
+SQ   SEQUENCE   60 AA;  7442 MW;  A9B7002B38AE596A CRC64;
+     KQKTRTVFSS TQLCVLNDRF QRQKYLSLQQ MQELSNILNL SYKQVKTWFQ NQRMKSKRWQ
+//
+ID   NKX32_HUMAN_206_265     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-3.2 (Bagpipe homeobox protein homolog 1) (Homeobox protein NK-3 homolog B)
+SQ   SEQUENCE   60 AA;  7334 MW;  49AF670BD9DB06A8 CRC64;
+     KKRSRAAFSH AQVFELERRF NHQRYLSGPE RADLAASLKL TETQVKIWFQ NRRYKTKRRQ
+//
+ID   NKX24_HUMAN_189_248     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.4 (Homeobox protein NK-2 homolog D)
+SQ   SEQUENCE   60 AA;  7543 MW;  E565543A1BE7408D CRC64;
+     RRKRRVLFSQ AQVYELERRF KQQKYLSAPE REHLASMIHL TPTQVKIWFQ NHRYKMKRQA
+//
+ID   NKX23_HUMAN_148_207     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.3 (Homeobox protein NK-2 homolog C)
+SQ   SEQUENCE   60 AA;  7509 MW;  0B1A8655978756A4 CRC64;
+     RRKPRVLFSQ AQVFELERRF KQQRYLSAPE REHLASSLKL TSTQVKIWFQ NRRYKCKRQR
+//
+ID   NKX28_HUMAN_84_143      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.8 (Homeobox protein NK-2 homolog H)
+SQ   SEQUENCE   60 AA;  7525 MW;  2B2FD90D46E9907E CRC64;
+     RKKRRVLFSK AQTLELERRF RQQRYLSAPE REQLASLLRL TPTQVKIWFQ NHRYKLKRAR
+//
+ID   NKX62_HUMAN_148_207     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-6.2 (Homeobox protein NK-6 homolog B)
+SQ   SEQUENCE   60 AA;  7240 MW;  BCA0ADA4B97C24B3 CRC64;
+     KKHSRPTFSG QQIFALEKTF EQTKYLAGPE RARLAYSLGM TESQVKVWFQ NRRTKWRKRH
+//
+ID   NKX11_HUMAN_259_318     Reviewed;          60 AA.
+DE   [DNA_contact] NK1 transcription factor-related protein 1 (Homeobox protein 153) (HPX-153) (Homeobox protein SAX-2) (NKX-1.1)
+SQ   SEQUENCE   60 AA;  7245 MW;  AA5DFED573BE8BA8 CRC64;
+     PRRARTAFTY EQLVALENKF KATRYLSVCE RLNLALSLSL TETQVKIWFQ NRRTKWKKQN
+//
+ID   NKX22_HUMAN_128_187     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.2 (Homeobox protein NK-2 homolog B)
+SQ   SEQUENCE   60 AA;  7602 MW;  DE357015CFC987D1 CRC64;
+     KRKRRVLFSK AQTYELERRF RQQRYLSAPE REHLASLIRL TPTQVKIWFQ NHRYKMKRAR
+//
+ID   NOTO_HUMAN_156_215      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein notochord
+SQ   SEQUENCE   60 AA;  7382 MW;  966750F2CB697328 CRC64;
+     QKRVRTMFNL EQLEELEKVF AKQHNLVGKK RAQLAARLKL TENQVRVWFQ NRRVKYQKQQ
+//
+ID   NKX12_HUMAN_163_222     Reviewed;          60 AA.
+DE   [DNA_contact] NK1 transcription factor-related protein 2 (Homeobox protein SAX-1) (NKX-1.1)
+SQ   SEQUENCE   60 AA;  7273 MW;  C56113D573BE8BBE CRC64;
+     PRRARTAFTY EQLVALENKF RATRYLSVCE RLNLALSLSL TETQVKIWFQ NRRTKWKKQN
+//
+ID   NKX26_HUMAN_132_191     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-2.6 (Homeobox protein NK-2 homolog F)
+SQ   SEQUENCE   60 AA;  7401 MW;  9653E6559792C1E6 CRC64;
+     RRKPRVLFSQ AQVLALERRF KQQRYLSAPE REHLASALQL TSTQVKIWFQ NRRYKCKRQR
+//
+ID   NKX63_HUMAN_139_198     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-6.3
+SQ   SEQUENCE   60 AA;  7199 MW;  AFF30010268C21E3 CRC64;
+     KKHTRPTFTG HQIFALEKTF EQTKYLAGPE RARLAYSLGM TESQVKVWFQ NRRTKWRKKS
+//
+ID   PBX3_HUMAN_235_297      Reviewed;          63 AA.
+DE   [DNA_contact] Pre-B-cell leukemia transcription factor 3 (Homeobox protein PBX3)
+SQ   SEQUENCE   63 AA;  7555 MW;  BAAB3BE4D1770428 CRC64;
+     ARRKRRNFSK QATEILNEYF YSHLSNPYPS EEAKEELAKK CSITVSQVSN WFGNKRIRYK
+     KNI
+//
+ID   PAX4_HUMAN_170_229      Reviewed;          60 AA.
+DE   [DNA_contact] Paired box protein Pax-4
+SQ   SEQUENCE   60 AA;  7018 MW;  A287FEA9125C24BA CRC64;
+     GHRNRTIFSP SQAEALEKEF QRGQYPDSVA RGKLATATSL PEDTVRVWFS NRRAKWRRQE
+//
+ID   PAX7_HUMAN_217_276      Reviewed;          60 AA.
+DE   [DNA_contact] Paired box protein Pax-7 (HuP1)
+SQ   SEQUENCE   60 AA;  7470 MW;  B643F236478CDF9B CRC64;
+     QRRSRTTFTA EQLEELEKAF ERTHYPDIYT REELAQRTKL TEARVQVWFS NRRARWRKQA
+//
+ID   PBX4_HUMAN_210_272      Reviewed;          63 AA.
+DE   [DNA_contact] Pre-B-cell leukemia transcription factor 4 (Homeobox protein PBX4)
+SQ   SEQUENCE   63 AA;  7552 MW;  0F48C929D7DB796B CRC64;
+     ARRKRRNFSK QATEVLNEYF YSHLNNPYPS EEAKEELARK GGLTISQVSN WFGNKRIRYK
+     KNM
+//
+ID   PKNX1_HUMAN_259_321     Reviewed;          63 AA.
+DE   [DNA_contact] Homeobox protein PKNOX1 (Homeobox protein PREP-1) (PBX/knotted homeobox 1)
+SQ   SEQUENCE   63 AA;  7437 MW;  65C7A3031EB61681 CRC64;
+     SKNKRGVLPK HATNVMRSWL FQHIGHPYPT EDEKKQIAAQ TNLTLLQVNN WFINARRRIL
+     QPM
+//
+ID   PBX1_HUMAN_233_295      Reviewed;          63 AA.
+DE   [DNA_contact] Pre-B-cell leukemia transcription factor 1 (Homeobox protein PBX1) (Homeobox protein PRL)
+SQ   SEQUENCE   63 AA;  7552 MW;  1AB626E4D16DCA6E CRC64;
+     ARRKRRNFNK QATEILNEYF YSHLSNPYPS EEAKEELAKK CGITVSQVSN WFGNKRIRYK
+     KNI
+//
+ID   PHX2B_HUMAN_98_157      Reviewed;          60 AA.
+DE   [DNA_contact] Paired mesoderm homeobox protein 2B (Neuroblastoma Phox) (NBPhox) (PHOX2B homeodomain protein) (Paired-like homeobox 2B)
+SQ   SEQUENCE   60 AA;  7412 MW;  F5F0716EF112D208 CRC64;
+     QRRIRTTFTS AQLKELERVF AETHYPDIYT REELALKIDL TEARVQVWFQ NRRAKFRKQE
+//
+ID   PITX1_HUMAN_89_148      Reviewed;          60 AA.
+DE   [DNA_contact] Pituitary homeobox 1 (Hindlimb-expressed homeobox protein backfoot) (Homeobox protein PITX1) (Paired-like homeodomain transcription factor 1)
+SQ   SEQUENCE   60 AA;  7678 MW;  9DE30DBFC17E069F CRC64;
+     QRRQRTHFTS QQLQELEATF QRNRYPDMSM REEIAVWTNL TEPRVRVWFK NRRAKWRKRE
+//
+ID   PITX3_HUMAN_62_121      Reviewed;          60 AA.
+DE   [DNA_contact] Pituitary homeobox 3 (Homeobox protein PITX3) (Paired-like homeodomain transcription factor 3)
+SQ   SEQUENCE   60 AA;  7622 MW;  49CF61CFC17E1E0E CRC64;
+     QRRQRTHFTS QQLQELEATF QRNRYPDMST REEIAVWTNL TEARVRVWFK NRRAKWRKRE
+//
+ID   PO3F3_HUMAN_406_465     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 3, transcription factor 3 (Brain-specific homeobox/POU domain protein 1) (Brain-1) (Brn-1) (Octamer-binding protein 8) (Oct-8) (Octamer-binding transcription factor 8) (OTF-8)
+SQ   SEQUENCE   60 AA;  7057 MW;  2BF78108D44A5B77 CRC64;
+     KRKKRTSIEV SVKGALESHF LKCPKPSAQE ITNLADSLQL EKEVVRVWFC NRRQKEKRMT
+//
+ID   PO5F2_HUMAN_210_269     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 5, transcription factor 2 (Sperm 1 POU domain transcription factor) (SPRM-1)
+SQ   SEQUENCE   60 AA;  7131 MW;  27923520C8C2E83B CRC64;
+     GKWRRASRER RIGNSLEKFF QRCPKPTPQQ ISHIAGCLQL QKDVVRVWFY NRSKMGSRPT
+//
+ID   PO2F1_HUMAN_379_438     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 2, transcription factor 1 (NF-A1) (Octamer-binding protein 1) (Oct-1) (Octamer-binding transcription factor 1) (OTF-1)
+SQ   SEQUENCE   60 AA;  7335 MW;  AE0969481905E75C CRC64;
+     RRKKRTSIET NIRVALEKSF LENQKPTSEE ITMIADQLNM EKEVIRVWFC NRRQKEKRIN
+//
+ID   PO2F2_HUMAN_297_356     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 2, transcription factor 2 (Lymphoid-restricted immunoglobulin octamer-binding protein NF-A2) (Octamer-binding protein 2) (Oct-2) (Octamer-binding transcription factor 2) (OTF-2)
+SQ   SEQUENCE   60 AA;  7342 MW;  9A8115E8C091B7C4 CRC64;
+     RRKKRTSIET NVRFALEKSF LANQKPTSEE ILLIAEQLHM EKEVIRVWFC NRRQKEKRIN
+//
+ID   PO2F3_HUMAN_281_340     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 2, transcription factor 3 (Octamer-binding protein 11) (Oct-11) (Octamer-binding transcription factor 11) (OTF-11) (Transcription factor PLA-1) (Transcription factor Skn-1)
+SQ   SEQUENCE   60 AA;  7335 MW;  5D3DA15103DA555A CRC64;
+     KRKKRTSIET NIRLTLEKRF QDNPKPSSEE ISMIAEQLSM EKEVVRVWFC NRRQKEKRIN
+//
+ID   PO6F1_HUMAN_234_293     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 6, transcription factor 1 (Brain-specific homeobox/POU domain protein 5) (Brain-5) (Brn-5) (mPOU homeobox protein)
+SQ   SEQUENCE   60 AA;  7157 MW;  E2B8AFE941E49DA1 CRC64;
+     KRKRRTSFTP QAIEALNAYF EKNPLPTGQE ITEIAKELNY DREVVRVWFC NRRQTLKNTS
+//
+ID   PKNX2_HUMAN_291_350     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein PKNOX2 (Homeobox protein PREP-2) (PBX/knotted homeobox 2)
+SQ   SEQUENCE   60 AA;  7223 MW;  F3797A7298228995 CRC64;
+     KRGVLPKHAT NIMRSWLFQH LMHPYPTEDE KRQIAAQTNL TLLQVNNWFI NARRRILQPM
+//
+ID   PO4F1_HUMAN_356_415     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 4, transcription factor 1 {ECO:0000312|HGNC:HGNC:9218} (Brain-specific homeobox/POU domain protein 3A) (Brain-3A) (Brn-3A) (Homeobox/POU domain protein RDC-1) (Oct-T1)
+SQ   SEQUENCE   60 AA;  7104 MW;  661939FFEF7FB0C2 CRC64;
+     KRKRTSIAAP EKRSLEAYFA VQPRPSSEKI AAIAEKLDLK KNVVRVWFCN QRQKQKRMKF
+//
+ID   PO4F3_HUMAN_274_333     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 4, transcription factor 3 (Brain-specific homeobox/POU domain protein 3C) (Brain-3C) (Brn-3C)
+SQ   SEQUENCE   60 AA;  7127 MW;  CBAAFFBD2DB083E1 CRC64;
+     RKRKRTSIAA PEKRSLEAYF AIQPRPSSEK IAAIAEKLDL KKNVVRVWFC NQRQKQKRMK
+//
+ID   PHX2A_HUMAN_90_149      Reviewed;          60 AA.
+DE   [DNA_contact] Paired mesoderm homeobox protein 2A (ARIX1 homeodomain protein) (Aristaless homeobox protein homolog) (Paired-like homeobox 2A)
+SQ   SEQUENCE   60 AA;  7412 MW;  F5F0716EF112D208 CRC64;
+     QRRIRTTFTS AQLKELERVF AETHYPDIYT REELALKIDL TEARVQVWFQ NRRAKFRKQE
+//
+ID   PO6F2_HUMAN_607_666     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 6, transcription factor 2 (Retina-derived POU domain factor 1) (RPF-1)
+SQ   SEQUENCE   60 AA;  7173 MW;  184D880EBE308D03 CRC64;
+     KRKRRTSFTP QALEILNAHF EKNTHPSGQE MTEIAEKLNY DREVVRVWFC NKRQALKNTI
+//
+ID   PO3F1_HUMAN_339_398     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 3, transcription factor 1 (Octamer-binding protein 6) (Oct-6) (Octamer-binding transcription factor 6) (OTF-6) (POU domain transcription factor SCIP)
+SQ   SEQUENCE   60 AA;  6979 MW;  E988C7DA32135B6F CRC64;
+     KRKKRTSIEV GVKGALESHF LKCPKPSAHE ITGLADSLQL EKEVVRVWFC NRRQKEKRMT
+//
+ID   PO3F2_HUMAN_354_413     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 3, transcription factor 2 (Brain-specific homeobox/POU domain protein 2) (Brain-2) (Brn-2) (Nervous system-specific octamer-binding transcription factor N-Oct-3) (Octamer-binding protein 7) (Oct-7) (Octamer-binding transcription factor 7) (OTF-7)
+SQ   SEQUENCE   60 AA;  7030 MW;  2BF7811405875B77 CRC64;
+     KRKKRTSIEV SVKGALESHF LKCPKPSAQE ITSLADSLQL EKEVVRVWFC NRRQKEKRMT
+//
+ID   PO3F4_HUMAN_278_337     Reviewed;          60 AA.
+DE   [DNA_contact] POU domain, class 3, transcription factor 4 (Brain-specific homeobox/POU domain protein 4) (Brain-4) (Brn-4) (Octamer-binding protein 9) (Oct-9) (Octamer-binding transcription factor 9) (OTF-9)
+SQ   SEQUENCE   60 AA;  7042 MW;  09BE603CB98F8EFD CRC64;
+     KRKKRTSIEV SVKGVLETHF LKCPKPAAQE ISSLADSLQL EKEVVRVWFC NRRQKEKRMT
+//
+ID   PROP1_HUMAN_69_128      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein prophet of Pit-1 (PROP-1) (Pituitary-specific homeodomain factor)
+SQ   SEQUENCE   60 AA;  7300 MW;  0AA0ED5D1A91B1EB CRC64;
+     RRRHRTTFSP VQLEQLESAF GRNQYPDIWA RESLARDTGL SEARIQVWFQ NRRAKQRKQE
+//
+ID   PRRX2_HUMAN_104_163     Reviewed;          60 AA.
+DE   [DNA_contact] Paired mesoderm homeobox protein 2 (Paired-related homeobox protein 2) (PRX-2)
+SQ   SEQUENCE   60 AA;  7465 MW;  960299CD3F719186 CRC64;
+     QRRNRTTFNS SQLQALERVF ERTHYPDAFV REELARRVNL SEARVQVWFQ NRRAKFRRNE
+//
+ID   RAX2_HUMAN_27_86        Reviewed;          60 AA.
+DE   [DNA_contact] Retina and anterior neural fold homeobox protein 2 (Q50-type retinal homeobox protein) (Retina and anterior neural fold homeobox-like protein 1)
+SQ   SEQUENCE   60 AA;  7523 MW;  17A20F3007FA3914 CRC64;
+     HRRNRTTFTT YQLHQLERAF EASHYPDVYS REELAAKVHL PEVRVQVWFQ NRRAKWRRQE
+//
+ID   RHF2B_HUMAN_134_193     Reviewed;          60 AA.
+DE   [DNA_contact] Rhox homeobox family member 2B
+SQ   SEQUENCE   60 AA;  7466 MW;  46D6774073C3DE89 CRC64;
+     QQPNVHAFTP LQLQELECIF QREQFPSEFL RRRLARSMNV TELAVQIWFE NRRAKWRRHQ
+//
+ID   RHXF1_HUMAN_103_162     Reviewed;          60 AA.
+DE   [DNA_contact] Rhox homeobox family member 1 (Ovary-, testis- and epididymis-expressed gene protein) (Paired-like homeobox protein PEPP-1)
+SQ   SEQUENCE   60 AA;  7379 MW;  95B5D6C16C0B3485 CRC64;
+     PRTRRTKFTL LQVEELESVF RHTQYPDVPT RRELAENLGV TEDKVRVWFK NKRARCRRHQ
+//
+ID   RHXF2_HUMAN_134_193     Reviewed;          60 AA.
+DE   [DNA_contact] Rhox homeobox family member 2 (Paired-like homeobox protein PEPP-2) (Testis homeobox gene 1)
+SQ   SEQUENCE   60 AA;  7519 MW;  46D663056786DE89 CRC64;
+     QQPNVHAFTP LQLQELERIF QREQFPSEFL RRRLARSMNV TELAVQIWFE NRRAKWRRHQ
+//
+ID   SIX4_HUMAN_223_282      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX4 (Sine oculis homeobox homolog 4)
+SQ   SEQUENCE   60 AA;  7169 MW;  7C4F59A4D404D776 CRC64;
+     GEETVYCFKE KSRNALKELY KQNRYPSPAE KRHLAKITGL SLTQVSNWFK NRRQRDRNPS
+//
+ID   SHOX2_HUMAN_140_199     Reviewed;          60 AA.
+DE   [DNA_contact] Short stature homeobox protein 2 (Homeobox protein Og12X) (Paired-related homeobox protein SHOT)
+SQ   SEQUENCE   60 AA;  7442 MW;  8E7E1956E240A37B CRC64;
+     QRRSRTNFTL EQLNELERLF DETHYPDAFM REELSQRLGL SEARVQVWFQ NRRAKCRKQE
+//
+ID   SHOX_HUMAN_117_176      Reviewed;          60 AA.
+DE   [DNA_contact] Short stature homeobox protein (Pseudoautosomal homeobox-containing osteogenic protein) (Short stature homeobox-containing protein)
+SQ   SEQUENCE   60 AA;  7442 MW;  8E7E1956E240A37B CRC64;
+     QRRSRTNFTL EQLNELERLF DETHYPDAFM REELSQRLGL SEARVQVWFQ NRRAKCRKQE
+//
+ID   SIX2_HUMAN_124_183      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX2 (Sine oculis homeobox homolog 2)
+SQ   SEQUENCE   60 AA;  7163 MW;  086317FD8FF0A040 CRC64;
+     GEETSYCFKE KSRSVLREWY AHNPYPSPRE KRELAEATGL TTTQVSNWFK NRRQRDRAAE
+//
+ID   SIX5_HUMAN_201_260      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX5 (DM locus-associated homeodomain protein) (Sine oculis homeobox homolog 5)
+SQ   SEQUENCE   60 AA;  7024 MW;  968B0B1A7A1AC414 CRC64;
+     GEETVYCFKE RSRAALKACY RGNRYPTPDE KRRLATLTGL SLTQVSNWFK NRRQRDRTGA
+//
+ID   SIX6_HUMAN_128_187      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SIX6 (Homeodomain protein OPTX2) (Optic homeobox 2) (Sine oculis homeobox homolog 6)
+SQ   SEQUENCE   60 AA;  7181 MW;  4B757C352C079A7D CRC64;
+     GEQKTHCFKE RTRHLLREWY LQDPYPNPSK KRELAQATGL TPTQVGNWFK NRRQRDRAAA
+//
+ID   TGIF1_HUMAN_164_226     Reviewed;          63 AA.
+DE   [DNA_contact] Homeobox protein TGIF1 (5'-TG-3'-interacting factor 1)
+SQ   SEQUENCE   63 AA;  7725 MW;  B7C94423888618ED CRC64;
+     KRRRRGNLPK ESVQILRDWL YEHRYNAYPS EQEKALLSQQ THLSTLQVCN WFINARRRLL
+     PDM
+//
+ID   TLX3_HUMAN_166_225      Reviewed;          60 AA.
+DE   [DNA_contact] T-cell leukemia homeobox protein 3 (Homeobox protein Hox-11L2)
+SQ   SEQUENCE   60 AA;  7353 MW;  EA2BDA499A1AA266 CRC64;
+     RKKPRTSFSR VQICELEKRF HRQKYLASAE RAALAKSLKM TDAQVKTWFQ NRRTKWRRQT
+//
+ID   TLX2_HUMAN_157_216      Reviewed;          60 AA.
+DE   [DNA_contact] T-cell leukemia homeobox protein 2 (Homeobox protein Hox-11L1) (Neural crest homeobox protein)
+SQ   SEQUENCE   60 AA;  7353 MW;  AE003CE07B5519AB CRC64;
+     RKKPRTSFSR SQVLELERRF LRQKYLASAE RAALAKALRM TDAQVKTWFQ NRRTKWRRQT
+//
+ID   TLX1_HUMAN_201_260      Reviewed;          60 AA.
+DE   [DNA_contact] T-cell leukemia homeobox protein 1 (Homeobox protein Hox-11) (Proto-oncogene TCL-3) (T-cell leukemia/lymphoma protein 3)
+SQ   SEQUENCE   60 AA;  7337 MW;  EB080C8EAF7ABE31 CRC64;
+     KKKPRTSFTR LQICELEKRF HRQKYLASAE RAALAKALKM TDAQVKTWFQ NRRTKWRRQT
+//
+ID   VENTX_HUMAN_91_150      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein VENTX (VENT homeobox homolog) (VENT-like homeobox protein 2)
+SQ   SEQUENCE   60 AA;  7439 MW;  CC3B985CACFFC5C7 CRC64;
+     APRVRTAFTM EQVRTLEGVF QHHQYLSPLE RKRLAREMQL SEVQIKTWFQ NRRMKHKRQM
+//
+ID   UNC4_HUMAN_105_164      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein unc-4 homolog (Homeobox protein Uncx4.1)
+SQ   SEQUENCE   60 AA;  7524 MW;  1E34045971A885DA CRC64;
+     RRRTRTNFTG WQLEELEKAF NESHYPDVFM REALALRLDL VESRVQVWFQ NRRAKWRKKE
+//
+ID   VSX2_HUMAN_148_207      Reviewed;          60 AA.
+DE   [DNA_contact] Visual system homeobox 2 (Ceh-10 homeodomain-containing homolog) (Homeobox protein CHX10)
+SQ   SEQUENCE   60 AA;  7598 MW;  BC18B972BE8F2F95 CRC64;
+     KRRHRTIFTS YQLEELEKAF NEAHYPDVYA REMLAMKTEL PEDRIQVWFQ NRRAKWRKRE
+//
+ID   VAX2_HUMAN_102_161      Reviewed;          60 AA.
+DE   [DNA_contact] Ventral anterior homeobox 2
+SQ   SEQUENCE   60 AA;  7435 MW;  A0DE05B687F12F4F CRC64;
+     PKRTRTSFTA EQLYRLEMEF QRCQYVVGRE RTELARQLNL SETQVKVWFQ NRRTKQKKDQ
+//
+ID   ALX1_HUMAN_132_191      Reviewed;          60 AA.
+DE   [DNA_contact] ALX homeobox protein 1 {ECO:0000305} (Cartilage homeoprotein 1 {ECO:0000250|UniProtKB:Q63087}) (CART-1 {ECO:0000250|UniProtKB:Q63087})
+SQ   SEQUENCE   60 AA;  7588 MW;  DC279F52332A015F CRC64;
+     KRRHRTTFTS LQLEELEKVF QKTHYPDVYV REQLALRTEL TEARVQVWFQ NRRAKWRKRE
+//
+ID   ADNP_HUMAN_754_814      Reviewed;          61 AA.
+DE   [DNA_contact] Activity-dependent neuroprotector homeobox protein (Activity-dependent neuroprotective protein)
+SQ   SEQUENCE   61 AA;  7330 MW;  2A08F4F3C18785D8 CRC64;
+     LDPKGHEDDS YEARKSFLTK YFNKQPYPTR REIEKLAASL WLWKSDIASH FSNKRKKCVR
+     D
+//
+ID   ALX3_HUMAN_153_212      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein aristaless-like 3 (Proline-rich transcription factor ALX3)
+SQ   SEQUENCE   60 AA;  7557 MW;  843C216CDE4E990E CRC64;
+     KRRNRTTFST FQLEELEKVF QKTHYPDVYA REQLALRTDL TEARVQVWFQ NRRAKWRKRE
+//
+ID   ALX4_HUMAN_214_273      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein aristaless-like 4
+SQ   SEQUENCE   60 AA;  7591 MW;  853B3E542F9BCC5E CRC64;
+     KRRNRTTFTS YQLEELEKVF QKTHYPDVYA REQLAMRTDL TEARVQVWFQ NRRAKWRKRE
+//
+ID   ADNP2_HUMAN_1043_1102     Reviewed;          60 AA.
+DE   [DNA_contact] ADNP homeobox protein 2 (Zinc finger protein 508)
+SQ   SEQUENCE   60 AA;  7411 MW;  87A893251D700910 CRC64;
+     PKKYEGRSYE EKKQFLKDYF HKKPYPSKKE IELLSSLFWV WKIDVASFFG KRRYICMKAI
+//
+ID   ARX_HUMAN_328_387       Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein ARX (Aristaless-related homeobox)
+SQ   SEQUENCE   60 AA;  7667 MW;  B97412096422D167 CRC64;
+     QRRYRTTFTS YQLEELERAF QKTHYPDVFT REELAMRLDL TEARVQVWFQ NRRAKWRKRE
+//
+ID   ANHX_HUMAN_135_196      Reviewed;          62 AA.
+DE   [DNA_contact] Anomalous homeobox protein
+SQ   SEQUENCE   62 AA;  7297 MW;  152CEF19EC694D03 CRC64;
+     PEGLKSRNFP REVREKLHNF AVGVNTNPSK AERENLALET SLTPEQVYNW FANYRRRQRA
+     LP
+//
+ID   ARGFX_HUMAN_78_137      Reviewed;          60 AA.
+DE   [DNA_contact] Arginine-fifty homeobox
+SQ   SEQUENCE   60 AA;  7479 MW;  BBC0860B609A4DE1 CRC64;
+     RHKERTSFTH QQYEELEALF SQTMFPDRNL QEKLALRLDL PESTVKVWFR NRRFKLKKQQ
+//
+ID   BARH2_HUMAN_232_291     Reviewed;          60 AA.
+DE   [DNA_contact] BarH-like 2 homeobox protein
+SQ   SEQUENCE   60 AA;  7325 MW;  D6026160AEA72D1E CRC64;
+     PRKARTAFSD HQLNQLERSF ERQKYLSVQD RMDLAAALNL TDTQVKTWYQ NRRTKWKRQT
+//
+ID   BARX2_HUMAN_133_192     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein BarH-like 2
+SQ   SEQUENCE   60 AA;  7343 MW;  5939C3BBEAFC8E28 CRC64;
+     PRRSRTIFTE LQLMGLEKKF QKQKYLSTPD RLDLAQSLGL TQLQVKTWYQ NRRMKWKKMV
+//
+ID   BSH_HUMAN_110_169       Reviewed;          60 AA.
+DE   [DNA_contact] Brain-specific homeobox protein homolog
+SQ   SEQUENCE   60 AA;  7209 MW;  12B7D87F4866ECDA CRC64;
+     RRKARTVFSD SQLSGLEKRF EIQRYLSTPE RVELATALSL SETQVKTWFQ NRRMKHKKQL
+//
+ID   BARX1_HUMAN_142_201     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein BarH-like 1
+SQ   SEQUENCE   60 AA;  7287 MW;  B23A9C9515EBC74E CRC64;
+     GRRSRTVFTE LQLMGLEKRF EKQKYLSTPD RIDLAESLGL SQLQVKTWYQ NRRMKWKKIV
+//
+ID   BARH1_HUMAN_178_237     Reviewed;          60 AA.
+DE   [DNA_contact] BarH-like 1 homeobox protein
+SQ   SEQUENCE   60 AA;  7326 MW;  4C56B164EEB6246C CRC64;
+     PRKARTAFTD HQLAQLERSF ERQKYLSVQD RMELAASLNL TDTQVKTWYQ NRRTKWKRQT
+//
+ID   CDX4_HUMAN_173_232      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein CDX-4 (Caudal-type homeobox protein 4)
+SQ   SEQUENCE   60 AA;  7508 MW;  02F9DAC37AB3AE48 CRC64;
+     KEKYRVVYTD HQRLELEKEF HCNRYITIQR KSELAVNLGL SERQVKIWFQ NRRAKERKMI
+//
+ID   CDX2_HUMAN_186_245      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein CDX-2 (CDX-3) (Caudal-type homeobox protein 2)
+SQ   SEQUENCE   60 AA;  7481 MW;  66D9ACC2698367EA CRC64;
+     KDKYRVVYTD HQRLELEKEF HYSRYITIRR KAELAATLGL SERQVKIWFQ NRRAKERKIN
+//
+ID   CDX1_HUMAN_154_213      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein CDX-1 (Caudal-type homeobox protein 1)
+SQ   SEQUENCE   60 AA;  7510 MW;  C7713CC77AF255FA CRC64;
+     KDKYRVVYTD HQRLELEKEF HYSRYITIRR KSELAANLGL TERQVKIWFQ NRRAKERKVN
+//
+ID   CERS4_HUMAN_67_128      Reviewed;          62 AA.
+DE   [DNA_contact] Ceramide synthase 4 (CerS4) (LAG1 longevity assurance homolog 4)
+SQ   SEQUENCE   62 AA;  7477 MW;  9E4C68B997D8C39A CRC64;
+     WLGVRDQTRR QVKPNATLEK HFLTEGHRPK EPQLSLLAAQ CGLTLQQTQR WFRRRRNQDR
+     PQ
+//
+ID   CERS2_HUMAN_67_128      Reviewed;          62 AA.
+DE   [DNA_contact] Ceramide synthase 2 (CerS2) (LAG1 longevity assurance homolog 2) (SP260) (Tumor metastasis-suppressor gene 1 protein)
+SQ   SEQUENCE   62 AA;  7373 MW;  B94732A59CA60B9F CRC64;
+     LLNIKEKTRL RAPPNATLEH FYLTSGKQPK QVEVELLSRQ SGLSGRQVER WFRRRRNQDR
+     PS
+//
+ID   CERS5_HUMAN_75_136      Reviewed;          62 AA.
+DE   [DNA_contact] Ceramide synthase 5 (CerS5) (2.3.1.24) (LAG1 longevity assurance homolog 5)
+SQ   SEQUENCE   62 AA;  7354 MW;  19E38DAE7628E8AE CRC64;
+     CIGIEDSGPY QAQPNAILEK VFISITKYPD KKRLEGLSKQ LDWNVRKIQC WFRHRRNQDK
+     PP
+//
+ID   CERS3_HUMAN_66_127      Reviewed;          62 AA.
+DE   [DNA_contact] Ceramide synthase 3 (CerS3) (2.3.1.24) (Dihydroceramide synthase 3) (LAG1 longevity assurance homolog 3)
+SQ   SEQUENCE   62 AA;  7451 MW;  97B693DE44A98330 CRC64;
+     KSFGIKETVR KVTPNTVLEN FFKHSTRQPL QTDIYGLAKK CNLTERQVER WFRSRRNQER
+     PS
+//
+ID   CERS6_HUMAN_66_127      Reviewed;          62 AA.
+DE   [DNA_contact] Ceramide synthase 6 (CerS6) (LAG1 longevity assurance homolog 6)
+SQ   SEQUENCE   62 AA;  7235 MW;  8F55AD0026B585B2 CRC64;
+     ALNIQANGPQ IAPPNAILEK VFTAITKHPD EKRLEGLSKQ LDWDVRSIQR WFRQRRNQEK
+     PS
+//
+ID   CUX1_HUMAN_1244_1303     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein cut-like 1 (CCAAT displacement protein) (CDP) (Homeobox protein cux-1)
+SQ   SEQUENCE   60 AA;  7164 MW;  78D3CD3519D86F80 CRC64;
+     LKKPRVVLAP EEKEALKRAY QQKPYPSPKT IEDLATQLNL KTSTVINWFH NYRSRIRREL
+//
+ID   CUX2_HUMAN_1168_1227     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein cut-like 2 (Homeobox protein cux-2)
+SQ   SEQUENCE   60 AA;  7305 MW;  BA1DE05B694935FA CRC64;
+     IKKPRVVLAP EEKEALRKAY QLEPYPSQQT IELLSFQLNL KTNTVINWFH NYRSRMRREM
+//
+ID   DBX1_HUMAN_181_240      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DBX1 (Developing brain homeobox protein 1)
+SQ   SEQUENCE   60 AA;  7297 MW;  3A1176B4A3D45CC0 CRC64;
+     GMLRRAVFSD VQRKALEKMF QKQKYISKPD RKKLAAKLGL KDSQVKIWFQ NRRMKWRNSK
+//
+ID   DBX2_HUMAN_186_245      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DBX2 (Developing brain homeobox protein 2)
+SQ   SEQUENCE   60 AA;  7355 MW;  AEB1DAAD175C28C2 CRC64;
+     GILRRAVFSE DQRKALEKMF QKQKYISKTD RKKLAINLGL KESQVKIWFQ NRRMKWRNSK
+//
+ID   DLX3_HUMAN_129_188      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-3
+SQ   SEQUENCE   60 AA;  7201 MW;  7F34B624969130F6 CRC64;
+     VRKPRTIYSS YQLAALQRRF QKAQYLALPE RAELAAQLGL TQTQVKIWFQ NRRSKFKKLY
+//
+ID   DLX1_HUMAN_128_187      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-1
+SQ   SEQUENCE   60 AA;  7137 MW;  D9E40622BB9E0B9A CRC64;
+     IRKPRTIYSS LQLQALNRRF QQTQYLALPE RAELAASLGL TQTQVKIWFQ NKRSKFKKLM
+//
+ID   DLX5_HUMAN_137_196      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-5
+SQ   SEQUENCE   60 AA;  7080 MW;  CCFBCD493ECC862E CRC64;
+     VRKPRTIYSS FQLAALQRRF QKTQYLALPE RAELAASLGL TQTQVKIWFQ NKRSKIKKIM
+//
+ID   DLX2_HUMAN_152_211      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-2
+SQ   SEQUENCE   60 AA;  7215 MW;  C6200D49375C862E CRC64;
+     VRKPRTIYSS FQLAALQRRF QKTQYLALPE RAELAASLGL TQTQVKIWFQ NRRSKFKKMW
+//
+ID   DRGX_HUMAN_33_92        Reviewed;          60 AA.
+DE   [DNA_contact] Dorsal root ganglia homeobox protein (Paired-related homeobox protein-like 1)
+SQ   SEQUENCE   60 AA;  7352 MW;  4CB177A3D8643B12 CRC64;
+     QRRNRTTFTL QQLEALEAVF AQTHYPDVFT REELAMKINL TEARVQVWFQ NRRAKWRKTE
+//
+ID   DLX4_HUMAN_117_176      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-4 (Beta protein 1) (Homeobox protein DLX-7) (Homeobox protein DLX-8)
+SQ   SEQUENCE   60 AA;  7222 MW;  8B6B05C1226EC3B3 CRC64;
+     LRKPRTIYSS LQLQHLNQRF QHTQYLALPE RAQLAAQLGL TQTQVKIWFQ NKRSKYKKLL
+//
+ID   DMBX1_HUMAN_71_130      Reviewed;          60 AA.
+DE   [DNA_contact] Diencephalon/mesencephalon homeobox protein 1 (Orthodenticle homolog 3) (Paired-like homeobox protein DMBX1)
+SQ   SEQUENCE   60 AA;  7325 MW;  96F909142655A2E3 CRC64;
+     QRRSRTAFTA QQLEALEKTF QKTHYPDVVM RERLAMCTNL PEARVQVWFK NRRAKFRKKQ
+//
+ID   DU4L4_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 4
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L4_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 4
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DUX4_HUMAN_19_78        Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4 {ECO:0000312|HGNC:HGNC:50800} (Double homeobox protein 10 {ECO:0000312|EMBL:AAK91509.1})
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DUX4_HUMAN_94_153       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4 {ECO:0000312|HGNC:HGNC:50800} (Double homeobox protein 10 {ECO:0000312|EMBL:AAK91509.1})
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DU4L2_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 2
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L2_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 2
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DUX3_HUMAN_46_105       Reviewed;          60 AA.
+DE   [DNA_contact] Putative double homeobox protein 3
+SQ   SEQUENCE   60 AA;  6968 MW;  B61868666583BE87 CRC64;
+     GRRMILLSTP SQSDALRACF ERNLYPGIAT KEQLAQGIDI PEPRVQIWFQ NERSCQLRQH
+//
+ID   DUX3_HUMAN_121_180      Reviewed;          60 AA.
+DE   [DNA_contact] Putative double homeobox protein 3
+SQ   SEQUENCE   60 AA;  7018 MW;  CFD38191A3E9CDCD CRC64;
+     GRRKRTAITG SQTALLLRAF EKDRFPGIPA REELARETGL PESRIQLWFQ NRRARHWGQS
+//
+ID   DLX6_HUMAN_49_108       Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein DLX-6
+SQ   SEQUENCE   60 AA;  7100 MW;  D8541B1E484C0B9A CRC64;
+     IRKPRTIYSS LQLQALNHRF QQTQYLALPE RAELAASLGL TQTQVKIWFQ NKRSKFKKLL
+//
+ID   DPRX_HUMAN_16_75        Reviewed;          60 AA.
+DE   [DNA_contact] Divergent paired-related homeobox
+SQ   SEQUENCE   60 AA;  7188 MW;  8D7023555BF6AAF2 CRC64;
+     SHRKRTMFTK KQLEDLNILF NENPYPNPSL QKEMASKIDI HPTVLQVWFK NHRAKLKKAK
+//
+ID   DUX1_HUMAN_19_78        Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 1
+SQ   SEQUENCE   60 AA;  6969 MW;  B618687324D7BE87 CRC64;
+     GRRMILLSTP SQSDALRACF ERNLYPGIAT KEELAQGIDI PEPRVQIWFQ NERSCQLRQH
+//
+ID   DUX1_HUMAN_94_153       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 1
+SQ   SEQUENCE   60 AA;  6962 MW;  D5623196D3ED9CDD CRC64;
+     GRRKRTAITG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHRGQS
+//
+ID   DUX5_HUMAN_46_105       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 5
+SQ   SEQUENCE   60 AA;  6969 MW;  B618687324D7BE87 CRC64;
+     GRRMILLSTP SQSDALRACF ERNLYPGIAT KEELAQGIDI PEPRVQIWFQ NERSCQLRQH
+//
+ID   DUX5_HUMAN_121_180      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 5
+SQ   SEQUENCE   60 AA;  6962 MW;  D5623196D3ED9CDD CRC64;
+     GRRKRTAITG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHRGQS
+//
+ID   DU4L5_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 5
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L5_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 5
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DU4L3_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 3
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L3_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 3
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DU4L6_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 6
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L6_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 6
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DUXA_HUMAN_15_74        Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein A
+SQ   SEQUENCE   60 AA;  7362 MW;  DF9AD4848387B20D CRC64;
+     HRRCRTKFTE EQLKILINTF NQKPYPGYAT KQKLALEINT EESRIQIWFQ NRRARHGFQK
+//
+ID   DUXA_HUMAN_101_160      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein A
+SQ   SEQUENCE   60 AA;  7117 MW;  BE542110EF29B8FA CRC64;
+     ARRCRTTYSA SQLHTLIKAF MKNPYPGIDS REELAKEIGV PESRVQIWFQ NRRSRLLLQR
+//
+ID   EMX2_HUMAN_154_213      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein EMX2 (Empty spiracles homolog 2) (Empty spiracles-like protein 2)
+SQ   SEQUENCE   60 AA;  7220 MW;  A9851B485A9CB3F5 CRC64;
+     PKRIRTAFSP SQLLRLEHAF EKNHYVVGAE RKQLAHSLSL TETQVKVWFQ NRRTKFKRQK
+//
+ID   DU4L7_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 7
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DU4L7_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4-like protein 7
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   DUX4C_HUMAN_19_78       Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4C (Double homeobox protein 4, centromeric) (DUX4c) (Double homeobox protein 4-like protein 9)
+SQ   SEQUENCE   60 AA;  7184 MW;  871703615CFF5CF1 CRC64;
+     GRRRRLVWTP SQSEALRACF ERNPYPGIAT RERLAQAIGI PEPRVQIWFQ NERSRQLRQH
+//
+ID   DUX4C_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Double homeobox protein 4C (Double homeobox protein 4, centromeric) (DUX4c) (Double homeobox protein 4-like protein 9)
+SQ   SEQUENCE   60 AA;  6859 MW;  67A23195A4E6F17C CRC64;
+     GRRKRTAVTG SQTALLLRAF EKDRFPGIAA REELARETGL PESRIQIWFQ NRRARHPGQG
+//
+ID   EMX1_HUMAN_159_218      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein EMX1 (Empty spiracles homolog 1) (Empty spiracles-like protein 1)
+SQ   SEQUENCE   60 AA;  7161 MW;  A675F971BB8EB3F5 CRC64;
+     PKRIRTAFSP SQLLRLERAF EKNHYVVGAE RKQLAGSLSL SETQVKVWFQ NRRTKYKRQK
+//
+ID   EVX1_HUMAN_183_242      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox even-skipped homolog protein 1 (EVX-1)
+SQ   SEQUENCE   60 AA;  7579 MW;  05E4B8FCD6D6E34C CRC64;
+     MRRYRTAFTR EQIARLEKEF YRENYVSRPR RCELAAALNL PETTIKVWFQ NRRMKDKRQR
+//
+ID   ESX1_HUMAN_139_198      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein ESX1 (Extraembryonic, spermatogenesis, homeobox 1) (Homeobox protein ESX1-N) (Homeobox protein ESX1-C)
+SQ   SEQUENCE   60 AA;  7541 MW;  8A164A7933B0CFC6 CRC64;
+     KRRRRTAFTQ FQLQELENFF DESQYPDVVA RERLAARLNL TEDRVQVWFQ NRRAKWKRNQ
+//
+ID   EVX2_HUMAN_188_247      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox even-skipped homolog protein 2 (EVX-2)
+SQ   SEQUENCE   60 AA;  7547 MW;  05E4B8E7CDD6F857 CRC64;
+     VRRYRTAFTR EQIARLEKEF YRENYVSRPR RCELAAALNL PETTIKVWFQ NRRMKDKRQR
+//
+ID   HME1_HUMAN_303_362      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein engrailed-1 (Homeobox protein en-1) (Hu-En-1)
+SQ   SEQUENCE   60 AA;  7220 MW;  EC5569DC472F49D8 CRC64;
+     DKRPRTAFTA EQLQRLKAEF QANRYITEQR RQTLAQELSL NESQIKIWFQ NKRAKIKKAT
+//
+ID   HMX2_HUMAN_149_208      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein HMX2 (Homeobox protein H6 family member 2)
+SQ   SEQUENCE   60 AA;  7304 MW;  EAC8DDD24AFB5DF2 CRC64;
+     KKKTRTVFSR SQVYQLESTF DMKRYLSSSE RACLASSLQL TETQVKTWFQ NRRNKWKRQL
+//
+ID   HMX3_HUMAN_227_286      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein HMX3 (Homeobox protein H6 family member 3) (Homeobox protein Nkx-5.1)
+SQ   SEQUENCE   60 AA;  7247 MW;  14483FD60AB7DA2A CRC64;
+     KKKTRTVFSR SQVFQLESTF DMKRYLSSSE RAGLAASLHL TETQVKIWFQ NRRNKWKRQL
+//
+ID   HXB1_HUMAN_203_262      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B1 (Homeobox protein Hox-2I)
+SQ   SEQUENCE   60 AA;  7367 MW;  499E6BAD749E938B CRC64;
+     PSGLRTNFTT RQLTELEKEF HFNKYLSRAR RVEIAATLEL NETQVKIWFQ NRRMKQKKRE
+//
+ID   HXB2_HUMAN_143_202      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B2 (Homeobox protein Hox-2.8) (Homeobox protein Hox-2H) (K8)
+SQ   SEQUENCE   60 AA;  7502 MW;  A5A1651B189F8F0D CRC64;
+     ARRLRTAYTN TQLLELEKEF HFNKYLCRPR RVEIAALLDL TERQVKVWFQ NRRMKHKRQT
+//
+ID   HXB3_HUMAN_188_247      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-B3 (Homeobox protein Hox-2.7) (Homeobox protein Hox-2G)
+SQ   SEQUENCE   60 AA;  7491 MW;  D78624EE8EF8036B CRC64;
+     SKRARTAYTS AQLVELEKEF HFNRYLCRPR RVEMANLLNL SERQIKIWFQ NRRMKYKKDQ
+//
+ID   HXC9_HUMAN_192_251      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-C9 (Homeobox protein Hox-3B)
+SQ   SEQUENCE   60 AA;  7722 MW;  566C3C16E919F694 CRC64;
+     TRKKRCPYTK YQTLELEKEF LFNMYLTRDR RYEVARVLNL TERQVKIWFQ NRRMKMKKMN
+//
+ID   HXD10_HUMAN_266_325     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Hox-D10 (Homeobox protein Hox-4D) (Homeobox protein Hox-4E)
+SQ   SEQUENCE   60 AA;  7533 MW;  EE4C9070DB88B05A CRC64;
+     GRKKRCPYTK HQTLELEKEF LFNMYLTRER RLEISKSVNL TDRQVKIWFQ NRRMKLKKMS
+//
+ID   HLX_HUMAN_276_335       Reviewed;          60 AA.
+DE   [DNA_contact] H2.0-like homeobox protein (Homeobox protein HB24) (Homeobox protein HLX1)
+SQ   SEQUENCE   60 AA;  7335 MW;  E930C2CCC8EF7005 CRC64;
+     RSWSRAVFSN LQRKGLEKRF EIQKYVTKPD RKQLAAMLGL TDAQVKVWFQ NRRMKWRHSK
+//
+ID   HNF6_HUMAN_385_444      Reviewed;          60 AA.
+DE   [DNA_contact] Hepatocyte nuclear factor 6 (HNF-6) (One cut domain family member 1) (One cut homeobox 1)
+SQ   SEQUENCE   60 AA;  7155 MW;  AFCD6CEF5D4EAA71 CRC64;
+     PKKPRLVFTD VQRRTLHAIF KENKRPSKEL QITISQQLGL ELSTVSNFFM NARRRSLDKW
+//
+ID   HOMEZ_HUMAN_55_114      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox and leucine zipper protein Homez (Homeodomain leucine zipper-containing factor)
+SQ   SEQUENCE   60 AA;  7058 MW;  A770881B02B13177 CRC64;
+     WTQAAQTSEL DSNEHLLKTF SYFPYPSLAD IALLCLRYGL QMEKVKTWFM AQRLRCGISW
+//
+ID   HOMEZ_HUMAN_355_415     Reviewed;          61 AA.
+DE   [DNA_contact] Homeobox and leucine zipper protein Homez (Homeodomain leucine zipper-containing factor)
+SQ   SEQUENCE   61 AA;  7491 MW;  571405645E8FA9E3 CRC64;
+     QRQRKTKRKT KEQLAILKSF FLQCQWARRE DYQKLEQITG LPRPEIIQWF GDTRYALKHG
+     Q
+//
+ID   HOMEZ_HUMAN_451_510     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox and leucine zipper protein Homez (Homeodomain leucine zipper-containing factor)
+SQ   SEQUENCE   60 AA;  6866 MW;  6EBCB1D954658FE1 CRC64;
+     TPPLPIPPPP PDIQPLERYW AAHQQLRETD IPQLSQASRL STQQVLDWFD SRLPQPAEVV
+//
+ID   HESX1_HUMAN_108_167     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox expressed in ES cells 1 (Homeobox protein ANF) (hAnf)
+SQ   SEQUENCE   60 AA;  7281 MW;  63221DF9DE9FF7A5 CRC64;
+     GRRPRTAFTQ NQIEVLENVF RVNCYPGIDI REDLAQKLNL EEDRIQIWFQ NRRAKLKRSH
+//
+ID   LMX1A_HUMAN_195_254     Reviewed;          60 AA.
+DE   [DNA_contact] LIM homeobox transcription factor 1-alpha (LIM/homeobox protein 1.1) (LMX-1.1) (LIM/homeobox protein LMX1A)
+SQ   SEQUENCE   60 AA;  6958 MW;  F49523D6C5D85C04 CRC64;
+     PKRPRTILTT QQRRAFKASF EVSSKPCRKV RETLAAETGL SVRVVQVWFQ NQRAKMKKLA
+//
+ID   NANGN_HUMAN_102_161     Reviewed;          60 AA.
+DE   [DNA_contact] NANOG neighbor homeobox (Homeobox protein C14)
+SQ   SEQUENCE   60 AA;  7371 MW;  63F764A2C0CAA46C CRC64;
+     QYPEKRLVSK SLMHTLWAKF KLNRCPTIQE SLSLSFEFDM THKQISQWFC KTRKKYNKEM
+//
+ID   NANOG_HUMAN_95_154      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein NANOG (Homeobox transcription factor Nanog) (hNanog)
+SQ   SEQUENCE   60 AA;  7442 MW;  A9B7002B38AE596A CRC64;
+     KQKTRTVFSS TQLCVLNDRF QRQKYLSLQQ MQELSNILNL SYKQVKTWFQ NQRMKSKRWQ
+//
+ID   NKX61_HUMAN_236_295     Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein Nkx-6.1 (Homeobox protein NK-6 homolog A)
+SQ   SEQUENCE   60 AA;  7254 MW;  BBB09DBAA77C3DAA CRC64;
+     RKHTRPTFSG QQIFALEKTF EQTKYLAGPE RARLAYSLGM TESQVKVWFQ NRRTKWRKKH
+//
+ID   OTP_HUMAN_104_163       Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein orthopedia
+SQ   SEQUENCE   60 AA;  7485 MW;  B7468F9BF609B468 CRC64;
+     QKRHRTRFTP AQLNELERSF AKTHYPDIFM REELALRIGL TESRVQVWFQ NRRAKWKKRK
+//
+ID   ONEC3_HUMAN_414_473     Reviewed;          60 AA.
+DE   [DNA_contact] One cut domain family member 3 (One cut homeobox 3) (Transcription factor ONECUT-3) (OC-3)
+SQ   SEQUENCE   60 AA;  7269 MW;  B46F5EE5C49A5161 CRC64;
+     PKKQRLVFTD LQRRTLIAIF KENKRPSKEM QVTISQQLGL ELNTVSNFFM NARRRCMNRW
+//
+ID   P5F1B_HUMAN_229_288     Reviewed;          60 AA.
+DE   [DNA_contact] Putative POU domain, class 5, transcription factor 1B (Oct4-pg1) (Octamer-binding protein 3-like) (Octamer-binding transcription factor 3-like)
+SQ   SEQUENCE   60 AA;  7089 MW;  8DEC0FEB4DB16404 CRC64;
+     ARKRKRTSIE NRVRGNLENL FLQCPKPTLQ ISHIAQQLGL EKDVVRVWFC NRRQKGKRSS
+//
+ID   ONEC2_HUMAN_426_485     Reviewed;          60 AA.
+DE   [DNA_contact] One cut domain family member 2 (Hepatocyte nuclear factor 6-beta) (HNF-6-beta) (One cut homeobox 2) (Transcription factor ONECUT-2) (OC-2)
+SQ   SEQUENCE   60 AA;  7246 MW;  B66ABBDB4E987C60 CRC64;
+     QKKSRLVFTD LQRRTLFAIF KENKRPSKEM QITISQQLGL ELTTVSNFFM NARRRSLEKW
+//
+ID   OTX2_HUMAN_38_97        Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein OTX2 (Orthodenticle homolog 2)
+SQ   SEQUENCE   60 AA;  7368 MW;  B61409E4AE057F07 CRC64;
+     QRRERTTFTR AQLDVLEALF AKTRYPDIFM REEVALKINL PESRVQVWFK NRRAKCRQQQ
+//
+ID   PBX2_HUMAN_244_306      Reviewed;          63 AA.
+DE   [DNA_contact] Pre-B-cell leukemia transcription factor 2 (Homeobox protein PBX2) (Protein G17)
+SQ   SEQUENCE   63 AA;  7511 MW;  ADA05645016DDEE8 CRC64;
+     ARRKRRNFSK QATEVLNEYF YSHLSNPYPS EEAKEELAKK CGITVSQVSN WFGNKRIRYK
+     KNI
+//
+ID   PRRX1_HUMAN_94_153      Reviewed;          60 AA.
+DE   [DNA_contact] Paired mesoderm homeobox protein 1 (Homeobox protein PHOX1) (Paired-related homeobox protein 1) (PRX-1)
+SQ   SEQUENCE   60 AA;  7465 MW;  960299C92F309186 CRC64;
+     QRRNRTTFNS SQLQALERVF ERTHYPDAFV REDLARRVNL TEARVQVWFQ NRRAKFRRNE
+//
+ID   RX_HUMAN_136_195        Reviewed;          60 AA.
+DE   [DNA_contact] Retinal homeobox protein Rx (Retina and anterior neural fold homeobox protein)
+SQ   SEQUENCE   60 AA;  7544 MW;  9580693007EEBD7F CRC64;
+     HRRNRTTFTT YQLHELERAF EKSHYPDVYS REELAGKVNL PEVRVQVWFQ NRRAKWRRQE
+//
+ID   SATB2_HUMAN_615_674     Reviewed;          60 AA.
+DE   [DNA_contact] DNA-binding protein SATB2 (Special AT-rich sequence-binding protein 2)
+SQ   SEQUENCE   60 AA;  6945 MW;  B0F28857218CA896 CRC64;
+     PRSRTKISLE ALGILQSFIH DVGLYPDQEA IHTLSAQLDL PKHTIIKFFQ NQRYHVKHHG
+//
+ID   SEBOX_HUMAN_45_104      Reviewed;          60 AA.
+DE   [DNA_contact] Homeobox protein SEBOX (Homeobox OG-9) (Skin-, embryo-, brain- and oocyte-specific homeobox)
+SQ   SEQUENCE   60 AA;  7273 MW;  9897738496EE79DC CRC64;
+     HRRKRTTFSK GQLLELERAF AAWPYPNIST HEHLAWVTCL PEAKVQVWFQ KRWAKIIKNR
+//
+ID   TF2LX_HUMAN_48_111      Reviewed;          64 AA.
+DE   [DNA_contact] Homeobox protein TGIF2LX (TGF-beta-induced transcription factor 2-like protein) (TGFB-induced factor 2-like protein, X-linked) (TGIF-like on the X)
+SQ   SEQUENCE   64 AA;  7798 MW;  DA40B177A47D7450 CRC64;
+     EHKKKRKGNL PAESVKILRD WMYKHRFKAY PSEEEKQMLS EKTNLSLLQI SNWFINARRR
+     ILPD
+//
+ID   TF2LY_HUMAN_48_111      Reviewed;          64 AA.
+DE   [DNA_contact] Homeobox protein TGIF2LY (TGF-beta-induced transcription factor 2-like protein) (TGFB-induced factor 2-like protein, Y-linked) (TGIF-like on the Y)
+SQ   SEQUENCE   64 AA;  7826 MW;  67D0B177A47D7453 CRC64;
+     EHKKKRKGNL PAESVKILRD WMYKHRFKAY PSEEEKQMLS EKTNLSLLRI SNWFINARRR
+     ILPD
+//
+ID   TGIF2_HUMAN_16_79       Reviewed;          64 AA.
+DE   [DNA_contact] Homeobox protein TGIF2 (5'-TG-3'-interacting factor 2) (TGF-beta-induced transcription factor 2) (TGFB-induced factor 2)
+SQ   SEQUENCE   64 AA;  7612 MW;  8FE42881741E8B2A CRC64;
+     AGKRKRRGNL PKESVKILRD WLYLHRYNAY PSEQEKLSLS GQTNLSVLQI CNWFINARRR
+     LLPD
+//
+ID   VAX1_HUMAN_100_159      Reviewed;          60 AA.
+DE   [DNA_contact] Ventral anterior homeobox 1
+SQ   SEQUENCE   60 AA;  7435 MW;  A0DE05B687F12F4F CRC64;
+     PKRTRTSFTA EQLYRLEMEF QRCQYVVGRE RTELARQLNL SETQVKVWFQ NRRTKQKKDQ
+//
+ID   VSX1_HUMAN_164_223      Reviewed;          60 AA.
+DE   [DNA_contact] Visual system homeobox 1 (Homeodomain protein RINX) (Retinal inner nuclear layer homeobox protein) (Transcription factor VSX1)
+SQ   SEQUENCE   60 AA;  7483 MW;  C3831FFF15F7C4E8 CRC64;
+     KRRHRTVFTA HQLEELEKAF SEAHYPDVYA REMLAVKTEL PEDRIQVWFQ NRRAKWRKRE
+//
+ID   ZHX3_HUMAN_304_363      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 3 (Triple homeobox protein 1) (Zinc finger and homeodomain protein 3)
+SQ   SEQUENCE   60 AA;  7019 MW;  180370D547BC429F CRC64;
+     SSIPTYNAAM DSNSFLKNSF HKFPYPTKAE LCYLTVVTKY PEEQLKIWFT AQRLKQGISW
+//
+ID   ZHX3_HUMAN_494_553      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 3 (Triple homeobox protein 1) (Zinc finger and homeodomain protein 3)
+SQ   SEQUENCE   60 AA;  7082 MW;  6BAB48A5F608BC03 CRC64;
+     ASIYKNKKSH EQLSALKGSF CRNQFPGQSE VEHLTKVTGL STREVRKWFS DRRYHCRNLK
+//
+ID   ZHX3_HUMAN_612_671      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 3 (Triple homeobox protein 1) (Zinc finger and homeodomain protein 3)
+SQ   SEQUENCE   60 AA;  7208 MW;  A062470CD883DFA7 CRC64;
+     TPTKYKERAP EQLRALESSF AQNPLPLDEE LDRLRSETKM TRREIDSWFS ERRKKVNAEE
+//
+ID   ZHX3_HUMAN_764_823      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 3 (Triple homeobox protein 1) (Zinc finger and homeodomain protein 3)
+SQ   SEQUENCE   60 AA;  6961 MW;  13474F9514CFCEE0 CRC64;
+     PGKVSCKKTA QQRHLLRQLF VQTQWPSNQD YDSIMAQTGL PRPEVVRWFG DSRYALKNGQ
+//
+ID   ZHX3_HUMAN_835_894      Reviewed;          60 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 3 (Triple homeobox protein 1) (Zinc finger and homeodomain protein 3)
+SQ   SEQUENCE   60 AA;  7051 MW;  1405E15105454837 CRC64;
+     FPPGLLVIAP GNRELLQDYY MTHKMLYEED LQNLCDKTQM SSQQVKQWFA EKMGEETRAV
+//
+ID   ZFHX2_HUMAN_1595_1654     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 2 (Zinc finger homeodomain protein 2) (ZFH-2)
+SQ   SEQUENCE   60 AA;  6967 MW;  5E0F588D188C058A CRC64;
+     RRFSRTKFTE FQTQALQSFF ETSAYPKDGE VERLASLLGL ASRVVVVWFQ NARQKARKNA
+//
+ID   ZFHX2_HUMAN_1857_1916     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 2 (Zinc finger homeodomain protein 2) (ZFH-2)
+SQ   SEQUENCE   60 AA;  7353 MW;  43565398AC8A10CD CRC64;
+     DKRLRTTILP EQLEILYRWY MQDSNPTRKM LDCISEEVGL KKRVVQVWFQ NTRARERKGQ
+//
+ID   ZFHX2_HUMAN_2065_2124     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 2 (Zinc finger homeodomain protein 2) (ZFH-2)
+SQ   SEQUENCE   60 AA;  7163 MW;  DA79C8FA65EF6E65 CRC64;
+     QRRYRTQMSS LQLKIMKACY EAYRTPTMQE CEVLGEEIGL PKRVIQVWFQ NARAKEKKAK
+//
+ID   ZHX2_HUMAN_263_324      Reviewed;          62 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 2 (Alpha-fetoprotein regulator 1) (AFP regulator 1) (Regulator of AFP) (Zinc finger and homeodomain protein 2)
+SQ   SEQUENCE   62 AA;  7178 MW;  0E2E3B5C953DAEC0 CRC64;
+     NTTKYNSALD TNATMINSFN KFPYPTQAEL SWLTAASKHP EEHIRIWFAT QRLKHGISWS
+     PE
+//
+ID   ZHX2_HUMAN_439_501      Reviewed;          63 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 2 (Alpha-fetoprotein regulator 1) (AFP regulator 1) (Regulator of AFP) (Zinc finger and homeodomain protein 2)
+SQ   SEQUENCE   63 AA;  7400 MW;  1C2BD181BA4DD1DF CRC64;
+     TPASDRKKTK EQIAHLKASF LQSQFPDDAE VYRLIEVTGL ARSEIKKWFS DHRYRCQRGI
+     VHI
+//
+ID   ZHX2_HUMAN_530_591      Reviewed;          62 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 2 (Alpha-fetoprotein regulator 1) (AFP regulator 1) (Regulator of AFP) (Zinc finger and homeodomain protein 2)
+SQ   SEQUENCE   62 AA;  7428 MW;  F6CB6AA5CA9884C8 CRC64;
+     PQKFKEKTQG QVKILEDSFL KSSFPTQAEL DRLRVETKLS RREIDSWFSE RRKLRDSMEQ
+     AV
+//
+ID   ZHX2_HUMAN_628_690      Reviewed;          63 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 2 (Alpha-fetoprotein regulator 1) (AFP regulator 1) (Regulator of AFP) (Zinc finger and homeodomain protein 2)
+SQ   SEQUENCE   63 AA;  7298 MW;  FC22EED31BA3DE55 CRC64;
+     SPSPAIAKSQ EQVHLLRSTF ARTQWPTPQE YDQLAAKTGL VRTEIVRWFK ENRCLLKTGT
+     VKW
+//
+ID   ZFHX4_HUMAN_2084_2143     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 4 (Zinc finger homeodomain protein 4) (ZFH-4)
+SQ   SEQUENCE   60 AA;  7337 MW;  B56A31D5BD3F5DC3 CRC64;
+     FKRPRTRITD DQLKILRAYF DINNSPSEEQ IQEMAEKSGL SQKVIKHWFR NTLFKERQRN
+//
+ID   ZFHX4_HUMAN_2181_2240     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 4 (Zinc finger homeodomain protein 4) (ZFH-4)
+SQ   SEQUENCE   60 AA;  7254 MW;  BA6F0630E85C4F58 CRC64;
+     KRSSRTRFTD YQLRVLQDFF DTNAYPKDDE IEQLSTVLNL PTRVIVVWFQ NARQKARKSY
+//
+ID   ZFHX4_HUMAN_2560_2619     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 4 (Zinc finger homeodomain protein 4) (ZFH-4)
+SQ   SEQUENCE   60 AA;  7267 MW;  BCD2C87C6167A4A2 CRC64;
+     DKRLRTTITP EQLEILYEKY LLDSNPTRKM LDHIAREVGL KKRVVQVWFQ NTRARERKGQ
+//
+ID   ZFHX4_HUMAN_2884_2943     Reviewed;          60 AA.
+DE   [DNA_contact] Zinc finger homeobox protein 4 (Zinc finger homeodomain protein 4) (ZFH-4)
+SQ   SEQUENCE   60 AA;  7188 MW;  D874E2EA086C34CB CRC64;
+     HKRFRTQMSN LQLKVLKACF SDYRTPTMQE CEMLGNEIGL PKRVVQVWFQ NARAKEKKFK
+//
+ID   ZHX1_HUMAN_284_346      Reviewed;          63 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 1
+SQ   SEQUENCE   63 AA;  7245 MW;  27E96283346CADF0 CRC64;
+     NSIPTYNAAL DNNPLLLNTY NKFPYPTMSE ITVLSAQAKY TEEQIKIWFS AQRLKHGVSW
+     TPE
+//
+ID   ZHX1_HUMAN_464_526      Reviewed;          63 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 1
+SQ   SEQUENCE   63 AA;  7431 MW;  86F4844D5C169826 CRC64;
+     SFGIRAKKTK EQLAELKVSY LKNQFPHDSE IIRLMKITGL TKGEIKKWFS DTRYNQRNSK
+     SNQ
+//
+ID   ZHX1_HUMAN_569_630      Reviewed;          62 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 1
+SQ   SEQUENCE   62 AA;  7367 MW;  FE4DAE318A585D6E CRC64;
+     PQKFKEKTAE QLRVLQASFL NSSVLTDEEL NRLRAQTKLT RREIDAWFTE KKKSKALKEE
+     KM
+//
+ID   ZHX1_HUMAN_660_722      Reviewed;          63 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 1
+SQ   SEQUENCE   63 AA;  7330 MW;  6F75F7BA67E3EE1D CRC64;
+     STGKICKKTP EQLHMLKSAF VRTQWPSPEE YDKLAKESGL ARTDIVSWFG DTRYAWKNGN
+     LKW
+//
+ID   ZHX1_HUMAN_777_832      Reviewed;          56 AA.
+DE   [DNA_contact] Zinc fingers and homeoboxes protein 1
+SQ   SEQUENCE   56 AA;  6850 MW;  92A856A033D492BD CRC64;
+     KFKTGTAILK DYYLKHKFLN EQDLDELVNK SHMGYEQVRE WFAERQRRSE LGIELF
+//

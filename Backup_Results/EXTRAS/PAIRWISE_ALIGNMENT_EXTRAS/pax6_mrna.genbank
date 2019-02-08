@@ -1,0 +1,86 @@
+LOCUS       HUMOCLHMB               1643 bp    mRNA    linear   PRI 29-MAR-2010
+DEFINITION  Homo sapiens oculorhombin (PAX6) mRNA, complete cds, alternatively
+            spliced.
+ACCESSION   M77844
+VERSION     M77844.1
+KEYWORDS    DNA-binding protein; homeobox protein; iris hypoplasia;
+            oculorhombin; paired box; retinal abnormalities; transcription
+            factor.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1643)
+  AUTHORS   Ton,C.C.T., Hirvonen,H., Miwa,H., Well,M.M., Monaghan,P.,
+            Jordan,T., van Heyningen,V., Hastle,N.D., Meijers-Heijboer,H.,
+            Drechsler,M., Royer-Pokora,B., Collins,F.S., Swaroop,A.,
+            Strong,L.C. and Saunders,G.F.
+  TITLE     Positional cloning and characterization of a paired box- and
+            homeobox-containing gene from the aniridia region
+  JOURNAL   Cell 67 (6), 1059-1074 (1991)
+   PUBMED   1684738
+FEATURES             Location/Qualifiers
+     source          1..1643
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /map="11 p13"
+                     /tissue_type="eye"
+                     /dev_stage="fetal"
+     gene            1..1643
+                     /gene="PAX6"
+                     /gene_synonym="aniridia"
+     CDS             363..1631
+                     /gene="PAX6"
+                     /gene_synonym="aniridia"
+                     /codon_start=1
+                     /product="oculorhombin"
+                     /protein_id="AAA59962.1"
+                     /translation="MQNSHSGVNQLGGVFVNGRPLPDSTRQKIVELAHSGARPCDISR
+                     ILQVSNGCVSKILGRYYETGSIRPRAIGGSKPRVATPEVVSKIAQYKRECPSIFAWEI
+                     RDRLLSEGVCTNDNIPSVSSINRVLRNLASEKQQMGADGMYDKLRMLNGQTGSWGTRP
+                     GWYPGTSVPGQPTQDGCQQQEGGGENTNSISSNGEDSDEAQMRLQLKRKLQRNRTSFT
+                     QEQIEALEKEFERTHYPDVFARERLAAKIDLPEARIQVWFSNRRAKWRREEKLRNQRR
+                     QASNTPSHIPISSSFSTSVYQPIPQPTTPVSSFTSGSMLGLTDTALTNTYSALPPMPS
+                     FTMANNLPMQPPVPSQTSSYSCMLPTSPSVNGRSYDTYTPPHMQTHMNSQPMGTSGTT
+                     STGLISPGVSVPVQVPGSEPDMSQYWPRLQ"
+     misc_feature    435..686
+                     /gene="PAX6"
+                     /gene_synonym="aniridia"
+                     /note="Region: paired box"
+     misc_feature    1017..1166
+                     /gene="PAX6"
+                     /gene_synonym="aniridia"
+                     /note="Region: homeobox"
+ORIGIN      
+        1 tatcgataag tttttttttt attgtcaatc tctgtctcct tcccaggaat ctgaggattg
+       61 ctcttacaca ccaacccagc aacatccgtg gagaaaactc tcaccagcaa ctcctttaaa
+      121 acaccgtcat ttcaaaccat tgtggtcttc aagcaacaac agcagcacaa aaaaccccaa
+      181 ccaaacaaaa ctcttgacag aagctgtgac aaccagaaag gatgcctcat aaagggggaa
+      241 gactttaact aggggcgcgc agatgtgtga ggccttttat tgtgagagtg gacagacatc
+      301 cgagatttca gagccccata ttcgagcccc gtggaatccc gcggccccca gccagagcca
+      361 gcatgcagaa cagtcacagc ggagtgaatc agctcggtgg tgtctttgtc aacgggcggc
+      421 cactgccgga ctccacccgg cagaagattg tagagctagc tcacagcggg gcccggccgt
+      481 gcgacatttc ccgaattctg caggtgtcca acggatgtgt gagtaaaatt ctgggcaggt
+      541 attacgagac tggctccatc agacccaggg caatcggtgg tagtaaaccg agagtagcga
+      601 ctccagaagt tgtaagcaaa atagcccagt ataagcggga gtgcccgtcc atctttgctt
+      661 gggaaatccg agacagatta ctgtccgagg gggtctgtac caacgataac ataccaagcg
+      721 tgtcatcaat aaacagagtt cttcgcaacc tggctagcga aaagcaacag atgggcgcag
+      781 acggcatgta tgataaacta aggatgttga acgggcagac cggaagctgg ggcacccgcc
+      841 ctggttggta tccggggact tcggtgccag ggcaacctac gcaagatggc tgccagcaac
+      901 aggaaggagg gggagagaat accaactcca tcagttccaa cggagaagat tcagatgagg
+      961 ctcaaatgcg acttcagctg aagcggaagc tgcaaagaaa tagaacatcc tttacccaag
+     1021 agcaaattga ggccctggag aaagagtttg agagaaccca ttatccagat gtgtttgccc
+     1081 gagaaagact agcagccaaa atagatctac ctgaagcaag aatacaggta tggttttcta
+     1141 atcgaagggc caaatggaga agagaagaaa aactgaggaa tcagagaaga caggccagca
+     1201 acacacctag tcatattcct atcagcagta gtttcagcac cagtgtctac caaccaattc
+     1261 cacaacccac cacaccggtt tcctccttca catctggctc catgttgggc ctaacagaca
+     1321 cagccctcac aaacacctac agcgctctgc cgcctatgcc cagcttcacc atggcaaata
+     1381 acctgcctat gcaaccccca gtccccagcc agacctcctc atactcctgc atgctgccca
+     1441 ccagcccttc ggtgaatggg cggagttatg atacctacac ccccccacat atgcagacac
+     1501 acatgaacag tcagccaatg ggcacctcgg gcaccacttc aacaggactc atttcccctg
+     1561 gtgtgtcagt tccagttcaa gttcccggaa gtgaacctga tatgtctcaa tactggccaa
+     1621 gattacagta aaaaaaaaaa aaa
+//
+

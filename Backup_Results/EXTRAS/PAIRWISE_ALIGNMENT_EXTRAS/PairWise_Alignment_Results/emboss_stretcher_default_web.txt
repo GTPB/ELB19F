@@ -1,0 +1,2799 @@
+########################################
+# Program: stretcher
+# Rundate: Wed 11 Oct 2017 00:20:38
+# Commandline: stretcher
+#    -auto
+#    -stdout
+#    -asequence emboss_stretcher-I20171011-002037-0336-15255791-oy.aupfile
+#    -bsequence emboss_stretcher-I20171011-002037-0336-15255791-oy.bupfile
+#    -datafile EBLOSUM62
+#    -gapopen 12
+#    -gapextend 2
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EBLOSUM62
+# Gap_penalty: 12
+# Extend_penalty: 2
+#
+# Length: 34484
+# Identity:    1638/34484 ( 4.8%)
+# Similarity:  1638/34484 ( 4.8%)
+# Gaps:       32841/34484 (95.2%)
+# Score: -55967
+# 
+#
+#=======================================
+
+pax6_genomic       1 ATACAATCACCTACATTTTCTAATGTGGTTGGAGCCTTTCAGCCAGAGGG     50
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic      51 CGAGGGAAGCCCGGGTAGGCCCCCTTTAGGGCTTCCCTCTTGAGAACCCA    100
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     101 GCAGGCCTGGAGAGACCTTTGGCCTAGGCCCTGAAAAAGGGGTCGCATGT    150
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     151 CCTCTTCCCGGAGCCCCCGTCTGTGCCCAGCTAGTGACTTGCGGGCTCGA    200
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     201 GGGCCAGGTTGAGGGTACTCATCGAGCCTCGAACTCCTCCTAAAAATGAT    250
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     251 TCCTGCCAAAAGCGCCTCTCCATCCCGGCGCGGCCTTCGGGTCTCTCCGA    300
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     301 TGAAGGGACTCCCTTGGGGATCGGAGGAGGGGACAGGGTGATTACCCAGA    350
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     351 GAGGTAGCTGGCCAGCCTAAGGGCAGAGATCTTGGGGCCCTAGTGCCCGA    400
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     401 AGGTGCGGAGGAGCGCACTCGGCAAGACTAGTTTCCTGGGGATCGACTCT    450
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     451 ACGCCATACAGGACGGCGGCCCAGGCTGGACCGGGCCGGGCTAGAGCAGT    500
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     501 CACAGGCCGGGCCAAGGAAGGCCAAAGCAGGGGTTGGAGCCGGCCGGACC    550
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     551 CTGGGTGGGGAGAAGCAGGCTCCCGCCCGGCCGGAAAACTAGTCGGCGCA    600
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     601 GAGCTGTGCCCAACTCTAGCCGCCATGACGTCACGCGGGCCGGGCAGCCA    650
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     651 ATGAGGACGGCGCTGGCGTGGATATTAAGGAAAGTTAGCGCCTGCCTGAG    700
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     701 CACCCTCTTTTCTTATCATTGACATTTAAACTCTGGGGCAGGTCCTCGCG    750
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     751 TAGAACGCGGCTGTCAGATCTGCCACTTCCCCTGCCGAGCGGCGGTGAGA    800
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     801 AGTGTGGGAACCGGCGCTGCCAGGCTCACCTGCCTCCCCGCCCTCCGCTC    850
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     851 CCAGGTAACCGCCCGGGCTCCGGCCCCGGCCCGGCTCGGGGCCCGCGGGG    900
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     901 CCTCTCCGCTGCCAGCGACTGCTGTCCCCAAATCAAAGCCCGCCCCAAGT    950
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic     951 GGCCCCGGGGCTTGATTTTTGCTTTTAAAAGGAGGCATACAAAGATGGAA   1000
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1001 GCGAGTTACTGAGGGAGGGATAGGAAGGGGGGTGGAGGAGGGACTTGTCT   1050
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1051 TTGCCGAGTGTGCTCTTCTGCAAAAGTAGCAAAATGTTCCACTCCTAAGA   1100
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1101 GTGGACTTCCAGTCCGGCCCTGAGCTGGGAGTAGGGGGCGGGAGTCTGCT   1150
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1151 GCTGCTGTCTGCTAAAGCCACTCGCGACCGCGAAAAATGCAGGAGGTGGG   1200
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1201 GACGCACTTTGCATCCAGACCTCCTCTGCATCGCAGTTCACGACATCCAC   1250
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1251 GCTTGGGAAAGTCCGTACCCGCGCCTGGAGCGCTTAAAGACACCCTGCCG   1300
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1301 CGGGTCGGGCGAGGTGCAGCAGAAGTTTCCCGCGGTTGCAAAGTGCAGAT   1350
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1351 GGCTGGACCGCAACAAAGTCTAGAGATGGGGTTCGTTTCTCAGAAAGACG   1400
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1401 CGGAGTACGAAAGAATGCGGCCGACAGAGCTGGGCAGCGCGTAAAGCTCC   1450
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1451 CAGCGTGTGATTTGAGCTTCACTTCGGAAGACCTAATAATTAGCGATTCT   1500
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1501 CACTGAGCTAGAACGCGGGCTCCGGTTACTGCGGGCGCTGCGCTGGCTGC   1550
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1551 CTCGGCGGGAAGCGCGCGGGCGCCATGGGAGCCGGGCCGCCAAGCCCGGG   1600
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1601 AAAGAGAAGCGCCCACCACCCTGCGGCCCTTGGAGGGCCAGAGCCGGGGC   1650
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1651 CCGGAAGTGTCCCCTTAGTGAGTCAGGGAAGGGACGACCCAAACTTAGAC   1700
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1701 TAACTTGTGGTTCAGCCGGGCGAAAGTCCTGGGAGCCCGGCCCTAAAAGC   1750
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1751 AGCTGGAGACGCCCAGGCCGGCTTAGGCGGGGCACCCAAGAACCCCGCCC   1800
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1801 GGGAGTTTGGGGCGGCCTCTGGGCCAGGCCCCGGCTAGCCCCCAACCCCC   1850
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1851 ACTCCCACTCGCGCTCCTGCGCCCCCTTTCTAGGTCTTCTGGGAGCACCT   1900
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1901 TCGGAGCTCAGTCACCTGTGACAGGTGTTGGGACCTCCGCCCGACTCCGA   1950
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    1951 GCGGTGGCGCCCCCTGCTCACCTCACCTGGAAACGGGGGACGAGCGCAGT   2000
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2001 GGCAGTCCGGCCGCACGCCTTACCTGGGCCGGGATCCTCTCCTCCGCGGG   2050
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2051 TTCCTCTCCCTGGAGCTGGGCGGCGAGCAGGTCGCCTGCTTCGCAGTGGG   2100
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2101 AAGTGGACCTTCTCCTCCAGTCATAAATCAAACCCAGCCATCCTCGGGCC   2150
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2151 TCCTCCCTCATTAGAGATGTTTATTGGAGATCGTGTTTATTCGGCTGTCA   2200
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2201 CGGCGAGAAAACGCGGTGACATAATTACCTCTGACCAGAGTCCTCGCTCC   2250
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2251 GCGCCCAGGGCGAGCCGAGGACCTCCTCTGTCGCCTTCTCATGCCCGTGC   2300
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2301 CCTTCGTGATCGGAGGGCGCCCGTGATAGGCTTGTCTTTTTTTCCTCAGA   2350
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2351 CCCTCTCATAGAATTTGGATGACTGGAATTACTATTCAGATTTCCCCAGG   2400
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2401 GCCCGGAGTTTATTTATTTATTTTAGAATTGGAAAGGAAAACCGAAGGGA   2450
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2451 ACCCAACGCCCCTCCGGGGCAGAAGGGGGCAGCGCGCGCGAGGCGGAAGG   2500
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2501 ACAGTCACTCTCGCTGCACAAACTTTCCCGCGGGCCGCGCCGCGCGTGCA   2550
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2551 GGGGCTGGACGCCACCCGGCGCCAGAGCCGGGCCTGAGGAGCGGGGTCTG   2600
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2601 GCCGGGAACGAGGGCTGCCAGCCTGGGTGGTGTCATTTGTTGCTTCATTT   2650
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2651 TTCATTCCCTTTCCTCTCGTGAGGAATCAGAGGCATCGGGCCGCGCGGGC   2700
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2701 TGAGAATTCTTAAATTCTCCCCGGCCGCATTCGGCTGAGCCAACCCGCAG   2750
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2751 TTCCTGTCAGCCCCTCTGTCCCCCGGGCAGCGGTTTTCCCCGCTAGCCAG   2800
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2801 GTTTGGAAGTCACCCTCTGTGAGACTGGGTTAGGAAGTGACGAAAAGCGC   2850
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2851 CGAATTGTTTTCAAATTGAAAATACTTTTTTTTTTTTTTTTGGAGATAGC   2900
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2901 GCTGACAAATATATGGGATCCCGGCTTTTGATCCCTGGCTGCCGCCTCTG   2950
+                                                                       
+M77844.1           1 --------------------------------------------------      0
+
+pax6_genomic    2951 TTCTCCTGTCGCTAATAAAACTCGCATTGAGCCCCTTAGTGCCTTGATTA   3000
+                           |.|||.|||                                   
+M77844.1           1 ------TATCGATAA-----------------------------------      9
+
+pax6_genomic    3001 ACAGGCAGATTAACTCTTACTGGGGTTGGGAACAGCTTGTCCTAATCAAT   3050
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3051 GTCATTTTAAAAGCCCGTCAGGATGCGCTTAGCTTCGGTTCCCTGGATGC   3100
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3101 TTGAGCGAGCCAGCCATGACATTTGCTCCCTCCCCCTCCCCAGCCTCAAA   3150
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3151 TCCCCCAGTAAAGCCCCCAGTTCCCGCCTGCCTGTTCCCAGGTCTACAAC   3200
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3201 GGGACAAATCGCAGGACCGGGTCGTTGGCCTTTAGAATAGGCAGCGGTTT   3250
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3251 AGAGAGGGGATATCCAGGGAGAAGGGACTGAGGTGGCCTTGACTTGCTTG   3300
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3301 CTTTTCCTTTGAAGCTGAACTCTTGCCTCTTGGGGGCAGAGGTTACAGGG   3350
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3351 AAAAGAGAGATGGGGGGATCGTCACAGGGTGATGAAATGGAAAGCAAACT   3400
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3401 TTTCTAGGAACCCTATTTGCAAAAATCGGAGAGTGCCGCTGATTTCAGTT   3450
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3451 GTCCTACATGTCAGGAGTTTTAAACCTAACTCCTATCTGGACAACAGCAT   3500
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3501 GGAGGGACTGGGAGGCAAAGCCTTGGGAGTCTGACCCGCTGGGCTGCTAG   3550
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3551 GAATCCCTTTGCTGGGAGACTCCACTGGACAATGTTATTTTAAAGGTATT   3600
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3601 TTGGGGGTGGGCAGGGAGAAGACAGAGAGAGAAAGAGAGAGAGAGAGAGA   3650
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3651 GAGAGAGAGAGAGAGAGAGAGACAGGCTGGCCTCCCAGAGCGAACGGAAG   3700
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3701 AGGACTGAGGACTGAACCCAGGGAGCCCCTAGCACTGGCCATTTGGCAGG   3750
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3751 AGGCGAGGAAGGGCGAGGGCACCGCGGCTTCCCCCCAAGCCGAGCAGTGG   3800
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3801 CCACAGCCTGAAGGTGCCACGGGGCGGCTCTGGGATCTTCTTGGCTTTTC   3850
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3851 TAGGCTCTGGGCTCGGCGAGGCTGCCGGGTTAGCGGGAACCGGCAGGTTG   3900
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3901 CTGGAGAAAGGAGAGGGACAAAGGCCTGGAAGTGGGGGAGGCACCAGGGA   3950
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    3951 CTGGGCGGCCGGGATGGGAGCCTTTGCCTTTAGGGCTCACTGGACCCGTT   4000
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4001 TGCCAGCTCCGCGGACAAGGGATCCCACCTTCCCAGGGTCTGCAAAAAGA   4050
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4051 GAGACGTTTGGGGCACTACAAAGTGACGCAGGTGTCTGCCAAGACTTTCC   4100
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4101 TTCTCCAAAAAATGCCAGTCTTCACCCTTTCCAGCGCGCCGGCGCTGCGC   4150
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4151 CTCTGCTTGACCGGGGAAAGAGAGAGTTTGGAGGTGTCAGAACTGTCAGA   4200
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4201 ACTCCGGATGGGAGGCTCTTGGTTCTGAAGCTGGGAGCTGGAGGCACTTC   4250
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4251 CCCCCAGAAGTGGGCACTTCTTTGCCTCCCCGAAGGCCTGATGGGGTGGG   4300
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4301 CACAGGGGAATGCCAGGGATCGGTGCGGGTGAGATGCTTGCCTCACCTCA   4350
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4351 TGTTGACGCATCAATACTGGCTAGAAGCTCTGGGCAGGCTCTGGCGAGCC   4400
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4401 ACGGTCCCCCAGCGGGACTCCCTCCACGCAGACAGCCCCGCTACCGGGTG   4450
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4451 GGACGACCCCGGCGGCCCCCGCGGGAACGCACCCGCCGGCCTGAGAGGTC   4500
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4501 CTCCCTCTGGCCACAGGGGGCGGAGGGTAGGGGGGAACAGGGGCCTGTGG   4550
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4551 GGAGGCGGGGAAAGGAGACAGAACCTAAAGCGCAATCCCCGCCGCCCCCC   4600
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4601 CGCGTCTTGGAGGGCAGCAAGTGGGCCTCGGGCGTGTTGGTAGCCGCAAT   4650
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4651 TAAAATGGCGACCTGCGAGTTGTCTCGGTTTTGTACACACCTCTGGCAAC   4700
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4701 CGCGCCCGCACCTCAGTCTCGGCCCCCACACCCCTAGGCCGCTTCGCCCC   4750
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4751 CAGAGCCGGTACTTGGCAGAGGGAGTGAGGCTCCCCACGAGGTAGAACAG   4800
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4801 CACCCCCACCTTCCTTGAGACCAGTCCAGAGAGAACGAGGAAATCTCACT   4850
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4851 CTCACCCCTCTCTCCTTAAACTTTGAAAACTCGGCCTCATTCTGGGGTTG   4900
+                                                                       
+M77844.1          10 --------------------------------------------------      9
+
+pax6_genomic    4901 AACTCCCCTCCCCAAATATTGACACATGGGAAGCAGCCAAGTCCTTTTTG   4950
+                                                                      |
+M77844.1          10 -------------------------------------------------G     10
+
+pax6_genomic    4951 TTTTTTGTTTGTGCGGAGGAGTTTCCAGGAGTCTTTCCCGGAGCCCCCTT   5000
+                     ||||||                                            
+M77844.1          11 TTTTTT--------------------------------------------     16
+
+pax6_genomic    5001 CCCCACCCAATGACGTCAGTGGCATTCACTCCTCGCTCCTTGCCTTTTCT   5050
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5051 GATTTTTTGTTAAAACTTTTCTCCGCAGCGAGATGGGGGTTGGAGGGGTG   5100
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5101 GGAGAAGGAGCTGATTCAAAGAGCCAGTGCCCTGGGGGGAAATAGCAACA   5150
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5151 AGATTACGGCTGCTTCTTTCCGAGGCAAAGCTTAAGAAGGTGCTAATCCA   5200
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5201 CTCGGTCGCTAATTGAGAGGTTGTAAAAATGATACTCGCCTCCAGTTCGG   5250
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5251 ACAGAATCACTTCCCCCCCCCCCGCCCCCCCGCAAGTCCCTCGCTCATGC   5300
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5301 ACAGCGGACTTGAGTCTTGAGTCCAAGCTTCTTTAATGCTCGCTTGGAAA   5350
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5351 GTAAAAGGAGAGAGAAAGAGAAAGCCGACTTTCGCTGGTCTGGGACTCAG   5400
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5401 GGCCGCGGCCCCACTTGCCGGCATCCTCCGAAAGTCGCGCTCCTGCGAAA   5450
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5451 TGAAACCTCGCCCAGGAGGCCGCGGACCTGGACACCCGGCGCCACCTCCT   5500
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5501 TCACCTCTGACCCAGGTTTCCTCCCGGCGCTGCGAGCTCCCGGGGAAGGG   5550
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5551 TTAGAGCCGGCAGCCCTCCCCAGCCCGGGGAGGGGAGAGGGTTATGCGAC   5600
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5601 CCCACCTCTGGCTAGGGCCGGGGAGGCCTTTGCTTCCCGGGAGCCCTGCC   5650
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5651 CGGGCTCCTTGGTCGCAGGGCTGCTGGGTCCCAGGCAGGAACGAGAGGGT   5700
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5701 GAGGCCCACATGTGGCCCGGCGGCCCAGGGCGGCTTGCAGCGTCCTCACT   5750
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5751 GTCCCGGCTGCCAGGGGCTGCGGCGACGCGGCCAGTCAGCAGCGAGTTCA   5800
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5801 GGTCGCGCAGATTTTATTGATGAGCTCTGACTTTCAGCACTTTCCCTAAG   5850
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5851 TCAAGAAGAGTCTAGCGTACCCTTCGGCTGCTTCATTTCAGCCTCCCTGC   5900
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5901 CTCAGCTCTTCAGCCCTATTCCCCCTCGCCCTGTCCTGGGGTGTGTACAG   5950
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    5951 CAGCCCAGGCCTTCCTTCTCCTTCCCGGCTCCGTGGCCCGAAGCCGCCGA   6000
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6001 GAGAGCTCGGGACAGCGCAGGACCAGGCAGCCGCTCGCTCTCCTGTCACC   6050
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6051 TTAACTGCAGGCTCCGAGGGGCGCCTTTGGAGTGTACTGAGGTGTGTCCT   6100
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6101 AATCGTGCGGCATTCAACAAATGGACTTCTGGTGTGTGGTCAGAAGAGAA   6150
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6151 AAGCCATTTACTTACTTTCCTCCCCGGTTTTCTGGCAACAGCTGAAGGGG   6200
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6201 AGCTGCCTCCGTGGACTGAGCAGACCCAGGAGAGGGAGTCGTGGTGCGGA   6250
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6251 GACACACGCACCACACACAGATGACCGGTGGCACACACGACACACGCTGA   6300
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6301 CATACCGACATCGCCAGTGGGACACACACACACACACACACACACACACA   6350
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6351 CACACACACAGAGAGAGAGAGAGAATCCCTCCCAGCATTGGTCATCCGCC   6400
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6401 CCCCCACCCAGGCTTCCACTCCCCCTCCCCTCTTATCTCCCCTGGCTTCC   6450
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6451 CCTCCTCTCGGGCGCTGCGAAAAGCAGCCGCACTTAGTCAACAAATGGCA   6500
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6501 CGTGGGAGAAGTTGGTGAGTGTTTGGTGAGGACTCTTCAGGGCTTTTCAC   6550
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6551 AAGAACCCTCTGTACACAAAGTAAGTGGCGTGTTTACTCGGGCCTCTCCA   6600
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6601 GCCAGAGCTGTGCCTCTGCTCCGCTGCGCACCGCGGCTTCCGAAAGGAGA   6650
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6651 AAGGAGAGAAGAAAGGGCGGGGAGAGCGGGGTGGAGGATTTGGACAGGCC   6700
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6701 CTGGAGGCTTGGGCTGGGGAGGCCTCTGGCCTCGTTTAGTTCTCGGCCCG   6750
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6751 GCAACCTCCTCTCGGCCTAGGCTTCGCCGCGGCCTCCGCAGCTGGAATGG   6800
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6801 AGCTGCCAGGACCCAGTGACGCTCCCGCCCCTTTCCTCTTCTTCCAAGGG   6850
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6851 GCCAGGTGGGCTGGGGTGCGGCCGCCGCTGTGCTCTGTGTCTTGGGGCCC   6900
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6901 CGGCTGGGATGGGGTGGGGGCGGGCGGGGGCGGGGCGGCAGGCCACGCTG   6950
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    6951 TCCTGGAGTTGGCAAGAAAGGACAGCACAGAAACTTGCACCCTCCGAGGA   7000
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7001 CTGGGAGTCCCGAGTCCAGCTTAGGGGGAGTGGGGGCGCGACCCCCAACC   7050
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7051 CAGAAACCTTCACTTGACCGCTCAAGTTCGCGGCAGCAGGGCGGGCCGCG   7100
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7101 CCGAATCTCGGCGTGCGCGGAGCGGGGAGATGCAGGCGAGCGCCAGAGCC   7150
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7151 CGGGCTCGGGGGCCCTGCGCCGGGGAGAGGAGCCGGGACCCACCGGCGGA   7200
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7201 GCCGAAAACAAGTGTATTCATATTCAAACAAACGGACCAATTGCACCAGG   7250
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7251 CGGGGAGAGGGAGCATCCAATCGGCTGGCGCGAGGCCCCGGCGCTGCTTT   7300
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7301 GCATAAAGCAATATTTTGTGTGAGAGCGAGCGGTGCATTTGCATGTTGCG   7350
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7351 GAGTGATTAGTGGGTTTGAAAAGGGAACCGTGGCTCGGCCTCATTTCCCG   7400
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7401 CTCTGGTTCAGGCGCAGGAGGAAGTGTTTTGCTGGAGGATGATGACAGAG   7450
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7451 GTCAGGCTTCGCTAATGGGCCAGTGAGGAGCGGTGGAGGCGAGGCCGGGC   7500
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7501 GCCGGCACACACACATTAACACACTTGAGCCATCACCAATCAGCATAGGT   7550
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7551 GTGCTGGCTGCAGCCACTTCCCTCACCCACACTCTTTATCTCTCACTCTC   7600
+                                                                       
+M77844.1          17 --------------------------------------------------     16
+
+pax6_genomic    7601 CAGCCGCTGACAGCCCATTTTATTGTCAATCTCTGTCTCCTTCCCAGGAA   7650
+                                      |||||||||||||||||||||||||||||||||
+M77844.1          17 -----------------TTTTATTGTCAATCTCTGTCTCCTTCCCAGGAA     49
+
+pax6_genomic    7651 TCTGAGAATTGCTCTCACACACCAACCCAGCAACATCCGTGGAGAAAACT   7700
+                     ||||||.||||||||.||||||||||||||||||||||||||||||||||
+M77844.1          50 TCTGAGGATTGCTCTTACACACCAACCCAGCAACATCCGTGGAGAAAACT     99
+
+pax6_genomic    7701 CTCACCAGCAACTCCTTTAAAACACCGTCATTTCAAACCATTGTGGTCTT   7750
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         100 CTCACCAGCAACTCCTTTAAAACACCGTCATTTCAAACCATTGTGGTCTT    149
+
+pax6_genomic    7751 CAAGCAACAACAGCAGCACAAAAAACCCCAACCAAACAAAACTCTTGACA   7800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         150 CAAGCAACAACAGCAGCACAAAAAACCCCAACCAAACAAAACTCTTGACA    199
+
+pax6_genomic    7801 GAAGCTGTGACAACCAGAAAGGATGCCTCATAAAGGTGAGTCCGCTTCTT   7850
+                     ||||||||||||||||||||||||||||||||||||              
+M77844.1         200 GAAGCTGTGACAACCAGAAAGGATGCCTCATAAAGG--------------    235
+
+pax6_genomic    7851 TCTTCTCGCTTTATTTTTATTGCAATATTCAGACAGGTCTCCCCCTTCCT   7900
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    7901 CCCCCCTTCCTTCCTCCCCTCTCGCCGGTCCCCTCCCCCACTGCTACGCC   7950
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    7951 GGGAGAGTTGGGCCGGAGAAGTTTCCACGCAGGAGCCCAAACTTTCTACT   8000
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8001 TCCAGCGAAAGCCCGCGTCGGAGGGCGACTGCCGGCGAGCGGGAGCGGCG   8050
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8051 CAGGGCTCGGGGCGGGCGGCCAGCTCAGCCCCAGCGCCAGCGCCAGCGCC   8100
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8101 AGCGCGGGCTGAGCTCGCGGGAAGAAGGGAGACTCCAGGCGCGACAGCAG   8150
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8151 CCGCGGCTCCTAGCCCCAGCGTCGCCCAATGCTCCCGACCCGCGGGAAAA   8200
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8201 GACGAAGAGGCTCTGTGGTGCCCAAGGCCCTGGAACGGCCGCAGAGAGCA   8250
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8251 ACCGCTGCCGGCTGCTTTGTCCAGCCCGAGGCCCAGCGAACGCGCAGAGA   8300
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8301 GCGGGCGCTCCGAGGACTCGCCGAGGGAGCGCCGAGGGAACCTGCTCGCC   8350
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8351 GCGTCTCCGCCCGCCCGCCGGCCCTCGGGCTTTGTGCCGCACTGGGCTCC   8400
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8401 GGCGCAGAAGAGTCAGCCGGCACTCGAGCGCCGAGGGGGGCACCGCGCCC   8450
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8451 GCCACCAGCCCGAGTGGAGTCAGTCGGCAAGGCAGCCGCACGCTGGAGGT   8500
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8501 AGAGGGAAGAGCGAGCTAGCGCGAGCCGGGAAGGAAGCCACCAGGCCAAG   8550
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8551 GCGGTGGAACGCGCGCTCCGAGGGAGCTCAGAGCCGAGCGGGAGGACTGT   8600
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8601 CAGCTTCCACCCAGCCCCCGGGCTCTTGCCCCCAACTCCACTGGAGCGCT   8650
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8651 GAGCTCGGAACTTGAAAACTCTCTGCTCCCCAGGCTTCCCCCGACTCTCA   8700
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8701 TCTCCCTTGCCTTGCGGAGGCTGGGGCTCTTCCCTGTTCTCCGGCCCCCT   8750
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8751 GCGCTTGGTGGGTATTTTTCCTTGTTTTCCTCTGATCCAGTCTCACCAGG   8800
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8801 TGTTGGGATTTCAGCAAGTTTTGAGGTGCAGAGTTGGTTTGCTTTTTTGT   8850
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8851 TTGTTTTACTCCGAATCCCCTTATGTTTTTCTTGGTAAGGCCTTGAAAAT   8900
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8901 AAATCTGTATGAAAGCATTGGCCTTCCCCCTCGTCTGATCACTTCTTCTC   8950
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    8951 CCGGCTAATTAGTCGGAGTAATTTGAGAGCTTTCGATTCTAAGATCCCAG   9000
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9001 GAGGAAAAGTGTCTTTTCAAAGTTCATAAAGTTGTTGCCTCTTTCCTTGT   9050
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9051 GCAGATTTTCTCAGTCTCCCTGCGCCATAATAGCCCTGAATTTTAGCAAG   9100
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9101 TGTAATTGGGGGAAATGGAGTTGAATTTCAAGTGGAAATGCTTTCTTTTT   9150
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9151 CGAGTGCTAAAACCTGGCTCTTCATTCATGAGCGATTTCTAGAAAGTTTA   9200
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9201 AAAACAAAGTGAACGTGGTTTCTTTCTTTCTTCCTTTTTATTTTTCTTAT   9250
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9251 ACTCTCCCAAGCTCCCTAAGCCATTCTGGACGTTTAACTCGAACTTGGGA   9300
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9301 AGGTTTTAGAAGGGGCTGGGAGCAGAAAATGAAATGAAAGGCAAAGAGCT   9350
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9351 TGAGCCTGGCGAGTTTACTGAAGAGAAATAATAGTTGTTGCGGTTGACAT   9400
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9401 TACATTTTTTATAGCCAGTGACCTTTGCAAAAGCGTGAAGGCAGTTTGAT   9450
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9451 TAGTTGTTATCTTATTTGGCCCTAGAGAGTAAAACTTTGTCATCATAATT   9500
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9501 GCTAATTACTCTTTTGGCTGGGGGCGGGAGGACCGAGAGCTCTCCCCTTT   9550
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9551 ACCTCAGTTAAAGAGTTTGGGGATGGAATTTGAGAATTAAGTAATTAAAA   9600
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9601 AAAGAACAGCATTTGAAAACTGAGGCTTGTGTTGGGGACAGAGAGGTGGG   9650
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9651 GGCAGTGACCACTCTCTTGTGGTCCAAGGCTGGGGCGACTCCAAAATGTC   9700
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9701 TGGAGACTCCTTCGTTCAGGATGTGGTTCTATGGCCCCAGCGAGGCCGTA   9750
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9751 CAGAGCCTCGGGCTGAGCTGGGGGGCTGAGGCTGCAGTTGGGGGTCTGAC   9800
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9801 CTCTCCGGTGCACAGGACTGCTTCCGGGTGTCGATGTGCCCCACTTCCCG   9850
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9851 GGTTGCTTCTGCACTTAGTGTTCACGTTTACTTAAGTAATTAGATAGCTT   9900
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9901 CTTAGCGAGAGGGAAGTGGGAATGGAGCAGAACTGGAATTTGAAATACTA   9950
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic    9951 CCACCTTCCCAGCTGCTTCGAAAACTAATCAACGAGGCCTCTTTGTGCTC  10000
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10001 AGCTACTGAATTTAAAAAAAAATGGTATCAAGAAGTTACAAGCCAGGATG  10050
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10051 GGAGCATTCTGTTGTGATTGTGCACAGCGTGGGTTACAAAGTGGAGTTCT  10100
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10101 GGAAGTTTTACCCCTCCTAGGGGAATTCCATTCCCCATCTCCCCACCTAC  10150
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10151 TACTCCTTTGCAGCTTCAGGGTCCTGCATTTGTTGGGGTGGGGTATTTTG  10200
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10201 CATTAGAGTTGGAGATTTTGCCTATCCAGGGCATGGCTATGGGTGCCGGG  10250
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10251 ACTGAGAGACAGGAAGGAAGCATTGGAGAGCCAACCTAGATAAGGGTAAC  10300
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10301 TAGTAACCCTCTGCTGTGGCCAGTATTTACCCAATGCTGAGAAAAAGTCC  10350
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10351 TCATTTTCGGTTTATTTTTATGGATTTAAGCTGTCTACCAAGTAGTTAAA  10400
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10401 AAGTAGACCAGGAATGGCCTTGTAGAGTAAAATGTGCTTCTTGAAATTCT  10450
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10451 TTGCTTGCAGGCAGGCAGATCAATAATCACCATAGGTAAAACAGAAAAAA  10500
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10501 TAATGCATTTAAAAAAAAACAGAGAGAAATGATGCTGTGACTGTTTTGTT  10550
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10551 ATTTTACCTCTTTTTGGGGGGCAGACCTCTTGAATGGGCTCTTTATTGTA  10600
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10601 ACTCTCTCTTCCCAATTGAGCTCCCCACGGTGCCGTTGTATCTTTTTACA  10650
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10651 GCCCCTAACAACTCACACCAGTAACACAATTACCTCCAGATATTTACAAC  10700
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10701 AAGAAATTACTTTTCTATTTTCTCCACTCACCCAAAAGACTTTTTTTTTT  10750
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10751 TTTCCTTTGGGAAAGGTAGGGAGGTGTTCGTACGGGAGCAGCCTCGGGGA  10800
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10801 CCCCTGCACTGGGTCAGGGCTTATGAAGCTAGAAGCGTCCCTCTGTTCCC  10850
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10851 TTTGTGAGTTGGTGGGTTGTTGGTACATTTGGTTGGAAGCTGTGTTGCTG  10900
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10901 GTTAGGGAGACTCGGTTTTGCTCCTTGGGTTCGAGGAAAGCTGGAGAATA  10950
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   10951 GAAGCCATTGTTTGCCGTCTGTCGGCTTTGTCGACCACGCTCACCCCCTC  11000
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11001 CTGTTCGTACTTTTTAAAGCAGTGAGGCGAGGTAGACAGGGTGTGTCACA  11050
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11051 GTACAGTTAAAGGGGTGAAGATCTAAACGCCAAAAGAGAAGTTAATCACA  11100
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11101 ATAAGTGAGGTTTGGGATAAAAAGTTGGGCTTGCCCCTTTCAAAGTCCCA  11150
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11151 GAAAGCTGGGAGGTAGATGGAGAGGGGGCCATTGGGAAGTTTTTTTGGTG  11200
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11201 TAGGGAGAGGAGTAGAAGATAAAGGGTAAGCAGAGTGTTGGGTTCTGGGG  11250
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11251 GTCTTGTGAAGTTCCTTAAGGAAGGAGGGAGTGTGGCCCTGCAGCCCTCC  11300
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11301 CAAACTGCTCCAGCCTATGCTCTCCGGCACCAGGAAGTTCCAAGGTTCCC  11350
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11351 TTCCCCTGGTCTCCAAACTTCAGGTATTCCTCTCCCCTCACACCCCTTCA  11400
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11401 ACCTCAGCTCTTGGCCTCTACTCCTTACTCCACTGTTCCTCCTGTTTCCC  11450
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11451 CCTTCCCCTTTTCCTGGTTCTTTATATTTTTGCAAAGTGGGATCCGAACT  11500
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11501 TGCTAGATTTTCCAATTCTCCCAAGCCAGACCAGAGCAGCCTCTTTTAAA  11550
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11551 GGATGGAGACTTCTGTGGCAGATGCCGCTGAAAATGTGGGTGTAATGCTG  11600
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11601 GGACTTAGAGTTTGATGACAGTTTGACTGAGCCCTAGATGCATGTGTTTT  11650
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11651 TCCTGAGAGTGAGGCTCAGAGAGCCCATGGACGTATGCTGTTGAACCACA  11700
+                                                                       
+M77844.1         236 --------------------------------------------------    235
+
+pax6_genomic   11701 GCTTGATATACCTTTTTCTCCTTCTGTTTTGTCTTAGGGGGAAGACTTTA  11750
+                                                           ||||||||||||
+M77844.1         236 --------------------------------------GGGAAGACTTTA    247
+
+pax6_genomic   11751 ACTAGGGGCGCGCAGATGTGTGAGGCCTTTTATTGTGAGAGTGGACAGAC  11800
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         248 ACTAGGGGCGCGCAGATGTGTGAGGCCTTTTATTGTGAGAGTGGACAGAC    297
+
+pax6_genomic   11801 ATCCGAGATTTCAGGCAAGTTCTGTGGTGGCTGCTTTGGGCTCAAAACCC  11850
+                     ||||||||||||||                                    
+M77844.1         298 ATCCGAGATTTCAG------------------------------------    311
+
+pax6_genomic   11851 ACAAACAGTCAAAACAAACTATTTCAGTATGCTTCTTCACTATAGTTCAG  11900
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   11901 ATAGAAGAAAATAAATCAAAATTGGGGCATCGCTTCTACTGATTAAAGGG  11950
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   11951 TTAACTGCTAAAGAATGTAGGGGAAACAGATTGGGGATATTCCAGTACTT  12000
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   12001 TGTTTCAAGCCCCAAAGGGTAGATTTTGTATGCACTGCAGGGCAGAGCTG  12050
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   12051 AGTGACCCTCAGATCGCCCCAAGAGGTTGAGTGGATCAATTCCTAAAGAA  12100
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   12101 CGGAGATTCTCCTGTCCTAGCCCCAGGTCCACCTCGGTTGGGAGTTCAGG  12150
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   12151 CCTACCTGATGCAGCTGCCCGAGGATTAACTCCTATTTTCTTGCTAACAG  12200
+                                                                       
+M77844.1         312 --------------------------------------------------    311
+
+pax6_genomic   12201 AGCCCCATATTCGAGCCCCGTGGAATCCCGCGGCCCCCAGCCAGAGCCAG  12250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         312 AGCCCCATATTCGAGCCCCGTGGAATCCCGCGGCCCCCAGCCAGAGCCAG    361
+
+pax6_genomic   12251 CATGCAGAACAGTAAGTGCCTCTGGTCTTTCTGGGACTTCGGGCTCGGGG  12300
+                     |||||||||||||                                     
+M77844.1         362 CATGCAGAACAGT-------------------------------------    374
+
+pax6_genomic   12301 TGCGCGGACCCGAGGGTCAGGGGAGGACACAGGGACTCGCGACGCCCGCG  12350
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12351 CTGGCCCGGCCGCCGACCGACTGAGGCCCGGGGACCTGCGGCGGCTGCTC  12400
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12401 CCCGCTCCGCGCCCGGCAGCCCGGGAGGGGAGGGCGTTTGCTTGGCTCTT  12450
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12451 CTCGATACTGGAGAAGCAGGGGCTGGGCCCTTAAGAACAGCCCGCCCGAG  12500
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12501 TTTTCGAAGCTGCGGTAGAGAAACCCCATCCCCCCCAAATCCTGTAACTC  12550
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12551 ACACCCCCTCTCGCCCCTGCCCGGGCTCTGACCCCGGAGAGAGGGGCTGG  12600
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12601 GCTGATCAGGGCGGGGCGAAGTCTTCTCCTAGTTGAGCGAGAAGGAGGCC  12650
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12651 CCTTTGGGCTTAGCCAAGACTGAAAGTCTCCACCAACCCGGCGGGGTTGG  12700
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12701 GGGCTTCTCTCCCCAAGTCACTCTCAGGGCAGCTCCTCCCCTCCTCACCC  12750
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12751 CACTACGGGCCTAGAAGGGATGGGGAGAGGAGCCCCCAGGCCTGCAGCAG  12800
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12801 GGTAGGGGTGGTAAACTCGCTGTTACAGGGCGCGGGAGAGAGCACGGTTT  12850
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12851 ACTGGGTCTGGTAAGGAGGTGCCCAGGAATTGGAAAATCCCTGCCCTGGC  12900
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12901 AACTGCAATTGCTTGGGTCCTGATAGTCCCAGGCCCAGAGCGCTTTTGAT  12950
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   12951 ACTTATGGCCCTTGTACCTCCCTGCTTTCCTCTGCCCAGACCCCGTGGGG  13000
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13001 TCCCACCCACCTTCCTGTTCGTGGTGGGTGCTGGTACGCGGCAGGGCTAG  13050
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13051 TCTAGAGCTCCGACCTGGGAGCCTGGAGGCCCAGCGAAACCAGGCCCGGT  13100
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13101 TTGAGGTTACGGTTGAGGCACACGGCGTCGGGGCTCAACTGAACTCAAAG  13150
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13151 TGTGGAAAGGCCCGGGTCTTCCAGCAGCCTGCCCTGGCCGAACCACACAG  13200
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13201 GCTTAAGGAGGGTCCCCAGCACCTTATCCATCTGTTTTGGAAACGCCGGT  13250
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13251 CGCCCCCTGGTGCTTCCGGGGCTGGTAAGCGCGTAGCTGAGGAAAGGGCA  13300
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13301 CAAAGGTGGCGAGCTTTGCGGGAGTAGTTGTGCAGAACCTGCCGGACCCC  13350
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13351 AGGGCTTGGCCGGTAGGCTCGCCTTCGGCGGCTGGGCTCTCCCCTTGGAG  13400
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13401 CTCAGACTCCCCAGCCGCAGGCTGTCTCTCGGGCGGGCCCCAGCCAGGGC  13450
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13451 GCGCAGCCCTGAGCGTTTGTCGCTGCGGCCCGGCTGGCAGGCCCCGAGGG  13500
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13501 GCGCGGGGTCGCGGGCCGGCCGGCAGGGCTTTGTGCCGCTCGTTCCCGGG  13550
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13551 TGTGCGCGAGGCGCGGAGCATCCAAATTGACACCATATGTTTTCCTATTA  13600
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13601 GTTGCTTCGCGGTCGAGTTCTAGGCGCATAATCATCGCCAGTGGGCGAGA  13650
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13651 GCGCCAGCAGTCCCTAGGGAAGGGACACAATGATTGAGGCTTAACCTCTG  13700
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13701 AAGGGGAATTTGGAGCTGCGCTTTCTCTCTGCCATTTCGATGCTGGGAGT  13750
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13751 GGCGCTCTGGCCCTGGCGTCTCCTGGGCAAGCACCAGCCGGCGGTATCTG  13800
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13801 CGGAGGTGGCTGGCACGTTGTTATTTTTTGAAATGAGTGAGGAGGGAGGT  13850
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13851 CTAGATTTAGGCGGCCTTACGCGCCCGCCTTGGCATTAGCAGACTGGGAA  13900
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13901 TTGCCGTGGCTATGCCCGAAGTTTGGAAAGTCTCTCTCGGTCTCTTTCTG  13950
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   13951 GGACAGCCTTTCTTTTTCCGGGAAGCTTCCTGTGCCTAGAGGTGGGGCTC  14000
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14001 TGTAGCTGGAGGGGTAGATGGAACTTGCGAAGCAAAGGAAGGCAATAAAA  14050
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14051 GGAAGTTAGGAGAAACCGGAAACGTGGGCCAGGCCTTGCTCTGTTGGAGA  14100
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14101 AGCGGTGTCCCCGCAAAGTCCCTGCTTGCGCTGGTCCCGGCCGGAGCCCA  14150
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14151 GATCCCCCAAACGCCTGTCACTTCTCATCGAGTTGAGGCTCCGGCCCCCA  14200
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14201 CCCGCGCCTTGGTGAGGGCCCCCCCTCAGCCCCAAGCCTTCGGCTACCCT  14250
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14251 GAAAACGCGGCTCCCCTCGAAGGGGAAACAAGTGCAGTTCAATCTCGTCT  14300
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14301 GAGTGATCTACAAATAAGGACGGAAAGGGTCGTTTTATCACGGTCCCGTT  14350
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14351 TGTCGTGACGATGCAATTTCCCGGAGCGGAGCACTGTCACAAAGTGACAA  14400
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14401 GGCTGCCACAAGCGCCCCGACTGATCTTTTCAATTAGCCTTCCATGCATG  14450
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14451 ATCCGGAGCGACTTCCGCCTATTTCCAGAAATTAAGCTCAAACTTGACGT  14500
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14501 GCAGCTAGTTTTATTTTAAAGACAAATGTCAGAGAGGCTCATCATATTTT  14550
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14551 CCCCCCTCTTCTATATTTGGAGCTTATTTATTGCTAAGAAGCTCAGGCTC  14600
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14601 CTGGCGTCAATTTATCAGTAGGCTCCAAGGAGAAGAGAGGAGAGGAGAGG  14650
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14651 AGAGCTGAACAGGGAGCCACGTCTTTTCCTGGGAGGGCTGCTATCTAAGT  14700
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14701 CGGGGCTGCAGGTTGGAGATTTTTAAGGAAGTGGAAATTGGCAATTGGCT  14750
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14751 TTGTGTGTCTGTGGTTTTTGGGGAGGGGGACTACAAAGAGGGGCTAACTC  14800
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14801 CCTCTCCCTATTCTCTAAGGTTGGACCACAGGGATGAGGTTGTGAGATAC  14850
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14851 AAAGATAAAGGAGGGATGGGGAACACTATGATGTGGTATTTTTCTTTTCT  14900
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14901 GTTTTTTCTTTTTGATAATATCTATCCTTGGCTAAGGGGAGGGCGGAGTT  14950
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   14951 CAGCGGCGGAAATAAAGCGAGCAGTGGCTGGTGCGAACCGACTCCCGGCT  15000
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15001 CTAAGCCTTACTTGCGGTGGCCGGACTTGTCTGTGGCTGAAGCCGAGCCC  15050
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15051 GGGCTCTGACTCTCACGTCTGCACTGGAGGTGCGGAAACCTGGACTGGGG  15100
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15101 TTCACCAGCCACATACTGGCTGCTCTGGTTGTTCTCTCCTCTTCCTTCTT  15150
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15151 CTATTCTAACCAAACAAAACCCAACTCGATGCTTGTGCCAGGCCTTGGCC  15200
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15201 AGTTTGGACGGTGATGGAAACATTTCTGGATTTTAGCGTCTAAGGGAGCA  15250
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15251 CTCAAGGGCTGTAAGGTTTGCTATCACTGTCCCAACACTGCAGAGACCTT  15300
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15301 GAAGGTTCAGTGTGGGATCTGTAGAACCCATGGTTTGCGGTGACACTCAG  15350
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15351 AGGGGATCTTTGGGAGATTTATAGAGCCGGTTCTTAGCGCTTTGTGGGTT  15400
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15401 CAGAGGCTGGCTGCAGTGTTTATGAAGAGGGGCAGTGGGCTGGGGACACT  15450
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15451 GCTGGGGTTATGGCTGTAGTGAGGTCCATGTGTACTTGTTCCTTGGCATG  15500
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15501 TGTCTGACTCTGTGTTGCTGCTGCAGTACAGTGGGCAGGGGCACGGTTGC  15550
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15551 TTGGACTGGGCTGCCCGATGTCTGGCATGGCTGGTGGTCCTGTTGTCCTT  15600
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15601 TATTTGATCGATAGCAGGGAACTGACCGCCGAGGTTGGCACAGGTTGGCA  15650
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15651 GGGGGATGAGGATGCATTGTGGTTGTCTCCTCCTCCTCTCCTTCTTCCTC  15700
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15701 TTCCCCTTCCTCCTCTCCTTTCTGTTCTTGTTCTCCCTCATCTTCCTCTT  15750
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15751 CCTTCTTCTCCCTCTTCTTCCTCTTCACTCTGCTCTCTTCTCTTCTTTTC  15800
+                                                                       
+M77844.1         375 --------------------------------------------------    374
+
+pax6_genomic   15801 CCCTTTCCTCTCCTCTCCCTTTCCTCAGGTCACAGCGGAGTGAATCAGCT  15850
+                                                   ||||||||||||||||||||
+M77844.1         375 ------------------------------CACAGCGGAGTGAATCAGCT    394
+
+pax6_genomic   15851 CGGTGGTGTCTTTGTCAACGGGCGGCCACTGCCGGACTCCACCCGGCAGA  15900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         395 CGGTGGTGTCTTTGTCAACGGGCGGCCACTGCCGGACTCCACCCGGCAGA    444
+
+pax6_genomic   15901 AGATTGTAGAGCTAGCTCACAGCGGGGCCCGGCCGTGCGACATTTCCCGA  15950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         445 AGATTGTAGAGCTAGCTCACAGCGGGGCCCGGCCGTGCGACATTTCCCGA    494
+
+pax6_genomic   15951 ATTCTGCAGGTGATCCTCCCGGCGCCGCCCCACTCGCCGCCCCCGCGGCC  16000
+                     ||||||||||||                                      
+M77844.1         495 ATTCTGCAGGTG--------------------------------------    506
+
+pax6_genomic   16001 CTCCACTCTCAACGCCCTCTCTTCATTTCTTACTGTAAACGATGCTAATT  16050
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16051 ATGGACCCCCCCACCCTCACCCACCCCAGTCCCCAGTCCCCCCACCCACT  16100
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16101 CCCCTGCCTTCCCACTTTCCCCTCTCCTTCCACCATCCTTCCCTATCTCT  16150
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16151 TTCAACCTGGGTCAGTTACATAAGATAACTCATCTGCTTCAGAAAAATAT  16200
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16201 TGTGTGCGGATTTTTTTAAAAAAATCTTTCTCTTTTTATTTGGTAAAGAC  16250
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16251 ATTCATTGTGGGAACAGTTTATGAACCGTAATAAGCTGAGTTATATAAAC  16300
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16301 CGGCATAATTTCATTCTGCTCTCCCCAGCCCATGCTTACCTCAGCTTTTG  16350
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16351 AGGTATTTGTTTATTCTTCATGTTTATGAATAATATATATTGATTTTAAA  16400
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16401 AGGCAAATGCTATTTACTCCTCCCTAACTCACATTTACTCAATTGAGTAT  16450
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16451 TTTTTAAAGAAGAAGAAGTAAAAAAATCAGTTTATTTTTTACCTTTGTTC  16500
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16501 TTTAAAACATAACGCCACTTTAAGCAAGGTCAGCACAAAAATAAATTTAT  16550
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16551 CTACTTCGTTTTGATGCATCTTCAGGCAGTGTTTAAGAAAAGTTTTTTTT  16600
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16601 TTAAAAAAAGCTTTTAAATTCGTTTTTTAGTTCAAATTGTTTGAAAGTAT  16650
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16651 CATCATATTTGTAGTTTTTAGGGCTACAAATGTAATTTTAAGAAAAAAAG  16700
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16701 CTCTCTACAGTAAGTTCTCATACCATTGAAGGTATATTTTTGTGTTATAG  16750
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16751 ACCCATGCAGATGCAAAAGTCCAAGTGCTGGACAATCAAAACGTAAGCTT  16800
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16801 GTCATTGTTTAATGCATACTTAAACAATTTTATTTTTGTCTTGAAATTAT  16850
+                                                                       
+M77844.1         507 --------------------------------------------------    506
+
+pax6_genomic   16851 TAATAATGTGGTTTTCTGTCCACTTCCCCTATGCAGGTGTCCAACGGATG  16900
+                                                            |||||||||||
+M77844.1         507 ---------------------------------------TCCAACGGATG    517
+
+pax6_genomic   16901 TGTGAGTAAAATTCTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCA  16950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         518 TGTGAGTAAAATTCTGGGCAGGTATTACGAGACTGGCTCCATCAGACCCA    567
+
+pax6_genomic   16951 GGGCAATCGGTGGTAGTAAACCGAGAGTAGCGACTCCAGAAGTTGTAAGC  17000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         568 GGGCAATCGGTGGTAGTAAACCGAGAGTAGCGACTCCAGAAGTTGTAAGC    617
+
+pax6_genomic   17001 AAAATAGCCCAGTATAAGCGGGAGTGCCCGTCCATCTTTGCTTGGGAAAT  17050
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         618 AAAATAGCCCAGTATAAGCGGGAGTGCCCGTCCATCTTTGCTTGGGAAAT    667
+
+pax6_genomic   17051 CCGAGACAGATTACTGTCCGAGGGGGTCTGTACCAACGATAACATACCAA  17100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         668 CCGAGACAGATTACTGTCCGAGGGGGTCTGTACCAACGATAACATACCAA    717
+
+pax6_genomic   17101 GCGTAAGTTCATTGAGAACATCTGCCCTCCCTGCCCTAAGCCCAATGCTC  17150
+                     ||||                                              
+M77844.1         718 GCGT----------------------------------------------    721
+
+pax6_genomic   17151 TCTCCTCTTTACCTCCTCCCACCCTCTCTCTCCACTGTCTCTTAGTCTGT  17200
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17201 GTCCTCTCCCTGCTCCACATTTGTCTCCTTTGTACCTGGGGGAACAGAGA  17250
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17251 GGAATGCCCTGACTTTTCTTTGACTGTCTGGAAAATGGGAGTCAAGTGTG  17300
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17301 GGGAGTCATTCACTTCATTTGCATGCTGCAAAACAGAGGGCGGAGGCACC  17350
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17351 AGGGAAAGGCACTTGAATGAAGAAGGAAAATGAGAACCAGATTGTAACTT  17400
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17401 CGTCCTAATCCACCTGCCAGAACTTTCCTTCAGGTGTCACACATCCATTT  17450
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17451 CCATCCTAATATTAAACAATATAATGAAAGAAAGCTTTACAACAAGTCTA  17500
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17501 AATAGTTTTTATTTTCGGGCAGTCTTTTAACAAAGCAAAGCAACCGTGTG  17550
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17551 AGTTAGGTCACCAGAGACACCAAGCAATGGTGAAGGACCCCCTCCGCCCA  17600
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17601 ATTCTCTATCCAACTAAATTTCCATGCCCAAAGTGATAGCTATCATTTTT  17650
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17651 TCCACGGTGTATCTGCAAATCCACCCACTGTCCCGGGGTGGCTGGGAGCT  17700
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17701 TTTTAACGGGTTGAGAGTTGCTTTTTAAGGTTGTGGGTGAGCTGAGATGG  17750
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17751 GTGACTGTGTCTTCAGGAGACACTACCATTTGGTTTGATTTTGGTTTGAT  17800
+                                                                       
+M77844.1         722 --------------------------------------------------    721
+
+pax6_genomic   17801 TTGCAGGTGTCATCAATAAACAGAGTTCTTCGCAACCTGGCTAGCGAAAA  17850
+                             ||||||||||||||||||||||||||||||||||||||||||
+M77844.1         722 --------GTCATCAATAAACAGAGTTCTTCGCAACCTGGCTAGCGAAAA    763
+
+pax6_genomic   17851 GCAACAGATGGGCGCAGACGGCATGTATGATAAACTAAGGATGTTGAACG  17900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         764 GCAACAGATGGGCGCAGACGGCATGTATGATAAACTAAGGATGTTGAACG    813
+
+pax6_genomic   17901 GGCAGACCGGAAGCTGGGGCACCCGCCCTGGTTGGTATCCGGGGACTTCG  17950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         814 GGCAGACCGGAAGCTGGGGCACCCGCCCTGGTTGGTATCCGGGGACTTCG    863
+
+pax6_genomic   17951 GTGCCAGGGCAACCTACGCAAGGTAAAACCCAAGCAGCCATCCACGCAGC  18000
+                     ||||||||||||||||||||||                            
+M77844.1         864 GTGCCAGGGCAACCTACGCAAG----------------------------    885
+
+pax6_genomic   18001 TCTCCATATGTGCATCCCTTTGCCTGTCCCCTACTCTCCCAACCATTTCC  18050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18051 TCTCAGGGCTTCCATGCTTGGGGAATGTCATGGGTGAGACTGCATTTGAA  18100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18101 GGCCTGGGACACATCGACCACATTGTATGTAGGTGGTGTTTGTTGAACCA  18150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18151 TTTTGTTGGCCTGGGAATGTGAGGGTTGTGTATGTCAGGAGCGGTATGAA  18200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18201 GGTGGCTGGTGGGTGCGTGTGTGTGTTTGTGGGCAGCACTGTGTGCATAA  18250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18251 GAACGAGCTGCGTGGTGCACTATTCAAATTTGACATTAGAATGCAGGGAG  18300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18301 AGCCCCCTTGTAGAAGTGTGACAAGATAACGCACTGACAGACTGCGAGGT  18350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18351 TAACATAATTGTATCCTGTTGCTTTTTGCTGTAATTGACAAATTATGTGA  18400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18401 CTATGAGTAGGGTGCACATGAAAAGGTGAGCAGGGAGATGCAGGGCGAGT  18450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18451 CGGGGATGGGGCATTGGAAGTGGTGGTCTCCCAACTAAAACCACCCCACT  18500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18501 ATCCTTGCCCCTCCCCCGTTCGCCCCTCTGGGTCCCACTTTCTCACTCTC  18550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18551 TGTGGGTGGCGACTATGTGGAAGTGGTGAGGTGAAGATACTGTGAGCAGG  18600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18601 ACGGCGGGATGCCGGGAGCCGCTCTGGTCTGGGAGGAGAGATGGGACCTG  18650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18651 AAACACCCCAGGTTCTGTGAGAAGGGCTGGAGGAAGAAGAGCGGGGGATG  18700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18701 GGGGGGGTGGGGCGGAGGGGAGGGTCAGTTGGCTCCCCTCCGCTCCCCTC  18750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18751 CACACCCCGAGGTAGCTTGGTCAAGAATAGGAAACAGTTTACTCCGAAGA  18800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18801 TTAATCGGTATTTGTTGTCCTCGTGACAAGGAGATAATATGCGGGATAAT  18850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18851 GGGACGTGGCGTCTCACTCCCAGGAGCACAACGGAGCCGAGGGGCTCGGG  18900
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18901 GCCAGGGGCGGCGCGCGGGACTGCGAGGAGGCTGCCGGCGCATCCGTGAG  18950
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   18951 CTCTCGGACCGGCTCCGGATGCCCGGCGCCTCCATGGAGTCGGGCGAGGG  19000
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19001 AAGGGAAAATCGGTAACAGTATGCGAAATATCTGGTACAAAGGATGCTTC  19050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19051 TGTCACTCGCAAGAATTTGTTATGGGAACAATCCTGTCGCTCTGTAATTG  19100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19101 CTCATTAGAGAACGTTTTGTTTCTCATTAAGGCGACATGAATAAGCGTCT  19150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19151 AGTTGAAGGAGACAGCTGTAGAAATGTTCCACAAGAGACCTCTGGACACG  19200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19201 ATTCGGCACCAATTGCCAATTAGACATGTCAGTTTTAAGAGCAGAAAACA  19250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19251 ATATAGGACGGACACTGGGAAGATAGGGAGCAAAGCGCTCGCTTCTTGTT  19300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19301 TCCCAGCGCGGCCGCTCGGCCGGCGGAGGCCTCCTGACGCGCGGGGCCCG  19350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19351 GGCTCCCCTGGGCGACCCCGCCCGCACGGGCCCCGAACCCGCCGCCTCCG  19400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19401 CGAGCTCAGAGGGCCCCCAGGCCCGCTCCCGCCTCTGGTGAGACTAGCGA  19450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19451 TTGACCCCACCGAGTGTAGGCAACCCCATCCCTGCCTGACTTTTGAAACC  19500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19501 GTAGGATTCCCACTTGTAGACACTGGACACACCCAAGTGACACCCGAACT  19550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19551 TCGCACTCACGAGCGTCCACCCCTCCGCCCCCAGCAATCTGAGGTCCTGG  19600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19601 TGATCCCTCCCCTGACAAGAGTCTGGCCCACTTAGTCCGAGAAGTCTTGG  19650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19651 GGAGGGACTCAGGGCACGGTGGCCTAGGCCTGGGAGGGCTGAGCCCAGAG  19700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19701 CCTCCACTCCGGGCTCTCCCCGGTGCGTGGGCTCCCATGAGCTTGGGGCG  19750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19751 CAGGATACACCCCCCTTCCGCTTCTTGGAGTTGGGCAGAAGCCGAGGACA  19800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19801 GCAGCTTCCACCAGAGGTGGCGCCCGATTCGGGCGGATTTTCGTCGCCGG  19850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19851 CAGTCTGAGGGCGGGAAGTGAGAGTCAAATCAGCTAGGGTCCGCCTGTGA  19900
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19901 TGGTTGGGGCCGGAGGTGGAGCTAGTCCAGGGGCTTTTCACTTTAACGCG  19950
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   19951 CCTAGTTGCTAGAAAATTCTGGGTCAACTGGCAATCACCACCCCCCCACC  20000
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20001 CGCAAGTGAGGTTTTTGGGGGGTGATTGTCACCTCAGGCACAGGACCGTC  20050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20051 GCCCCTAGTTGCGTGGGGAGGACACGTGGGCCAAACGAAGCACAGAGTTG  20100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20101 CCGGCGTGGGGGTAGCGGGCACCGGTGGTGAGCTTCGCTTCACGTTCCCG  20150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20151 GGGAATCCTCAGACTTTTTGGTGCTAAGAGGGTCCCCCTCCCTCCCTAGC  20200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20201 CCCCTTTCCCAGCCCAGGAAGCCTTTCTTGGGTTTTAAAGAGTCCATACT  20250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20251 CCAAAAGCATAAGGCGGGGGTTAGGTCTCAGAGGGAGACAAATATGGTTT  20300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20301 CCATCTGATCAACGCCATGCGGCGGTGAATAAAATCGCGACGACGTGGGC  20350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20351 TGACAACAACAAGAGACAACTCTATCCAGCCCCAATTCTCCGGCGATTTG  20400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20401 GTGGTTTTAGGGATCACGGAGACACTTTTTCTTATCTCCTCCCCTCACCC  20450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20451 CACCCCCACCCCCCATAATACCCAAGCCCTCTATAGGATTTAGTCAGCCT  20500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20501 CTCTTTCAACAGATGCTACAATGTTTTGATCCGCGCTCCAGAGCTGAAAA  20550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20551 GGTGCCGCAACCGGGTTGCTATCTTTTCTTGCTTGTTTTCCGCCTCACTG  20600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20601 ATTAAGACACTAAGAAACTAAGGAATGATTTTATTTCCCAGCAACTCTCT  20650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20651 CTCTGTCTCTCTCTCTCTCTCTCTCTCTCACCTCCTTCCAGGAAACAAAT  20700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20701 CCTATTCCCATCGTCAGATGGTCCTGGGGCTGGGATAATGGGAGGCGCTT  20750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20751 TCACTCGCTTTCTCACGGATTAGGCTGGAAGGTGAACGGCACCCACTGAA  20800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20801 GGCCCCTGCTTTGCGCGGCTCCGAGGGGGCGCCTTTTGAAGAAGATATCT  20850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20851 TAATTGTCCACCACTTAGGTTTATCGTGGGGGTGGGGGAGTCGAGATCCA  20900
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20901 ACTTCTAGTTTTATTTTGTTAAAAGCTTTAAGAGTGGAAGGCAAATCCAC  20950
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   20951 TAAAGTGGGGGGAAATGTACCCATTTTATGTAAGAGCAGCCGCTAGGTCA  21000
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21001 CCGCCTGGCTGCAAACAGTTGCCACTTCTAAAGTAATGAACTGTCTCCGT  21050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21051 GCCGCTCTCCCCGCGGGGTAGAGAAGGGATCCTGCAGCGACAGGTTTCTT  21100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21101 TTTGCTGTGGAATTCCAATCCCCGCTTCCCATCTTTTTTTTTTTTTTTTT  21150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21151 TTTTTCCAGATTTAAAATTGAGCTCTACTGTCCCTGCTGACTTTTCTCTC  21200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21201 TTAAGTGTCAGTTCTGGAGGCAGCACAGGGCCTGGCGGCGATCGCGTGCT  21250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21251 GCCTGTGTAAACCCGTGTGTATGTTTGTGTGAGACAGAACATGGATAAGA  21300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21301 ATGTGAATCTCCATGTTTTAAAATTAAGAAAATGTCAAAGAGGCAAATGA  21350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21351 GAGCAGAGCATGCTATCGGCGGGGTTCTTCGGAGGCAGATTCGGGCAACT  21400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21401 TTGTTTAATTGGCGAGATCGAATGTGCCAGAAAAGGGACCGAGATGGGGC  21450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21451 CCCTAGGAAGGCATGGGCATGAGTGGCCATGGGGAGATGGGCATTGTGTT  21500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21501 CTCCTCAGTGTCCCCCACCCCATACCAGATGTGCACAGATTTTTGTCTGT  21550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21551 TTTCCAAAAGCAATAACCCTCCGGCCTTTCTAGTTGGCCAAAAGGAGCTA  21600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21601 TTTCCAGTCTTCCTTCTTCACCAAACCCGAAAATAAAGCGAGGGGTGGGG  21650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21651 GTGGTCGCTTCATTTCTTCCCTTGAAAAACGCTTTGAAAAGTCCCCGGAA  21700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21701 ACTTGGGGCAGTAAATTAGCACAGACGCTTGTGCCCGCACACGTGAGCGG  21750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21751 AGCGCGTCTCCCTCAGCTAAGTAGCCCTCCTCGACCCCCACCTTTCTGAT  21800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21801 GGAGTGCAAAGACCCAGAGTCCAGATGGGGCTCAGTTACTAATATTCTCT  21850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21851 GGCCCTCATCCTCCTTTTCCTCTCTCTCCCACTCTTGTTCGGCCCTCGTG  21900
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21901 TCTCTTTTTCCTCTCAGCATTCTTTTCTGTCCTTTTTTAAAAATACCTTT  21950
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   21951 CTAGCCTCTATGTTTTTTGAGCCTTCTTTTCCCCTCCATCGCCCTCTTTT  22000
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22001 TCCCTCCATCGCCCTCTGTCTTTCCCCTAACCCAGGCCCCCCAATCCTTC  22050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22051 CCCCTTGCTTCCACCCCCACCGCTGGTTTCCATCCTGCCTCCCCTCCATC  22100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22101 TCCTCTATGTAGGAACCCAGCCCTGGTCCCCGTCCACTCTCCCTGCCTCC  22150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22151 CCCCATGCTGGGCCCTGGCCCCCCCATCCACCCTCCATCCCCCCAGCCAA  22200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22201 GCGCCCTAAATAGCACGGAGGCGCCCGCTCTTCGGACAGTGATTAATGAT  22250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22251 AGCAGAGCAGAGGGGTTAACACACTTCACTGAAAAGTCTGTTGACTGGGC  22300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22301 TTCTTGTAACACAATGTGGCCCGCTGCACGCCTCAAGAGAATCCTTTTGT  22350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22351 TGTCCGCGCTCATTGTAGCCTCAAAATTCTGCCCACGAAAGTTTGCCAAC  22400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22401 GCTCCTGCCCCAGGAGTTTAATAGTTTCCCTTACTCGCGGGGCATTGTGC  22450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22451 AGCGCTGAAAAGCAGCCCCTCGCTATTCAAGTGTTGGTGGTCATCTCAAT  22500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22501 AGATCTCCAAGGGCCCATATGGTGGCCAGTGCCGATGAATCCGCCTGTTT  22550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22551 AAATGGGGGAGAAAGTTGGGGTTTTAAAACATTTCAAAGTTCCTGAAAAG  22600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22601 ATCCCACTAGATCCTGTCACAATTCCCTGAACTCTTTGAAGGCGCAGCCT  22650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22651 ATTGTCTCCTGGTTATAAATAATATTCCTGGCCAAGTCGATTCCCACCAA  22700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22701 GGCGCTCCTAGGGGCCCCTCCACCCCGCCTCTGGCCAAGTTTTGAGGATA  22750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22751 GGGAGGTGGGTAGCCCATGCTGGTATCCCTTGGGGGTCATTTCAGGACCC  22800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22801 CAGACCCAGGACCCAGCCTGTAGTGGCCCTGGAGGCCCAGTCAGAGTTTA  22850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22851 GGCAATCCTGCTTCCCTTCACTGTGGCCTTACAGGCAAGGTGCAAGCCGG  22900
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22901 GAGCCAGCTAGCCCAAGTGCACATCTTGCCCTCCAGGCAGCAAGGGAAAA  22950
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   22951 CCATAAAACTTTCCCCCTGTATAATGATAGAAGTTACATTCAAAGTGGTG  23000
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23001 GAAATGCCCTAATTAAAAATGTACCACTTAAATGATATGCCAAAGATTCA  23050
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23051 GCTGCAGCATAGAATATTTAGCTAGTTAGTGAACTCTCTACTATTTCTTT  23100
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23101 TTTAAAATTACACGTTAAAAATTTAAAAGAAATCTTACTTTTCTCTGGTG  23150
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23151 CAACACATTACAAAGAATGGACAGTCCTTTTATCTAAATATAAAATTCCA  23200
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23201 TTTTCAGCAATTATAGCCTGTTCTTGGTGATGATATAATTACAGCTGTGC  23250
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23251 TCGTAATAGGTGTCAAGGCGAAGCGCACTCATACAATAGTTGAATAAAAC  23300
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23301 TGCAGAACAATGCGAGCACTTCTAAATTCACAACCTTTAAATGAAATTGA  23350
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23351 CTGTGCAGAATTCAAATAAAAACTAGATAAATATTTTTTAAAAAAGATTA  23400
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23401 CAAGCTTGGTTTGGTTTCTTAATAGCATTTTCTACAAACCTATCAACATC  23450
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23451 TAATTGATTAGATAGGAATTACTGATTATAGATCAACTGAAATCTTGAAC  23500
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23501 ATCACTCTTCTATTTTCCCAACACAGCCATAGGTAAAGAGATTCTGTAGG  23550
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23551 GAGTGGAGTGAGGCATTTGGGGAGTTGGGGTTACTTATAAAAGATCATTT  23600
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23601 TAATTGGAAACTTCAGTGCTTATTTTTTCATTCAAGAAATGCCACTTAGT  23650
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23651 GTGTGTATTATAAAGTCTCATCTTGATAAAAACAAAGAAAATGGTGGTCA  23700
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23701 GGTAACTAACATCGCAAATGTATTTTTTTAAAAGAAGGCTGACAGTTACC  23750
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23751 TTGGGAATGTTTTGGTGAGGCTGTCGGGATATAATGCTCTTGGAGTTTAA  23800
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23801 GACTACACCAGGCCCCTTTTGGAGGCTCCAAGTTAATCCAAATTTCTCTT  23850
+                                                                       
+M77844.1         886 --------------------------------------------------    885
+
+pax6_genomic   23851 ACCATCCTATTCTTTTTGTTCCAGATGGCTGCCAGCAACAGGAAGGAGGG  23900
+                                             ||||||||||||||||||||||||||
+M77844.1         886 ------------------------ATGGCTGCCAGCAACAGGAAGGAGGG    911
+
+pax6_genomic   23901 GGAGAGAATACCAACTCCATCAGTTCCAACGGAGAAGATTCAGATGAGGC  23950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         912 GGAGAGAATACCAACTCCATCAGTTCCAACGGAGAAGATTCAGATGAGGC    961
+
+pax6_genomic   23951 TCAAATGCGACTTCAGCTGAAGCGGAAGCTGCAAAGAAATAGAACATCCT  24000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         962 TCAAATGCGACTTCAGCTGAAGCGGAAGCTGCAAAGAAATAGAACATCCT   1011
+
+pax6_genomic   24001 TTACCCAAGAGCAAATTGAGGCCCTGGAGAAAGGTGATAGAGTTTTTCAA  24050
+                     |||||||||||||||||||||||||||||||||                 
+M77844.1        1012 TTACCCAAGAGCAAATTGAGGCCCTGGAGAAAG-----------------   1044
+
+pax6_genomic   24051 AGTAGAGAAGCAGTAAATCAAAGTAAATGCCACATCTTCAGTACAAAGAG  24100
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24101 CTAAATTTAGCCAGGGCCCTTTGCATAGAAGAATGAAAAGATTTCCTTTT  24150
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24151 TTCTGTCTTTTTATTTCTCTGGGCATCTTTTCAGTGTGTGTGTGTGTGTG  24200
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24201 TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGGTGTGTGT  24250
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24251 GTGTGTGTTTCTTCTTTTCATCTACCAGTAATTCAAAGACTAAATGTCTG  24300
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24301 ACTTATAAGGAAAAATGATGATTTGGCTATTTCAGGCCACAGAAAGGTCA  24350
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24351 CTGAATGCCATTCCAAAGAAAATTTAACTTGGTTCTGGTGGGAAAGTTCT  24400
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24401 TCCAAGTACAGTCAACACTAGAAGCATTTTAAAGGGAATTGGTTGGAGGT  24450
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24451 AATGGGAGTGGGGAGGTGGGAACCAGTTTGATGCACAGTTTGGTCAACAT  24500
+                                                                       
+M77844.1        1045 --------------------------------------------------   1044
+
+pax6_genomic   24501 ATTTTGTGTAGTTCTGGCACAATATGGAAAATCAACTTACTCTTTCAGAG  24550
+                                                                     ||
+M77844.1        1045 ------------------------------------------------AG   1046
+
+pax6_genomic   24551 TTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGACTAGCAGC  24600
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1047 TTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGACTAGCAGC   1096
+
+pax6_genomic   24601 CAAAATAGATCTACCTGAAGCAAGAATACAGGTACCGAGAGACTGTGCAG  24650
+                     ||||||||||||||||||||||||||||||||||                
+M77844.1        1097 CAAAATAGATCTACCTGAAGCAAGAATACAGGTA----------------   1130
+
+pax6_genomic   24651 TTTCACACTTTGTGATTCATACCATTTGTCTTTCCTAGAGACAGAGGTGC  24700
+                                                                       
+M77844.1        1131 --------------------------------------------------   1130
+
+pax6_genomic   24701 TTGTACAGAGTACTATTTATTTATAGGACTAATATAATAAAAAGGTTCAG  24750
+                                                                       
+M77844.1        1131 --------------------------------------------------   1130
+
+pax6_genomic   24751 TCTGCTAAATGCTCTGCTGCCATGGGCGTGGGGAGGGCAGCAGTGGAGGT  24800
+                                                                       
+M77844.1        1131 --------------------------------------------------   1130
+
+pax6_genomic   24801 GCCAAGGTGGGGCTGGGCTCGACGTAGACACAGTGCTAACCTGTCCCACC  24850
+                                                                       
+M77844.1        1131 --------------------------------------------------   1130
+
+pax6_genomic   24851 TGATTTCCAGGTATGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAG  24900
+                                  |||||||||||||||||||||||||||||||||||||
+M77844.1        1131 -------------TGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAG   1167
+
+pax6_genomic   24901 AAAAACTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATT  24950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1168 AAAAACTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATT   1217
+
+pax6_genomic   24951 CCTATCAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACC  25000
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1218 CCTATCAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACC   1267
+
+pax6_genomic   25001 CACCACACCGGGTAATTTGAAATACTAATACTACGAATCAATGTCTTTAA  25050
+                     |||||||||||                                       
+M77844.1        1268 CACCACACCGG---------------------------------------   1278
+
+pax6_genomic   25051 ACCTGTTTGCTCCGGGCTCTGACTCTCACTCTGACTACTGTCATTTCTCT  25100
+                                                                       
+M77844.1        1279 --------------------------------------------------   1278
+
+pax6_genomic   25101 TGCCCTCAGTTTCCTCCTTCACATCTGGCTCCATGTTGGGCCGAACAGAC  25150
+                              |||||||||||||||||||||||||||||||||.|||||||
+M77844.1        1279 ---------TTTCCTCCTTCACATCTGGCTCCATGTTGGGCCTAACAGAC   1319
+
+pax6_genomic   25151 ACAGCCCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCAC  25200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1320 ACAGCCCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCAC   1369
+
+pax6_genomic   25201 CATGGCAAATAACCTGCCTATGCAAGTAAGTGCGGCTGGTGGTGGCCTGC  25250
+                     |||||||||||||||||||||||||                         
+M77844.1        1370 CATGGCAAATAACCTGCCTATGCAA-------------------------   1394
+
+pax6_genomic   25251 ATAACCCAGGCCCCAGAGAAGTGAGGAGTGGCTCAGGGCCTGCGGACCTC  25300
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25301 ATTGGCTGTGTCTGCACCCTTGAGAGCTTTTCGCACTACAGTGATTGGCT  25350
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25351 TGACCAGTCAAGTCGGAGACAGTCAATCCCATCACTTTTAAGTGATTGAC  25400
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25401 TCATTAATTCATGCCCTAAAAAAATGAGTAATAAAAATCTGTCCAGTTTT  25450
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25451 GTCAGGTTGATCTGCCTTTTATTATACTGTTACCTTGATAATGTTGGGTG  25500
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25501 GTGGTGGGGCATGTTTTGGGTACCAGGGAGCCTTGCACCAGAAAGTGGAA  25550
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25551 ATAATGCTGGCACATTATCAGATAGCAGATTAGTAGTTTAAAATTTGGGT  25600
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25601 TTATATTAATGTGTTTGTATGCTAAATATAGAATCTGTGCACGCATTTGG  25650
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25651 GGCATTACTTTGGGTATATGTGATAAACTAGTGAGAAAGAAAAAAGGATC  25700
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25701 AGAAATGGGATTCATATTTACATGGTGAGATATACATAATATAATGAGAA  25750
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25751 TGCTAGTTTTCTGTCTGTATCTACAATAAGAAAAGGCATAGCAGGTATTT  25800
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25801 GCTGGAAATTTAGTGTGTCTTTGCTGTGAATGGTGTGACGAGTTTGTGGC  25850
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25851 CCTCCTAGCTGCCTGGGAAGCTTGATGCTATTCACTTGGTATGACAGCCT  25900
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25901 GCCTCTCCTCTTAGTTCTGTCCCAAATATCTATTAGCCCCTACATTTAGA  25950
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   25951 GGTCCTGCACTAGGTTCACCCTTTATGATGTAAGTTGGATAAGGCAGATG  26000
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26001 GTTTGTACTAGACCTTTGTTGCTGGATGGATTCTTGATAGGAAAAATGTC  26050
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26051 TGTCTTCTGGTAGGCCTTTCCCAGTGGTTTTCCTAGAACTCCTGTTTGTG  26100
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26101 CAACAATTAGAGATATTAGATGGTACGATATTGGCCAGCATGAGCCTCTG  26150
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26151 CTGGAAACAGTTCTGGGGCTACACTGATTGTTTATTCTCCATTGAACATT  26200
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26201 TTTTGCTGGATTTCAAATCCAAATAACAGCAAAATAAATGTTTCACAGTC  26250
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26251 TTCAGACTAATATAGGAGCAGCTAGATAAGCAACTTCAGAGGAATTATTC  26300
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26301 ACATGTTTATTTTTATTGCATCTGGATATTGTTGGCCATAGTGCAATTGA  26350
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26351 TGTAAATTAAGGGATTAACAGCCCATTAGTTGGTGTTGCTATAACTGCGT  26400
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26401 TGGAATTTTCCAGAAGTCAGGTTGCCTAGAGGAACTCATTGCAGGAATTA  26450
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26451 GAAACAAATGCAAGCTGAAATTCTGGCAGGCCCTCAAGGCCTGTTTGCCT  26500
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26501 CTTTGAACTTGATGTTAGCATTCATCATCTGACTTTAATAAGGCCACAGA  26550
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26551 GTGTCTCGTTCAGTTTCATGTATTATAACAACATCCAGGTTTCTGTGAAG  26600
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26601 ATAGCAAAATGTGTATGTGAGAAAATAATAAGACGAACAAGTAGATGCTG  26650
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26651 CAATTATATTAGGGCTGTTTCCACATACAGAGCGGTATGGGGAATCAATC  26700
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26701 TATTTCAAACACTGACTTTTAAAAATTACATAATTTGTATAATTCAAAAA  26750
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26751 GTACATGCATTCATTAAGCATAAAGAAAATCAAAATGATCAATAACTTTA  26800
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26801 CTCTTCAGAGAAAACTACTCTTTGAATTTTGGAGTGGGTGAGCCCGATTG  26850
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26851 TCTATCCATTTATTCATTCTCTTGACCAAAATCATCATTTTACAAATGGT  26900
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26901 GGGTGTCTTCCTCTGGACCTTCTCTGATATGCTTCCCTCTCTGAGCATAT  26950
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   26951 GGATTTTGGAAATTAAACATTTCTCCAGTTTGCAGAGAAGAGAAATGATA  27000
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27001 GTATACTGTACTATCATCTGACCTGCTTGTTCCCGACACACTTCTTTTAA  27050
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27051 TTCATCCCAAGTTTGCTGCCATGGCATAGTACCATGAGAGCTCATGAGGC  27100
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27101 GTTTTGTTAGGAGAAAGGTTTACCTCCTCAGTGCTGCCATTCCGAACAGT  27150
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27151 TCGAGGGTAGCAACAGTTTTCTAGTTATAAGTCAGTCTGGGCTTTTGGGT  27200
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27201 CTGTTAGGAAGTCATGGTTAATTCTCAGGATGGAGGTCGTTATATTTACT  27250
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27251 AACACTTCTGATCACTTTAACTTGGGGTCATTACAGATCTGCTTCTTCAA  27300
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27301 AGAATCTTTAATCCCATCAGTGAAAGGTTCCCAAGGTCCCTGAACCATAC  27350
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27351 TTTACTGAGAGCTCCTCCCACTGCTCTCTGTCCCAAAGCTTGAGATATGG  27400
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27401 GCTCTGGGGGTCATAGGGTTCCCAAATAAATCCAGATTTGCAGGGAGAGG  27450
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27451 GGATGTGTTTTGATGAAGGTCCTCATGCTATAGGTTCTTCAAAGATGCTA  27500
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27501 GCAGAGGTTAGAGACAAAAATCCTATTAATTTATGGATAGTGGCAACCAT  27550
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27551 CTAGCTGGACAGTTGTCAGAACCTAAAGTGCTTTAGAGGCTTGATACATA  27600
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27601 GGCAGCTTTCTTCTAGCTGTGGCCAGTGGAAGGACTAGCTCGAGGCCCAA  27650
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27651 TCTTAGATTTATCATATGGAATTCCAGTACTTCACGTGAAGGCATCTTTA  27700
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27701 ATGATCAGACTTGTTGGCAGAGTTCCTCGGGAGGAGGGAGCCTGGGGCTG  27750
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27751 TGGCTGTGTGATGTGTTCCTCAGTAACCACAGGTTTGCCTCTCTCCTCAC  27800
+                                                                       
+M77844.1        1395 --------------------------------------------------   1394
+
+pax6_genomic   27801 AGCCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCACC  27850
+                       ||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1395 --CCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCACC   1442
+
+pax6_genomic   27851 AGCCCTTCGGTGAATGGGCGGAGTTATGATACCTACACCCCCCCACATAT  27900
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1443 AGCCCTTCGGTGAATGGGCGGAGTTATGATACCTACACCCCCCCACATAT   1492
+
+pax6_genomic   27901 GCAGACACACATGAACAGTCAGCCAATGGGCACCTCGGGCACCACTTCAA  27950
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1493 GCAGACACACATGAACAGTCAGCCAATGGGCACCTCGGGCACCACTTCAA   1542
+
+pax6_genomic   27951 CAGGTGAGCCACTGCTTTCTGCAGGCTGCACAGAGGCGATCTCTCTTCAC  28000
+                     ||||                                              
+M77844.1        1543 CAGG----------------------------------------------   1546
+
+pax6_genomic   28001 TAGAAGTTTACCCAAACAGAATCTCCTGGTCTTATGGGAGGGCGTGTTTA  28050
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28051 ACTCCTTGCTTTCCTTGTCCCTGGGGGATGGGGATTGAAAAGGGAAATTC  28100
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28101 AGTTAAGCTAATTAGTAACTTTACACCATATAGACAAAAACTAAAATTGT  28150
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28151 TTTTCCTGAATTTGGTCACAAAAGTTGTGTATGAAGACAAGGCCTGAGAC  28200
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28201 TGCAAGTTTTCTGAGGACAGATTATTAGACGAAGCTCAGTAGGGGGCCCA  28250
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28251 CTGAGCTGTAGGTGCGTGCTTGTTGAAATGCTTCTTGCCCTCATAGCTCC  28300
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28301 TCTAGACCTTTTGCTGGAAATAAAAAGTGACACATTGGTTTTCCAGAGAC  28350
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28351 AGCTTTATTGTAAAAGTTCCAAACATGCAAACAAACAGAGGATTTTTTTT  28400
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28401 TTCTTTTCCTTTGGATTGGGGTGGGGGGTACTTGGGATCCAATAGGTATA  28450
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28451 TATACATATATTGTCTAGTTTCTGAAGGTGCTACTTTTATTTGTAACAAT  28500
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28501 TGAAGTGATTTTAATACAGTAAAAAATGTTAGAAAGTATTAGTTTTTTTT  28550
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28551 TTTTTTTTTTTTTTTGTAAACCTATAAATTTGTATTCCATGTCTGTTTCT  28600
+                                                                       
+M77844.1        1547 --------------------------------------------------   1546
+
+pax6_genomic   28601 CAAAGGGAATATCTACATGGCTATTTCTTTCATCCACTTCTAGGACTCAT  28650
+                                                                 ||||||
+M77844.1        1547 --------------------------------------------ACTCAT   1552
+
+pax6_genomic   28651 TTCCCCTGGTGTGTCAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATA  28700
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1553 TTCCCCTGGTGTGTCAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATA   1602
+
+pax6_genomic   28701 TGTCTCAATACTGGCCAAGATTACAGTAAAAAAAAAAAAAAAAAAAAAAA  28750
+                     |||||||||||||||||||||||||||||||||||||||||         
+M77844.1        1603 TGTCTCAATACTGGCCAAGATTACAGTAAAAAAAAAAAAAA---------   1643
+
+pax6_genomic   28751 GGAAAGGAAATATTGTGTTAATTCAGTCAGTGACTATGGGGACACAACAG  28800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   28801 TTGAGCTTTCAGGAAAGAAAGAAAAATGGCTGTTAGAGCCGCTTCAGTTC  28850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   28851 TACAATTGTGTCCTGTATTGTACCACTGGGGAAGGAATGGACTTGAAACA  28900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   28901 AGGACCTTTGTATACAGAAGGCACGATATCAGTTGGAACAAATCTTCATT  28950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   28951 TTGGTATCCAAACTTTTATTCATTTTGGTGTATTATTTGTAAATGGGCAT  29000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29001 TTGTATGTTATAATGAAAAAAAGAACAATGTAGACTGGATGGATGTTTGA  29050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29051 TCTGTGTTGGTCATGAAGTTGTTTTTTTTTTTTTTAAAAAGAAAACCATG  29100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29101 ATCAACAAGCTTTGCCACGAATTTAAGAGTTTTATCAAGATATATCGAAT  29150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29151 ACTTCTACCCATCTGTTCATAGTTTATGGACTGATGTTCCAAGTTTGTAT  29200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29201 CATTCCTTTGCATATAATTAAACCTGGAACAACATGCACTAGATTTATGT  29250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29251 CAGAAATATCTGTTGGTTTTCCAAAGGTTGTTAACAGATGAAGTTTATGT  29300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29301 GCAAAAAAGGGTAAGATATAAATTCAAGGAAGAAAAAAAGTTGATAGCTA  29350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29351 AAAGGTAGAGTGTGTCTTCGATATAATCCAATTTGTTTTATGTCAAAATG  29400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29401 TAAGTATTTGTCTTCCCTAGAAATCCTCAGAATGATTTCTATAATAAAGT  29450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29451 TAATTTCATTTATATTTGACAAGAATATAGATGTTTTATACACATTTTCA  29500
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29501 TGCAATCATACGTTTCTTTTTTGGCCAGCAAAAGTTAATTGTTCTTAGAT  29550
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29551 ATAGTTGTATTACTGTTCACGGTCCAATCATTTTGTGCATCTAGAGTTCA  29600
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29601 TTCCTAATCAATTAAAAGTGCTTGCAAGAGTTTTAAACTTAAGTGTTTTG  29650
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29651 AAGTTGTTCACAACTACATATCAAAATTAACCATTGTTGATTGTAAAAAA  29700
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29701 CCATGCCAAAGCCTTTGTATTTCCTTTATTATACAGTTTTCTTTTTAACC  29750
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29751 TTATAGTGTGGTGTTACAAATTTTATTTCCATGTTAGATCAACATTCTAA  29800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29801 ACCAATGGTTACTTTCACACACACTCTGTTTTACATCCTGATGATCCTTA  29850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29851 AAAAATAATCCTTATAGATACCATAAATCAAAAACGTGTTAGAAAAAAAT  29900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29901 TCCACTTACAGCAGGGTGTAGATCTGTGCCCATTTATACCCACAACATAT  29950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   29951 ATACAAAATGGTAACATTTCCCAGTTAGCCATTTAATTCTAAAGCTCAAA  30000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30001 GTCTAGAAATAATTTAAAAATGCAACAAGCGATTAGCTAGGAATTGTTTT  30050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30051 TTGAATTAGGACTGGCATTTTCAATCTGGGCAGATTTCCATTGTCAGCCT  30100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30101 ATTTCAACAATGATTTCACTGAAGTATATTCAAAAGTAGATTTCTTAAAG  30150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30151 GAGACTTTCTGAAAGCTGTTGCCTTTTTCAAATAGGCCCTCTCCCTTTTC  30200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30201 TGTCTCCCTCCCCTTTGCACAAGAGGCATCATTTCCCATTGAACCACTAC  30250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30251 AGCTGTTCCCATTTGAATCTTGCTTTCTGTGCGGTTGTGGATGGTTGGAG  30300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30301 GGTGGAGGGGGGATGTTGCATGTCAAGGAATAATGAGCACAGACACATCA  30350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30351 ACAGACAACAACAAAGCAGACTGTGACTGGCCGGTGGGAATTAAAGGCCT  30400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30401 TCAGTCATTGGCAGCTTAAGCCAAACATTCCCAAATCTATGAAGCAGGGC  30450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30451 CCATTGTTGGTCAGTTGTTATTTGCAATGAAGCACAGTTCTGATCATGTT  30500
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30501 TAAAGTGGAGGCACGCAGGGCAGGAGTGCTTGAGCCCAAGCAAAGGATGG  30550
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30551 AAAAAAATAAGCCTTTGTTGGGTAAAAAAGGACTGTCTGAGACTTTCATT  30600
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30601 TGTTCTGTGCAACATATAAGTCAATACAGATAAGTCTTCCTCTGCAAACT  30650
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30651 TCACTAAAAAGCCTGGGGGTTCTGGCAGTCTAGATTAAAATGCTTGCACA  30700
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30701 TGCAGAAACCTCTGGGGACAAAGACACACTTCCACTGAATTATACTCTGC  30750
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30751 TTTAAAAAAATCCCCAAAAGCAAATGATCAGAAATGTAGAAATTAATGGA  30800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30801 AGGATTTAAACATGACCTTCTCGTTCAATATCTACTGTTTTTTAGTTAAG  30850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30851 GAATTACTTGTGAACAGATAATTGAGATTCATTGCTCCGGCATGAAATAT  30900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30901 ACTAATAATTTTATTCCACCAGAGTTGCTGCACATTTGGAGACACCTTCC  30950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   30951 TAAGTTGCAGTTTTTGTATGTGTGCATGTAGTTTTGTTCAGTGTCAGCCT  31000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31001 GCACTGCACAGCAGCACATTTCTGCAGGGGAGTGAGCACACATACGCACT  31050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31051 GTTGGTACAATTGCCGGTGCAGACATTTCTACCTCCTGACATTTTGCAGC  31100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31101 CTACATTCCCTGAGGGCTGTGTGCTGAGGGAACTGTCAGAGAAGGGCTAT  31150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31151 GTGGGAGTGCATGCCACAGCTGCTGGCTGGCTTACTTCTTCCTTCTCGCT  31200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31201 GGCTGTAATTTCCACCACGGTCAGGCAGCCAGTTCCGGCCCACGGTTCTG  31250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31251 TTGTGTAGACAGCAGAGACTTTGGAGACCCGGATGTCGCACGCCAGGTGC  31300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31301 AAGAGGTGGGAATGGGAGAAAAGGAGTGACGTGGGAGCGGAGGGTCTGTA  31350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31351 TGTGTGCACTTGGGCACGTATATGTGTGCTCTGAAGGTCAGGATTGCCAG  31400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31401 GGCAAAGTAGCACAGTCTGGTATAGTCTGAAGAAGCGGCTGCTCAGCTGC  31450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31451 AGAAGCCCTCTGGTCCGGCAGGATGGGAACGGCTGCCTTGCCTTCTGCCC  31500
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31501 ACACCCTAGGGACATGAGCTGTCCTTCCAAACAGAGCTCCAGGCACTCTC  31550
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31551 TTGGGGACAGCATGGCAGGCTCTGTGTGGTAGCAGTGCCTGGGAGTTGGC  31600
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31601 CTTTTACTCATTGTTGAAATAATTTTTGTTTATTATTTATTTAACGATAC  31650
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31651 ATATATTTATATATTTATCAATGGGGTATCTGCAGGGATGTTTTGACACC  31700
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31701 ATCTTCCAGGATGGAGATTATTTGTGAAGACTTCAGTAGAATCCCAGGAC  31750
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31751 TAAACGTCTAAATTTTTTCTCCAAACTTGACTGACTTGGGAAAACCAGGT  31800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31801 GAATAGAATAAGAGCTGAATGTTTTAAGTAATAAACGTTCAAACTGCTCT  31850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31851 AAGTAAAAAAATGCATTTTACTGCAATGAATTTCTAGAATATTTTTCCCC  31900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31901 CAAAGCTATGCCTCCTAACCCTTAAATGGTGAACAACTGGTTTCTTGCTA  31950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   31951 CAGCTCACTGCCATTTCTTCTTACTATCATCACTAGGTTTCCTAAGATTC  32000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32001 ACTCATACAGTATTATTTGAAGATTCAGCTTTGTTCTGTGAATGTCATCT  32050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32051 TAGGATTGTGTCTATATTCTTTTGCTTATTTCTTTTTACTCTGGGCCTCT  32100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32101 CATACTAGTAAGATTTTAAAAAGCCTTTTCTTCTCTGTATGTTTGGCTCA  32150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32151 CCAAGGCGAAATATATATTCTTCTCTTTTTCATTTCTCAAGAATAAACCT  32200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32201 CATCTGCTTTTTTGTTTTTCTGTGTTTTGGCTTGGTACTGAATGACTCAA  32250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32251 CTGCTCGGTTTTAAAGTTCAAAGTGTAAGTACTTAGGGTTAGTACTGCTT  32300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32301 ATTTCAATAATGTTGACGGTGACTATCTTTGGAAAGCAGTAACATGCTGT  32350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32351 CTTAGAAATGACATTAATAATGGGCTTAAACAAATGAATAGGGGGGTCCC  32400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32401 CCCACTCTCCTTTTGTATGCCTATGTGTGTCTGATTTGTTAAAAGATGGA  32450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32451 CAGGGAATTGATTGCAGAGTGTCGCTTCCTTCTAAAGTAGTTTTATTTTG  32500
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32501 TCTACTGTTAGTATTTAAAGATCCTGGAGGTGGACATAAGGAATAAATGG  32550
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32551 AAGAGAAAAGTAGATATTGTATGGTGGCTACTAAAAGGAAATTCAAAAAG  32600
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32601 TCTTAGAACCCGAGCACCTGAGCAAACTGCAGTAGTCAAAATATTTATCT  32650
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32651 CATGTTAAAGAAAGGCAAATCTAGTGTAAGAAATGAGTACCATATAGGGT  32700
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32701 TTTGAAGTTCATATACTAGAAACACTTAAAAGATATCATTTCAGATATTA  32750
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32751 CGTTTGGCATTGTTCTTAAGTATTTATATCTTTGAGTCAAGCTGATAATT  32800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32801 AAAAAAAATCTGTTAATGGAGTGTATATTTCATAATGTATCAAAATGGTG  32850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32851 TCTATACCTAAGGTAGCATTATTGAAGAGAGATATGTTTATGTAGTAAGT  32900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32901 TATTAACATAATGAGTAACAAATAATGTTTCCAGAAGAAAGGAAAACACA  32950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   32951 TTTTCAGAGTGCGTTTTTATCAGAGGAAGACAAAAATACACACCCCTCTC  33000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33001 CAGTAGCTTATTTTTACAAAGCCGGCCCAGTGAATTAGAAAAACAAAGCA  33050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33051 CTTGGATATGATTTTTGGAAAGCCCAGGTACACTTATTATTCAAAATGCA  33100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33101 CTTTTACTGAGTTTGAAAAGTTTCTTTTATATTTAAAATAAGGGTTCAAA  33150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33151 TATGCATATTCAATTTTTATAGTAGTTATCTATTTGCAAAGCATATATTA  33200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33201 ACTAGTAATTGGCTGTTAATTTTATAGACATGGTAGCCAGGGAAGTATAT  33250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33251 CAATGACCTATTAAGTATTTTGACAAGCAATTTACATATCTGATGACCTC  33300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33301 GTATCTCTTTTTCAGCAAGTCAAATGCTATGTAATTGTTCCATTGTGTGT  33350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33351 TGTATAAAATGAATCAACACGGTAAGAAAAAGGTTAGAGTTATTAAAATA  33400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33401 ATAAACTGACTAAAATACTCATTTGAATTTATTCAGAATGTTCATAATGC  33450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33451 TTTCAAAGGACATAGCAGAGCTTTTGTGGAGTATCCGCACAACATTATTT  33500
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33501 ATTATCTATGGACTAAATCAATTTTTTGAAGTTGCTTTAAAATTTAAAAG  33550
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33551 CACCTTTGCTTAATATAAAGCCCTTTAATTTTAACTGACAGATCAATTCT  33600
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33601 GAAACTTTATTTTGAAAAGAAAATGGGGAAGAATCTGTGTCTTTAGAATT  33650
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33651 AAAAGAAATGAAAAAAATAAACCCGACATTCTAAAAAAATAGAATAAGAA  33700
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33701 ACCTGATTTTTAGTACTAATGAAATAGCGGGTGACAAAATAGTTGTCTTT  33750
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33751 TTGATTTTGATCACAAAAAATAAACTGGTAGTGACAGGATATGATGGAGA  33800
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33801 GATTTGACATCCTGGCAAATCACTGTCATTGATTCAATTATTCTAATTCT  33850
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33851 GAATAAAAGCTGTATACAGTATGTGTTTATGCTACAGTGGGTTTTTTTAA  33900
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33901 GTGACTGACATTCATCATATTGGTTAGACAGTTTTAAAAACCTAGTCTTT  33950
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   33951 GTTTTCTACAATGTTGTCAAGAACAAATAAAGTATAATTTGTGGTATATT  34000
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34001 AAAAGCAAGCTGCTTAAAAATGCTAGTTATAACTGCTTCAAAATATTAAA  34050
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34051 TACATTTGAAAATGTATTTTGGAAATTCAGTTTCTCCCAATGGATGTTAA  34100
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34101 ACACCTTTTAAAAAATCAAGACTCTTAAATATGCAAGTTACTTTTCAACT  34150
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34151 TTCATTTTTTATCCATTATCTGTCAAAAGCTTTGAGAATATAGAATTGTA  34200
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34201 ATTAAAACACCTAATGTTTCATATGAAAACTGGTTCGATATGCTATACCC  34250
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34251 CCCAAAGACATGTTTACATGGTTAGAAATTTACACACTCAACCAATGTTC  34300
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34301 ATTATTAACAAAATATTTATGTGATGCAATGGAAATCTGAGTTAGTTTCA  34350
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34351 TTTTTTCACTTTGTCTCAGACCTATGTTCTGTAAAATCTCTCAACAAGCT  34400
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34401 TCAGTATATGTTTTTCTCCTGGTATCCTAGCATTAATGTAGCTGTCAGTT  34450
+                                                                       
+M77844.1        1644 --------------------------------------------------   1643
+
+pax6_genomic   34451 TGAATTTCAATCCTGAATGATGCCTGTTGACATA  34484
+                                                       
+M77844.1        1644 ----------------------------------   1643
+
+
+#---------------------------------------
+#---------------------------------------

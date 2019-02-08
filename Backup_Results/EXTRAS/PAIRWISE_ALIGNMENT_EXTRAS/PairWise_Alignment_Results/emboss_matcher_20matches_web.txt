@@ -1,0 +1,645 @@
+########################################
+# Program: matcher
+# Rundate: Wed 11 Oct 2017 00:25:18
+# Commandline: matcher
+#    -auto
+#    -stdout
+#    -asequence emboss_matcher-I20171011-002514-0240-68582707-p1m.aupfile
+#    -bsequence emboss_matcher-I20171011-002514-0240-68582707-p1m.bupfile
+#    -datafile EDNAFULL
+#    -gapopen 16
+#    -gapextend 4
+#    -alternatives 20
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 270
+# Identity:     248/270 (91.9%)
+# Similarity:   248/270 (91.9%)
+# Gaps:           5/270 ( 1.9%)
+# Score: 1128
+# 
+#
+#=======================================
+
+pax6_genomic   16871 CACTTCCCCTAT---GCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG  16917
+                     ||.|||||..||   |||||||||||||||||||||||||||||||||||
+M77844.1         485 CATTTCCCGAATTCTGCAGGTGTCCAACGGATGTGTGAGTAAAATTCTGG    534
+
+pax6_genomic   16918 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT  16967
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         535 GCAGGTATTACGAGACTGGCTCCATCAGACCCAGGGCAATCGGTGGTAGT    584
+
+pax6_genomic   16968 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA  17017
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         585 AAACCGAGAGTAGCGACTCCAGAAGTTGTAAGCAAAATAGCCCAGTATAA    634
+
+pax6_genomic   17018 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT  17067
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         635 GCGGGAGTGCCCGTCCATCTTTGCTTGGGAAATCCGAGACAGATTACTGT    684
+
+pax6_genomic   17068 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTAAGTTCATTGAGA  17117
+                     |||||||||||||||||||||||||||||||||||||....|||.|.|..
+M77844.1         685 CCGAGGGGGTCTGTACCAACGATAACATACCAAGCGTGTCATCAATAAAC    734
+
+pax6_genomic   17118 ACA--TCTGCCCTCCCTGCC  17135
+                     |.|  |||.|.|..||||.|
+M77844.1         735 AGAGTTCTTCGCAACCTGGC    754
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 221
+# Identity:     218/221 (98.6%)
+# Similarity:   218/221 (98.6%)
+# Gaps:           0/221 ( 0.0%)
+# Score: 1078
+# 
+#
+#=======================================
+
+pax6_genomic    7618 TTTTATTGTCAATCTCTGTCTCCTTCCCAGGAATCTGAGAATTGCTCTCA   7667
+                     |||||||||||||||||||||||||||||||||||||||.||||||||.|
+M77844.1          17 TTTTATTGTCAATCTCTGTCTCCTTCCCAGGAATCTGAGGATTGCTCTTA     66
+
+pax6_genomic    7668 CACACCAACCCAGCAACATCCGTGGAGAAAACTCTCACCAGCAACTCCTT   7717
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1          67 CACACCAACCCAGCAACATCCGTGGAGAAAACTCTCACCAGCAACTCCTT    116
+
+pax6_genomic    7718 TAAAACACCGTCATTTCAAACCATTGTGGTCTTCAAGCAACAACAGCAGC   7767
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         117 TAAAACACCGTCATTTCAAACCATTGTGGTCTTCAAGCAACAACAGCAGC    166
+
+pax6_genomic    7768 ACAAAAAACCCCAACCAAACAAAACTCTTGACAGAAGCTGTGACAACCAG   7817
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         167 ACAAAAAACCCCAACCAAACAAAACTCTTGACAGAAGCTGTGACAACCAG    216
+
+pax6_genomic    7818 AAAGGATGCCTCATAAAGGTG   7838
+                     |||||||||||||||||||.|
+M77844.1         217 AAAGGATGCCTCATAAAGGGG    237
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 370
+# Identity:     270/370 (73.0%)
+# Similarity:   270/370 (73.0%)
+# Gaps:          98/370 (26.5%)
+# Score: 938
+# 
+#
+#=======================================
+
+pax6_genomic   24856 TCCAGGTATGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAGAAAAA  24905
+                     |.||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1123 TACAGGTATGGTTTTCTAATCGAAGGGCCAAATGGAGAAGAGAAGAAAAA   1172
+
+pax6_genomic   24906 CTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATTCCTAT  24955
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1173 CTGAGGAATCAGAGAAGACAGGCCAGCAACACACCTAGTCATATTCCTAT   1222
+
+pax6_genomic   24956 CAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACCCACCA  25005
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1223 CAGCAGTAGTTTCAGCACCAGTGTCTACCAACCAATTCCACAACCCACCA   1272
+
+pax6_genomic   25006 CACCGGGTAATTTGAAATACTAATACTACGAATCAATGTCTTTAAACCTG  25055
+                     ||||||                                            
+M77844.1        1273 CACCGG--------------------------------------------   1278
+
+pax6_genomic   25056 TTTGCTCCGGGCTCTGACTCTCACTCTGACTACTGTCATTTCTCTTGCCC  25105
+                                                                       
+M77844.1        1279 --------------------------------------------------   1278
+
+pax6_genomic   25106 TCAGTTTCCTCCTTCACATCTGGCTCCATGTTGGGCCGAACAGACACAGC  25155
+                         |||||||||||||||||||||||||||||||||.||||||||||||
+M77844.1        1279 ----TTTCCTCCTTCACATCTGGCTCCATGTTGGGCCTAACAGACACAGC   1324
+
+pax6_genomic   25156 CCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCACCATGG  25205
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1325 CCTCACAAACACCTACAGCGCTCTGCCGCCTATGCCCAGCTTCACCATGG   1374
+
+pax6_genomic   25206 CAAATAACCTGCCTATGCAA  25225
+                     ||||||||||||||||||||
+M77844.1        1375 CAAATAACCTGCCTATGCAA   1394
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 168
+# Identity:     167/168 (99.4%)
+# Similarity:   167/168 (99.4%)
+# Gaps:           0/168 ( 0.0%)
+# Score: 831
+# 
+#
+#=======================================
+
+pax6_genomic   17807 GTGTCATCAATAAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAGCAACA  17856
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         720 GTGTCATCAATAAACAGAGTTCTTCGCAACCTGGCTAGCGAAAAGCAACA    769
+
+pax6_genomic   17857 GATGGGCGCAGACGGCATGTATGATAAACTAAGGATGTTGAACGGGCAGA  17906
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         770 GATGGGCGCAGACGGCATGTATGATAAACTAAGGATGTTGAACGGGCAGA    819
+
+pax6_genomic   17907 CCGGAAGCTGGGGCACCCGCCCTGGTTGGTATCCGGGGACTTCGGTGCCA  17956
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         820 CCGGAAGCTGGGGCACCCGCCCTGGTTGGTATCCGGGGACTTCGGTGCCA    869
+
+pax6_genomic   17957 GGGCAACCTACGCAAGGT  17974
+                     ||||||||||||||||.|
+M77844.1         870 GGGCAACCTACGCAAGAT    887
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 173
+# Identity:     168/173 (97.1%)
+# Similarity:   168/173 (97.1%)
+# Gaps:           1/173 ( 0.6%)
+# Score: 808
+# 
+#
+#=======================================
+
+pax6_genomic   23871 CCAGATGGCTGCCAGCAACAGGAAGGAGGGGGAGAGAATACCAACTCCAT  23920
+                     |.||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         882 CAAGATGGCTGCCAGCAACAGGAAGGAGGGGGAGAGAATACCAACTCCAT    931
+
+pax6_genomic   23921 CAGTTCCAACGGAGAAGATTCAGATGAGGCTCAAATGCGACTTCAGCTGA  23970
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         932 CAGTTCCAACGGAGAAGATTCAGATGAGGCTCAAATGCGACTTCAGCTGA    981
+
+pax6_genomic   23971 AGCGGAAGCTGCAAAGAAATAGAACATCCTTTACCCAAGAGCAAATTGAG  24020
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         982 AGCGGAAGCTGCAAAGAAATAGAACATCCTTTACCCAAGAGCAAATTGAG   1031
+
+pax6_genomic   24021 GCCCTGGAGAAAG-GTGATAGAG  24042
+                     ||||||||||||| ||...||||
+M77844.1        1032 GCCCTGGAGAAAGAGTTTGAGAG   1054
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 155
+# Identity:     154/155 (99.4%)
+# Similarity:   154/155 (99.4%)
+# Gaps:           0/155 ( 0.0%)
+# Score: 766
+# 
+#
+#=======================================
+
+pax6_genomic   27800 CAGCCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCAC  27849
+                     ||.|||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1392 CAACCCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCAC   1441
+
+pax6_genomic   27850 CAGCCCTTCGGTGAATGGGCGGAGTTATGATACCTACACCCCCCCACATA  27899
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1442 CAGCCCTTCGGTGAATGGGCGGAGTTATGATACCTACACCCCCCCACATA   1491
+
+pax6_genomic   27900 TGCAGACACACATGAACAGTCAGCCAATGGGCACCTCGGGCACCACTTCA  27949
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1492 TGCAGACACACATGAACAGTCAGCCAATGGGCACCTCGGGCACCACTTCA   1541
+
+pax6_genomic   27950 ACAGG  27954
+                     |||||
+M77844.1        1542 ACAGG   1546
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 134
+# Identity:     134/134 (100.0%)
+# Similarity:   134/134 (100.0%)
+# Gaps:           0/134 ( 0.0%)
+# Score: 670
+# 
+#
+#=======================================
+
+pax6_genomic   15829 GTCACAGCGGAGTGAATCAGCTCGGTGGTGTCTTTGTCAACGGGCGGCCA  15878
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         373 GTCACAGCGGAGTGAATCAGCTCGGTGGTGTCTTTGTCAACGGGCGGCCA    422
+
+pax6_genomic   15879 CTGCCGGACTCCACCCGGCAGAAGATTGTAGAGCTAGCTCACAGCGGGGC  15928
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         423 CTGCCGGACTCCACCCGGCAGAAGATTGTAGAGCTAGCTCACAGCGGGGC    472
+
+pax6_genomic   15929 CCGGCCGTGCGACATTTCCCGAATTCTGCAGGTG  15962
+                     ||||||||||||||||||||||||||||||||||
+M77844.1         473 CCGGCCGTGCGACATTTCCCGAATTCTGCAGGTG    506
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 127
+# Identity:     116/127 (91.3%)
+# Similarity:   116/127 (91.3%)
+# Gaps:           3/127 ( 2.4%)
+# Score: 512
+# 
+#
+#=======================================
+
+pax6_genomic   28617 ATGGCTATTTCTTTCATCCACTTCTA--GGACTCATTTCCCCTGGTGTGT  28664
+                     ||||..|..||...|| |||||||.|  ||||||||||||||||||||||
+M77844.1        1518 ATGGGCACCTCGGGCA-CCACTTCAACAGGACTCATTTCCCCTGGTGTGT   1566
+
+pax6_genomic   28665 CAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATATGTCTCAATACTGG  28714
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1567 CAGTTCCAGTTCAAGTTCCCGGAAGTGAACCTGATATGTCTCAATACTGG   1616
+
+pax6_genomic   28715 CCAAGATTACAGTAAAAAAAAAAAAAA  28741
+                     |||||||||||||||||||||||||||
+M77844.1        1617 CCAAGATTACAGTAAAAAAAAAAAAAA   1643
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 88
+# Identity:      88/88 (100.0%)
+# Similarity:    88/88 (100.0%)
+# Gaps:           0/88 ( 0.0%)
+# Score: 440
+# 
+#
+#=======================================
+
+pax6_genomic   24547 AGAGTTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGACTAG  24596
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1        1043 AGAGTTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGACTAG   1092
+
+pax6_genomic   24597 CAGCCAAAATAGATCTACCTGAAGCAAGAATACAGGTA  24634
+                     ||||||||||||||||||||||||||||||||||||||
+M77844.1        1093 CAGCCAAAATAGATCTACCTGAAGCAAGAATACAGGTA   1130
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 79
+# Identity:      79/79 (100.0%)
+# Similarity:    79/79 (100.0%)
+# Gaps:           0/79 ( 0.0%)
+# Score: 395
+# 
+#
+#=======================================
+
+pax6_genomic   11736 AGGGGGAAGACTTTAACTAGGGGCGCGCAGATGTGTGAGGCCTTTTATTG  11785
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         233 AGGGGGAAGACTTTAACTAGGGGCGCGCAGATGTGTGAGGCCTTTTATTG    282
+
+pax6_genomic   11786 TGAGAGTGGACAGACATCCGAGATTTCAG  11814
+                     |||||||||||||||||||||||||||||
+M77844.1         283 TGAGAGTGGACAGACATCCGAGATTTCAG    311
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 72
+# Identity:      69/72 (95.8%)
+# Similarity:    69/72 (95.8%)
+# Gaps:           0/72 ( 0.0%)
+# Score: 333
+# 
+#
+#=======================================
+
+pax6_genomic   12198 CAGAGCCCCATATTCGAGCCCCGTGGAATCCCGCGGCCCCCAGCCAGAGC  12247
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+M77844.1         309 CAGAGCCCCATATTCGAGCCCCGTGGAATCCCGCGGCCCCCAGCCAGAGC    358
+
+pax6_genomic   12248 CAGCATGCAGAACAGTAAGTGC  12269
+                     ||||||||||||||||.|..||
+M77844.1         359 CAGCATGCAGAACAGTCACAGC    380
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 55
+# Identity:      38/55 (69.1%)
+# Similarity:    38/55 (69.1%)
+# Gaps:           4/55 ( 7.3%)
+# Score: 98
+# 
+#
+#=======================================
+
+pax6_genomic   16074 CCCCAGTCCCCAGTCCCCCCACC-CACTCCCCTGC---CTTCCCACTTTC  16119
+                     |||||||||||||.|...||.|| ||..|.|||||   ||.|||||...|
+M77844.1        1396 CCCCAGTCCCCAGCCAGACCTCCTCATACTCCTGCATGCTGCCCACCAGC   1445
+
+pax6_genomic   16120 CCCTC  16124
+                     ||.||
+M77844.1        1446 CCTTC   1450
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 69
+# Identity:      41/69 (59.4%)
+# Similarity:    41/69 (59.4%)
+# Gaps:           0/69 ( 0.0%)
+# Score: 93
+# 
+#
+#=======================================
+
+pax6_genomic    6321 GACACACACACACACACACACACACACACACACACACACAGAGAGAGAGA   6370
+                     ||.||..||||.|.|.||||.|..||.|||||||...||||..||..|..
+M77844.1        1470 GATACCTACACCCCCCCACATATGCAGACACACATGAACAGTCAGCCAAT   1519
+
+pax6_genomic    6371 GAGAATCCCTCCCAGCATT   6389
+                     |.|.|.|.|...||.||.|
+M77844.1        1520 GGGCACCTCGGGCACCACT   1538
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 97
+# Identity:      56/97 (57.7%)
+# Similarity:    56/97 (57.7%)
+# Gaps:           3/97 ( 3.1%)
+# Score: 92
+# 
+#
+#=======================================
+
+pax6_genomic    3114 CCATGACATTTG-CTCCCTCCCCCTCCCCAGCCTCAAATCCCCCAGTAAA   3162
+                     ||.|.||||.|| ||||.|......||..|....||.|.|||.||..||.
+M77844.1        1285 CCTTCACATCTGGCTCCATGTTGGGCCTAACAGACACAGCCCTCACAAAC   1334
+
+pax6_genomic    3163 GCCCCCAGTTCCCGCCTGCCTGTTCCCAGGTCTACAACGGGACAAAT   3209
+                     .||..|||..|.|..|.||||.|.|||||  ||.||.|..|.|||||
+M77844.1        1335 ACCTACAGCGCTCTGCCGCCTATGCCCAG--CTTCACCATGGCAAAT   1379
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 225
+# Identity:     130/225 (57.8%)
+# Similarity:   130/225 (57.8%)
+# Gaps:          37/225 (16.4%)
+# Score: 90
+# 
+#
+#=======================================
+
+pax6_genomic   22059 TTCCACC-CCCACCGCT--GGTTTCCATCCTGCCTCCCCTCCATCTCCTC  22105
+                     ||||||. ||||||.|.  ||||||| ||||   ||.|.||...||||..
+M77844.1        1258 TTCCACAACCCACCACACCGGTTTCC-TCCT---TCACATCTGGCTCCAT   1303
+
+pax6_genomic   22106 TATG----TAGGA-ACCCAGCCCTGGTC--CCCGTCCA---CTCTCCCTG  22145
+                     ..||    ||..| ||.|||||||....  |.|.|.||   ||||.|| |
+M77844.1        1304 GTTGGGCCTAACAGACACAGCCCTCACAAACACCTACAGCGCTCTGCC-G   1352
+
+pax6_genomic   22146 CCTCCCCCCATGCTGGGCCCTGGC-------CCCCCCATCCACCCTCCAT  22188
+                     |||...|||| |||...||.||||       |..||.||.||.||.|||.
+M77844.1        1353 CCTATGCCCA-GCTTCACCATGGCAAATAACCTGCCTATGCAACCCCCAG   1401
+
+pax6_genomic   22189 CCCCCCAGCCAAGCGCCCTAAATAGCACGGAGGC-GCCC----GCTCTTC  22233
+                     .|||| |||||..|..|||.|....|..|.|.|| ||||    ||.||||
+M77844.1        1402 TCCCC-AGCCAGACCTCCTCATACTCCTGCATGCTGCCCACCAGCCCTTC   1450
+
+pax6_genomic   22234 GGACAGTG-----ATTAATGATAGC  22253
+                     ||..|.||     |.|.||||||.|
+M77844.1        1451 GGTGAATGGGCGGAGTTATGATACC   1475
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 85
+# Identity:      50/85 (58.8%)
+# Similarity:    50/85 (58.8%)
+# Gaps:           3/85 ( 3.5%)
+# Score: 86
+# 
+#
+#=======================================
+
+pax6_genomic    4676 CGGTTTTGTACA-CACCTCTGGCAACCGCGCCCGCACCTCAGTCTCGGCC   4724
+                     ||||||..|.|. |||.||||||..|.......||....|||.|.|.|||
+M77844.1        1276 CGGTTTCCTCCTTCACATCTGGCTCCATGTTGGGCCTAACAGACACAGCC   1325
+
+pax6_genomic    4725 CCCACA--CCCCTAGGCCGCTTCGCCCCCAGAGCC   4757
+                     |.||||  |.||||...||||..|||.||...|||
+M77844.1        1326 CTCACAAACACCTACAGCGCTCTGCCGCCTATGCC   1360
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 50
+# Identity:      33/50 (66.0%)
+# Similarity:    33/50 (66.0%)
+# Gaps:           2/50 ( 4.0%)
+# Score: 85
+# 
+#
+#=======================================
+
+pax6_genomic    2585 TGAGGAGCGGGGTCTGGCCGGGAACGAGGGCTGCCAGCCTGGGTGGTGTC   2634
+                     ||..||.||||  |.|.||||.|.|..||||..||..|||||.||||.||
+M77844.1         805 TGTTGAACGGG--CAGACCGGAAGCTGGGGCACCCGCCCTGGTTGGTATC    852
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 30
+# Identity:      24/30 (80.0%)
+# Similarity:    24/30 (80.0%)
+# Gaps:           1/30 ( 3.3%)
+# Score: 84
+# 
+#
+#=======================================
+
+pax6_genomic   11292 CAGCCCTCCCAAACTGCTCCAGC-CTATGC  11320
+                     ||||||||.|||||..||.|||| ||.|||
+M77844.1        1321 CAGCCCTCACAAACACCTACAGCGCTCTGC   1350
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 46
+# Identity:      31/46 (67.4%)
+# Similarity:    31/46 (67.4%)
+# Gaps:           1/46 ( 2.2%)
+# Score: 83
+# 
+#
+#=======================================
+
+pax6_genomic   11618 ACAGTTTGACTGAGCCCTAGATGCATGTGTTTTT-CCTGAGAGTGA  11662
+                     |.|||||||..||.|||...||.||..|||.||| ||.||||..||
+M77844.1        1043 AGAGTTTGAGAGAACCCATTATCCAGATGTGTTTGCCCGAGAAAGA   1088
+
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: pax6_genomic
+# 2: M77844.1
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 58
+# Identity:      39/58 (67.2%)
+# Similarity:    39/58 (67.2%)
+# Gaps:           6/58 (10.3%)
+# Score: 83
+# 
+#
+#=======================================
+
+pax6_genomic    2554 GCTGGACGCCACCCGGCGCCAGA--GCCGGGC---CTGAGGAGCGGGGTC   2598
+                     ||.||||.|||||||||...|||  |..|.||   ||.|. |||||||.|
+M77844.1         425 GCCGGACTCCACCCGGCAGAAGATTGTAGAGCTAGCTCAC-AGCGGGGCC    473
+
+pax6_genomic    2599 TGGCCGGG   2606
+                     .|||||.|
+M77844.1         474 CGGCCGTG    481
+
+
+#---------------------------------------
+#---------------------------------------
