@@ -27,11 +27,18 @@ This course is intended for those wishing to investigate how they might begin to
 
 <br/>
 
+**Note -** Powerpoint presentations for Days 1-3
+
+[**Download ELB19F Presentations**](assets/Presentations-Oeiras_2019.02.04-08.zip){: .btn} <sub><i>File Size: 3,6MB</i></sub>
+
+
+<br/>
+
 ### Day 1
-**1 -** [**Short introduction of what is Bioinformatics**](assets/000-Bioinformatics_Definition.pdf)
+**1 -** [**Short introduction of what is Bioinformatics**](assets/00-Bioinformatics_Definition.pdf)
         
          Discussion about the best approach for the definition of Bioinformatics
-
+         
 **2 -** [**Genome Databases and Tools**](assets/01-Databases_Practical.pdf)
 
          Investigating the gene(s) associated with the disease Aniridia      
@@ -42,6 +49,14 @@ This course is intended for those wishing to investigate how they might begin to
 **3 -** [**Graphical and Textual Pairwise Alignments**](assets/02-Pairwise_Alignment_Practical.pdf)
 
          Global vs. Sensitive Local Paiwise Sequence Comparison
+
+<details>
+        <summary>Click here for Introductory Video of Pairwise Alignments</summary>
+     <video width="320" height="240" controls preload>
+       <source src="assets/videos/DotPlots.mp4" type="video/mp4">
+         <p>Your browser doesn't support HTML5 video. Here is a <a href="https://www.youtube.com/watch?v=pfFfSxZWQKU&t=327s">link to the youtube version</a> instead.</p>
+      </video>
+</details><br/>
 
 **4 -** [**Databases Searching Methods (primarly blast)**](assets/03-Database_Searching_Practical.pdf)
 
@@ -66,7 +81,27 @@ This course is intended for those wishing to investigate how they might begin to
          Use of various software tools and their differences between them
 
 <br/>
+<blockquote>
+        <details>
+                <summary><strong>Optional: </strong>Some Background Materials for the High ThroughPut Sequencing (HTS) Section</summary><br>
 
+  <details><summary>FASTA & FASTQ Sequencing File Formats</summary>
+    <video width="320" height="240" controls preload>
+      <source src="assets/videos/00-FASTQ_PHRED_ASCII-Part_1.mp4" type="video/mp4"> Your browser doesn't support HTML5 video</src>
+    </video>
+  </details><br>
+
+  <details><summary>Read Pair Sequencing - Overview</summary>
+    <video width="320" height="240" controls preload>
+      <source src="assets/videos/01_Paired_Reads.mp4" type="video/mp4"> Your browser doesn't support HTML5 video</src>
+    </video>
+  </details><br>
+  <a href="https://era7bioinformatics.com/en/page.cfm?id=1626&title=paired-end-and-mate-pair-sequencing:-what-is-it-and-how-is-it-done?">Read Pair Sequencing - Generation Techniques</a>
+  
+</details>
+</blockquote>
+<br/>
+      
 ### Day 4
 **8 -** [**Broadly describe the High Throughput Sequencing Workflow**](pages/L08.md)
 
@@ -138,4 +173,4 @@ This course is intended for those wishing to investigate how they might begin to
 ### [Instructors](pages/instructors.md)
 ---
 
-The source for this course webpage is [on github](https://github.com/GTPB/ELB18S).
+The source for this course webpage is [on github](https://github.com/GTPB/ELB19F).
