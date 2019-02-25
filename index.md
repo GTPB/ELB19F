@@ -5,7 +5,7 @@ tagline: Entry Level Bioinformatics (First Course in 2019)
 description: Entry level course with a soft introduction to NGS data analysis
 ---
 
-![](./pages/Images/ELB18S_entry.jpg)
+![](./pages/Images/Calliphora_Vomitoria_Portrait.jpg)
 
 ## Course Description
 This is an **entry level** course aimed that those with a reasonable biological background but **no significant experience with bioinformatics**. The course is broadly based around a series of exercises in which a combination of simple analytical tools and reference to publicly available databases is applied to the investigation of a single human gene. The training manual for the course is comprised of detailed instructions for the tasks undertaken. Included are, questions (with answers) and discussion of and the interpretation of the results achieved.
