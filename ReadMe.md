@@ -10,6 +10,7 @@ The following co-authors contributed to the development of the training material
 
 * [David Philip Judge](https://github.com/dpjudge)
 * [Daniel Sobral](https://github.com/dsobral)
+* [Pedro Fernandes](https://github.com/Pfern)
 
 #### Course Webpage
 This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2019/ELB19F/), for further information about the course.
