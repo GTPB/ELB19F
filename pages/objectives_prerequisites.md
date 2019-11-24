@@ -2,6 +2,13 @@
 layout: page
 title: Learning Objectives and Pre-requisites
 description: Learning Objectives and Course Pre-requisites
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/ELB19F/"
+      name: "ELB19F - Entry Level Bioinformatics (First Course in 2019)"
 ---
 
 # Learning Objectives
